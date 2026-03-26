@@ -1,0 +1,487 @@
+2026-03-22 23:08:21,363 [INFO] ✅ Executed: CREATE CONSTRAINT patent_pub_num IF NOT EXISTS FOR (p:Patent...
+2026-03-22 23:08:21,363 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT patent_pub_num IF NOT EXISTS FOR (e:Patent) REQUIRE (e.publication_number) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT patent_pub_num FOR (e:Patent) REQUIRE (e.publication_number) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT patent_pub_num IF NOT EXISTS FOR (p:Patent) REQUIRE p.publication_number IS UNIQUE'
+2026-03-22 23:08:21,366 [INFO] ✅ Executed: CREATE CONSTRAINT family_id IF NOT EXISTS FOR (f:Family) REQ...
+2026-03-22 23:08:21,366 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT family_id IF NOT EXISTS FOR (e:Family) REQUIRE (e.family_id) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT family_id FOR (e:Family) REQUIRE (e.family_id) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT family_id IF NOT EXISTS FOR (f:Family) REQUIRE f.family_id IS UNIQUE'
+2026-03-22 23:08:21,368 [INFO] ✅ Executed: CREATE CONSTRAINT inventor_name IF NOT EXISTS FOR (i:Invento...
+2026-03-22 23:08:21,369 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT inventor_name IF NOT EXISTS FOR (e:Inventor) REQUIRE (e.name) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT inventor_name FOR (e:Inventor) REQUIRE (e.name) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT inventor_name IF NOT EXISTS FOR (i:Inventor) REQUIRE i.name IS UNIQUE'
+2026-03-22 23:08:21,370 [INFO] ✅ Executed: CREATE CONSTRAINT assignee_name IF NOT EXISTS FOR (a:Assigne...
+2026-03-22 23:08:21,371 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT assignee_name IF NOT EXISTS FOR (e:Assignee) REQUIRE (e.name) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT assignee_name FOR (e:Assignee) REQUIRE (e.name) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT assignee_name IF NOT EXISTS FOR (a:Assignee) REQUIRE a.name IS UNIQUE'
+2026-03-22 23:08:21,373 [INFO] ✅ Executed: CREATE CONSTRAINT article_ref IF NOT EXISTS FOR (art:Article...
+2026-03-22 23:08:21,373 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT article_ref IF NOT EXISTS FOR (e:Article) REQUIRE (e.full_reference) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT article_ref FOR (e:Article) REQUIRE (e.full_reference) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT article_ref IF NOT EXISTS FOR (art:Article) REQUIRE art.full_reference IS UNIQUE'
+2026-03-22 23:08:21,375 [INFO] ✅ Executed: CREATE CONSTRAINT author_name IF NOT EXISTS FOR (au:Author) ...
+2026-03-22 23:08:21,376 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT author_name IF NOT EXISTS FOR (e:Author) REQUIRE (e.name) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT author_name FOR (e:Author) REQUIRE (e.name) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT author_name IF NOT EXISTS FOR (au:Author) REQUIRE au.name IS UNIQUE'
+2026-03-22 23:08:21,378 [INFO] ✅ Executed: CREATE CONSTRAINT ipc_sec IF NOT EXISTS FOR (s:IPC_Section) ...
+2026-03-22 23:08:21,378 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT ipc_sec IF NOT EXISTS FOR (e:IPC_Section) REQUIRE (e.code) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT ipc_sec FOR (e:IPC_Section) REQUIRE (e.code) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT ipc_sec IF NOT EXISTS FOR (s:IPC_Section) REQUIRE s.code IS UNIQUE'
+2026-03-22 23:08:21,382 [INFO] ✅ Executed: CREATE CONSTRAINT ipc_cls IF NOT EXISTS FOR (c:IPC_Class) RE...
+2026-03-22 23:08:21,382 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT ipc_cls IF NOT EXISTS FOR (e:IPC_Class) REQUIRE (e.code) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT ipc_cls FOR (e:IPC_Class) REQUIRE (e.code) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT ipc_cls IF NOT EXISTS FOR (c:IPC_Class) REQUIRE c.code IS UNIQUE'
+2026-03-22 23:08:21,384 [INFO] ✅ Executed: CREATE CONSTRAINT ipc_sub IF NOT EXISTS FOR (s:IPC_Subclass)...
+2026-03-22 23:08:21,385 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT ipc_sub IF NOT EXISTS FOR (e:IPC_Subclass) REQUIRE (e.code) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT ipc_sub FOR (e:IPC_Subclass) REQUIRE (e.code) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT ipc_sub IF NOT EXISTS FOR (s:IPC_Subclass) REQUIRE s.code IS UNIQUE'
+2026-03-22 23:08:21,386 [INFO] ✅ Executed: CREATE CONSTRAINT ipc_grp IF NOT EXISTS FOR (g:IPC_Group) RE...
+2026-03-22 23:08:21,387 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT ipc_grp IF NOT EXISTS FOR (e:IPC_Group) REQUIRE (e.code) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT ipc_grp FOR (e:IPC_Group) REQUIRE (e.code) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT ipc_grp IF NOT EXISTS FOR (g:IPC_Group) REQUIRE g.code IS UNIQUE'
+2026-03-22 23:08:21,389 [INFO] ✅ Executed: CREATE INDEX patent_title_idx IF NOT EXISTS FOR (p:Patent) O...
+2026-03-22 23:08:21,390 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE RANGE INDEX patent_title_idx IF NOT EXISTS FOR (e:Patent) ON (e.title)' has no effect. The index or constraint specified by 'RANGE INDEX patent_title FOR (e:Patent) ON (e.title)' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE INDEX patent_title_idx IF NOT EXISTS FOR (p:Patent) ON (p.title)'
+2026-03-22 23:08:21,392 [INFO] ✅ Executed: CREATE INDEX article_title_idx IF NOT EXISTS FOR (art:Articl...
+2026-03-22 23:08:21,393 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE RANGE INDEX article_title_idx IF NOT EXISTS FOR (e:Article) ON (e.title)' has no effect. The index or constraint specified by 'RANGE INDEX article_title_idx FOR (e:Article) ON (e.title)' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE INDEX article_title_idx IF NOT EXISTS FOR (art:Article) ON (art.title)'
+2026-03-22 23:08:21,394 [INFO] ✅ Executed: CREATE INDEX country_code_idx IF NOT EXISTS FOR (p:Patent) O...
+2026-03-22 23:08:21,395 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE RANGE INDEX country_code_idx IF NOT EXISTS FOR (e:Patent) ON (e.country_code)' has no effect. The index or constraint specified by 'RANGE INDEX country_code_idx FOR (e:Patent) ON (e.country_code)' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE INDEX country_code_idx IF NOT EXISTS FOR (p:Patent) ON (p.country_code)'
+2026-03-22 23:08:21,397 [INFO] ✅ Executed: CREATE INDEX author_name_search IF NOT EXISTS FOR (au:Author...
+2026-03-22 23:08:21,397 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE RANGE INDEX author_name_search IF NOT EXISTS FOR (e:Author) ON (e.name)' has no effect. The index or constraint specified by 'RANGE INDEX author_name FOR (e:Author) ON (e.name)' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE INDEX author_name_search IF NOT EXISTS FOR (au:Author) ON (au.name)'
+2026-03-22 23:08:21,398 [INFO] All graph constraints and indexes applied.
+2026-03-22 23:08:21,398 [INFO] 🚀 Starting pipeline — target=800000, chunk=500, batch=100
+2026-03-22 23:08:21,398 [INFO] 📥 Fetching chunk 1 (500 patents, 0/800000 done)...
+2026-03-22 23:08:21,398 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+2026-03-22 23:08:33,601 [INFO] ✅ Executed: CREATE CONSTRAINT patent_pub_num IF NOT EXISTS FOR (p:Patent...
+2026-03-22 23:08:33,602 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT patent_pub_num IF NOT EXISTS FOR (e:Patent) REQUIRE (e.publication_number) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT patent_pub_num FOR (e:Patent) REQUIRE (e.publication_number) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT patent_pub_num IF NOT EXISTS FOR (p:Patent) REQUIRE p.publication_number IS UNIQUE'
+2026-03-22 23:08:33,604 [INFO] ✅ Executed: CREATE CONSTRAINT family_id IF NOT EXISTS FOR (f:Family) REQ...
+2026-03-22 23:08:33,604 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT family_id IF NOT EXISTS FOR (e:Family) REQUIRE (e.family_id) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT family_id FOR (e:Family) REQUIRE (e.family_id) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT family_id IF NOT EXISTS FOR (f:Family) REQUIRE f.family_id IS UNIQUE'
+2026-03-22 23:08:33,606 [INFO] ✅ Executed: CREATE CONSTRAINT inventor_name IF NOT EXISTS FOR (i:Invento...
+2026-03-22 23:08:33,607 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT inventor_name IF NOT EXISTS FOR (e:Inventor) REQUIRE (e.name) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT inventor_name FOR (e:Inventor) REQUIRE (e.name) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT inventor_name IF NOT EXISTS FOR (i:Inventor) REQUIRE i.name IS UNIQUE'
+2026-03-22 23:08:33,609 [INFO] ✅ Executed: CREATE CONSTRAINT assignee_name IF NOT EXISTS FOR (a:Assigne...
+2026-03-22 23:08:33,609 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT assignee_name IF NOT EXISTS FOR (e:Assignee) REQUIRE (e.name) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT assignee_name FOR (e:Assignee) REQUIRE (e.name) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT assignee_name IF NOT EXISTS FOR (a:Assignee) REQUIRE a.name IS UNIQUE'
+2026-03-22 23:08:33,611 [INFO] ✅ Executed: CREATE CONSTRAINT article_ref IF NOT EXISTS FOR (art:Article...
+2026-03-22 23:08:33,612 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT article_ref IF NOT EXISTS FOR (e:Article) REQUIRE (e.full_reference) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT article_ref FOR (e:Article) REQUIRE (e.full_reference) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT article_ref IF NOT EXISTS FOR (art:Article) REQUIRE art.full_reference IS UNIQUE'
+2026-03-22 23:08:33,613 [INFO] ✅ Executed: CREATE CONSTRAINT author_name IF NOT EXISTS FOR (au:Author) ...
+2026-03-22 23:08:33,614 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT author_name IF NOT EXISTS FOR (e:Author) REQUIRE (e.name) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT author_name FOR (e:Author) REQUIRE (e.name) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT author_name IF NOT EXISTS FOR (au:Author) REQUIRE au.name IS UNIQUE'
+2026-03-22 23:08:33,616 [INFO] ✅ Executed: CREATE CONSTRAINT ipc_sec IF NOT EXISTS FOR (s:IPC_Section) ...
+2026-03-22 23:08:33,616 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT ipc_sec IF NOT EXISTS FOR (e:IPC_Section) REQUIRE (e.code) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT ipc_sec FOR (e:IPC_Section) REQUIRE (e.code) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT ipc_sec IF NOT EXISTS FOR (s:IPC_Section) REQUIRE s.code IS UNIQUE'
+2026-03-22 23:08:33,618 [INFO] ✅ Executed: CREATE CONSTRAINT ipc_cls IF NOT EXISTS FOR (c:IPC_Class) RE...
+2026-03-22 23:08:33,619 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT ipc_cls IF NOT EXISTS FOR (e:IPC_Class) REQUIRE (e.code) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT ipc_cls FOR (e:IPC_Class) REQUIRE (e.code) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT ipc_cls IF NOT EXISTS FOR (c:IPC_Class) REQUIRE c.code IS UNIQUE'
+2026-03-22 23:08:33,620 [INFO] ✅ Executed: CREATE CONSTRAINT ipc_sub IF NOT EXISTS FOR (s:IPC_Subclass)...
+2026-03-22 23:08:33,621 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT ipc_sub IF NOT EXISTS FOR (e:IPC_Subclass) REQUIRE (e.code) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT ipc_sub FOR (e:IPC_Subclass) REQUIRE (e.code) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT ipc_sub IF NOT EXISTS FOR (s:IPC_Subclass) REQUIRE s.code IS UNIQUE'
+2026-03-22 23:08:33,623 [INFO] ✅ Executed: CREATE CONSTRAINT ipc_grp IF NOT EXISTS FOR (g:IPC_Group) RE...
+2026-03-22 23:08:33,624 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE CONSTRAINT ipc_grp IF NOT EXISTS FOR (e:IPC_Group) REQUIRE (e.code) IS UNIQUE' has no effect. The index or constraint specified by 'CONSTRAINT ipc_grp FOR (e:IPC_Group) REQUIRE (e.code) IS UNIQUE' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE CONSTRAINT ipc_grp IF NOT EXISTS FOR (g:IPC_Group) REQUIRE g.code IS UNIQUE'
+2026-03-22 23:08:33,626 [INFO] ✅ Executed: CREATE INDEX patent_title_idx IF NOT EXISTS FOR (p:Patent) O...
+2026-03-22 23:08:33,626 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE RANGE INDEX patent_title_idx IF NOT EXISTS FOR (e:Patent) ON (e.title)' has no effect. The index or constraint specified by 'RANGE INDEX patent_title FOR (e:Patent) ON (e.title)' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE INDEX patent_title_idx IF NOT EXISTS FOR (p:Patent) ON (p.title)'
+2026-03-22 23:08:33,628 [INFO] ✅ Executed: CREATE INDEX article_title_idx IF NOT EXISTS FOR (art:Articl...
+2026-03-22 23:08:33,628 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE RANGE INDEX article_title_idx IF NOT EXISTS FOR (e:Article) ON (e.title)' has no effect. The index or constraint specified by 'RANGE INDEX article_title_idx FOR (e:Article) ON (e.title)' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE INDEX article_title_idx IF NOT EXISTS FOR (art:Article) ON (art.title)'
+2026-03-22 23:08:33,630 [INFO] ✅ Executed: CREATE INDEX country_code_idx IF NOT EXISTS FOR (p:Patent) O...
+2026-03-22 23:08:33,631 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE RANGE INDEX country_code_idx IF NOT EXISTS FOR (e:Patent) ON (e.country_code)' has no effect. The index or constraint specified by 'RANGE INDEX country_code_idx FOR (e:Patent) ON (e.country_code)' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE INDEX country_code_idx IF NOT EXISTS FOR (p:Patent) ON (p.country_code)'
+2026-03-22 23:08:33,633 [INFO] ✅ Executed: CREATE INDEX author_name_search IF NOT EXISTS FOR (au:Author...
+2026-03-22 23:08:33,633 [INFO] Received notification from DBMS server: <GqlStatusObject gql_status='00NA0', status_description="note: successful completion - index or constraint already exists. The command 'CREATE RANGE INDEX author_name_search IF NOT EXISTS FOR (e:Author) ON (e.name)' has no effect. The index or constraint specified by 'RANGE INDEX author_name FOR (e:Author) ON (e.name)' already exists.", position=None, raw_classification='SCHEMA', classification=<NotificationClassification.SCHEMA: 'SCHEMA'>, raw_severity='INFORMATION', severity=<NotificationSeverity.INFORMATION: 'INFORMATION'>, diagnostic_record={'_classification': 'SCHEMA', '_severity': 'INFORMATION', 'OPERATION': '', 'OPERATION_CODE': '0', 'CURRENT_SCHEMA': '/'}> for query: 'CREATE INDEX author_name_search IF NOT EXISTS FOR (au:Author) ON (au.name)'
+2026-03-22 23:08:33,633 [INFO] All graph constraints and indexes applied.
+2026-03-22 23:08:33,633 [INFO] 🚀 Starting pipeline — target=800000, chunk=500, batch=100
+2026-03-22 23:08:33,633 [INFO] 📥 Fetching chunk 1 (500 patents, 0/800000 done)...
+2026-03-22 23:08:33,633 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+/home/yacoubcherouali/kg-builder/patentmuse-ggc-KG/venv/lib/python3.11/site-packages/google/cloud/bigquery/table.py:1994: UserWarning: BigQuery Storage module not found, fetch data with the REST endpoint instead.
+  warnings.warn(
+2026-03-22 23:08:36,353 [INFO] ✅ Fetched 500 patents
+2026-03-22 23:08:36,355 [INFO] 📖 Patents with NPL citations: 18/500
+2026-03-22 23:08:36,355 [INFO] 📖 Total NPL citations: 27
+2026-03-22 23:08:36,355 [INFO] 📊 Total citations (all types): 1000
+2026-03-22 23:08:36,356 [INFO] 
+📄 Sample Patent: CN-120107555-B
+2026-03-22 23:08:36,356 [INFO]    Total citations: 2
+2026-03-22 23:08:36,356 [INFO]    NPL citations: 2
+2026-03-22 23:08:36,356 [INFO]    First NPL: An efficient network for object detection in scale-imbalanced remote sensing images;Zhongyu Li;DE GR...
+2026-03-22 23:08:36,356 [INFO] 📦 Chunk 1: 500 patents to process
+2026-03-22 23:08:36,420 [INFO] Neo4j Batch Stats:
+2026-03-22 23:08:36,420 [INFO]   • Nodes created: 231
+2026-03-22 23:08:36,420 [INFO]   • Relationships created: 538
+2026-03-22 23:08:36,420 [INFO]   • Properties set: 731
+2026-03-22 23:08:39,821 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:08:39,821 [INFO]   ✅ 100/500 in chunk — 100 total
+2026-03-22 23:08:39,876 [INFO] Neo4j Batch Stats:
+2026-03-22 23:08:39,876 [INFO]   • Nodes created: 237
+2026-03-22 23:08:39,876 [INFO]   • Relationships created: 570
+2026-03-22 23:08:39,876 [INFO]   • Properties set: 737
+2026-03-22 23:08:42,824 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:08:42,824 [INFO]   ✅ 200/500 in chunk — 200 total
+2026-03-22 23:08:42,878 [INFO] Neo4j Batch Stats:
+2026-03-22 23:08:42,879 [INFO]   • Nodes created: 236
+2026-03-22 23:08:42,879 [INFO]   • Relationships created: 536
+2026-03-22 23:08:42,879 [INFO]   • Properties set: 736
+2026-03-22 23:08:45,898 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:08:45,898 [INFO]   ✅ 300/500 in chunk — 300 total
+2026-03-22 23:08:45,951 [INFO] Neo4j Batch Stats:
+2026-03-22 23:08:45,951 [INFO]   • Nodes created: 241
+2026-03-22 23:08:45,951 [INFO]   • Relationships created: 510
+2026-03-22 23:08:45,951 [INFO]   • Properties set: 741
+2026-03-22 23:08:49,245 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:08:49,245 [INFO]   ✅ 400/500 in chunk — 400 total
+2026-03-22 23:08:49,298 [INFO] Neo4j Batch Stats:
+2026-03-22 23:08:49,298 [INFO]   • Nodes created: 243
+2026-03-22 23:08:49,298 [INFO]   • Relationships created: 539
+2026-03-22 23:08:49,298 [INFO]   • Properties set: 743
+2026-03-22 23:08:52,683 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:08:52,683 [INFO]   ✅ 500/500 in chunk — 500 total
+2026-03-22 23:08:52,683 [INFO] 📥 Fetching chunk 2 (500 patents, 500/800000 done)...
+2026-03-22 23:08:52,683 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+/home/yacoubcherouali/kg-builder/patentmuse-ggc-KG/venv/lib/python3.11/site-packages/google/cloud/bigquery/table.py:1994: UserWarning: BigQuery Storage module not found, fetch data with the REST endpoint instead.
+  warnings.warn(
+2026-03-22 23:09:00,051 [INFO] ✅ Fetched 500 patents
+2026-03-22 23:09:00,052 [INFO] 📖 Patents with NPL citations: 29/500
+2026-03-22 23:09:00,052 [INFO] 📖 Total NPL citations: 35
+2026-03-22 23:09:00,053 [INFO] 📊 Total citations (all types): 1000
+2026-03-22 23:09:00,053 [INFO] 
+📄 Sample Patent: CN-116063554-B
+2026-03-22 23:09:00,053 [INFO]    Total citations: 2
+2026-03-22 23:09:00,053 [INFO]    NPL citations: 2
+2026-03-22 23:09:00,053 [INFO]    First NPL: Mitochondrial Ca2+ uptake 1 (MICU1) and mitochondrial ca2+ uniporter (MCU) contribute to metabolism-...
+2026-03-22 23:09:00,053 [INFO] 📦 Chunk 2: 500 patents to process
+2026-03-22 23:09:00,115 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:00,115 [INFO]   • Nodes created: 241
+2026-03-22 23:09:00,115 [INFO]   • Relationships created: 590
+2026-03-22 23:09:00,115 [INFO]   • Properties set: 741
+2026-03-22 23:09:03,037 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:03,037 [INFO]   ✅ 100/500 in chunk — 600 total
+2026-03-22 23:09:03,091 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:03,091 [INFO]   • Nodes created: 233
+2026-03-22 23:09:03,091 [INFO]   • Relationships created: 520
+2026-03-22 23:09:03,091 [INFO]   • Properties set: 733
+2026-03-22 23:09:05,965 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:05,965 [INFO]   ✅ 200/500 in chunk — 700 total
+2026-03-22 23:09:06,018 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:06,019 [INFO]   • Nodes created: 233
+2026-03-22 23:09:06,019 [INFO]   • Relationships created: 511
+2026-03-22 23:09:06,019 [INFO]   • Properties set: 733
+2026-03-22 23:09:08,964 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:08,964 [INFO]   ✅ 300/500 in chunk — 800 total
+2026-03-22 23:09:09,020 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:09,020 [INFO]   • Nodes created: 227
+2026-03-22 23:09:09,020 [INFO]   • Relationships created: 537
+2026-03-22 23:09:09,020 [INFO]   • Properties set: 727
+2026-03-22 23:09:11,947 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:11,947 [INFO]   ✅ 400/500 in chunk — 900 total
+2026-03-22 23:09:12,005 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:12,005 [INFO]   • Nodes created: 244
+2026-03-22 23:09:12,005 [INFO]   • Relationships created: 588
+2026-03-22 23:09:12,005 [INFO]   • Properties set: 747
+2026-03-22 23:09:15,277 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:15,277 [INFO]   ✅ 500/500 in chunk — 1000 total
+2026-03-22 23:09:15,277 [INFO] 📥 Fetching chunk 3 (500 patents, 1000/800000 done)...
+2026-03-22 23:09:15,277 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+/home/yacoubcherouali/kg-builder/patentmuse-ggc-KG/venv/lib/python3.11/site-packages/google/cloud/bigquery/table.py:1994: UserWarning: BigQuery Storage module not found, fetch data with the REST endpoint instead.
+  warnings.warn(
+2026-03-22 23:09:21,377 [INFO] ✅ Fetched 500 patents
+2026-03-22 23:09:21,378 [INFO] 📖 Patents with NPL citations: 18/500
+2026-03-22 23:09:21,378 [INFO] 📖 Total NPL citations: 19
+2026-03-22 23:09:21,378 [INFO] 📊 Total citations (all types): 1000
+2026-03-22 23:09:21,379 [INFO] 
+📄 Sample Patent: GB-2640175-A
+2026-03-22 23:09:21,379 [INFO]    Total citations: 2
+2026-03-22 23:09:21,379 [INFO]    NPL citations: 2
+2026-03-22 23:09:21,379 [INFO]    First NPL: CRYOGENIC MIXED REFRIGERANT PROCESSES, 2008, VENKATARATHNAM G, "Chapter 6 - Natural gas liquefaction...
+2026-03-22 23:09:21,379 [INFO] 📦 Chunk 3: 500 patents to process
+2026-03-22 23:09:21,434 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:21,435 [INFO]   • Nodes created: 234
+2026-03-22 23:09:21,435 [INFO]   • Relationships created: 542
+2026-03-22 23:09:21,435 [INFO]   • Properties set: 734
+2026-03-22 23:09:24,530 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:24,530 [INFO]   ✅ 100/500 in chunk — 1100 total
+2026-03-22 23:09:24,587 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:24,587 [INFO]   • Nodes created: 250
+2026-03-22 23:09:24,587 [INFO]   • Relationships created: 545
+2026-03-22 23:09:24,587 [INFO]   • Properties set: 750
+2026-03-22 23:09:27,558 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:27,558 [INFO]   ✅ 200/500 in chunk — 1200 total
+2026-03-22 23:09:27,612 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:27,612 [INFO]   • Nodes created: 242
+2026-03-22 23:09:27,612 [INFO]   • Relationships created: 549
+2026-03-22 23:09:27,612 [INFO]   • Properties set: 742
+2026-03-22 23:09:30,519 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:30,519 [INFO]   ✅ 300/500 in chunk — 1300 total
+2026-03-22 23:09:30,574 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:30,574 [INFO]   • Nodes created: 244
+2026-03-22 23:09:30,575 [INFO]   • Relationships created: 571
+2026-03-22 23:09:30,575 [INFO]   • Properties set: 747
+2026-03-22 23:09:33,589 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:33,589 [INFO]   ✅ 400/500 in chunk — 1400 total
+2026-03-22 23:09:33,663 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:33,663 [INFO]   • Nodes created: 238
+2026-03-22 23:09:33,663 [INFO]   • Relationships created: 544
+2026-03-22 23:09:33,663 [INFO]   • Properties set: 738
+2026-03-22 23:09:36,373 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:36,373 [INFO]   ✅ 500/500 in chunk — 1500 total
+2026-03-22 23:09:36,373 [INFO] 📥 Fetching chunk 4 (500 patents, 1500/800000 done)...
+2026-03-22 23:09:36,373 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+/home/yacoubcherouali/kg-builder/patentmuse-ggc-KG/venv/lib/python3.11/site-packages/google/cloud/bigquery/table.py:1994: UserWarning: BigQuery Storage module not found, fetch data with the REST endpoint instead.
+  warnings.warn(
+2026-03-22 23:09:43,415 [INFO] ✅ Fetched 500 patents
+2026-03-22 23:09:43,416 [INFO] 📖 Patents with NPL citations: 17/500
+2026-03-22 23:09:43,416 [INFO] 📖 Total NPL citations: 20
+2026-03-22 23:09:43,416 [INFO] 📊 Total citations (all types): 1000
+2026-03-22 23:09:43,417 [INFO] 
+📄 Sample Patent: AU-2024200723-B2
+2026-03-22 23:09:43,417 [INFO]    Total citations: 2
+2026-03-22 23:09:43,417 [INFO]    NPL citations: 2
+2026-03-22 23:09:43,417 [INFO]    First NPL: CALCABRINI ANDRES ET AL:"Low-breakdown-voltage solar cells for shading-tolerant photovoltaic modules...
+2026-03-22 23:09:43,417 [INFO] 📦 Chunk 4: 500 patents to process
+2026-03-22 23:09:43,472 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:43,473 [INFO]   • Nodes created: 238
+2026-03-22 23:09:43,473 [INFO]   • Relationships created: 572
+2026-03-22 23:09:43,473 [INFO]   • Properties set: 738
+2026-03-22 23:09:50,435 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:50,435 [INFO]   ✅ 100/500 in chunk — 1600 total
+2026-03-22 23:09:50,490 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:50,490 [INFO]   • Nodes created: 234
+2026-03-22 23:09:50,490 [INFO]   • Relationships created: 568
+2026-03-22 23:09:50,490 [INFO]   • Properties set: 734
+2026-03-22 23:09:53,668 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:53,668 [INFO]   ✅ 200/500 in chunk — 1700 total
+2026-03-22 23:09:53,723 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:53,723 [INFO]   • Nodes created: 235
+2026-03-22 23:09:53,723 [INFO]   • Relationships created: 552
+2026-03-22 23:09:53,723 [INFO]   • Properties set: 735
+2026-03-22 23:09:56,366 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:56,366 [INFO]   ✅ 300/500 in chunk — 1800 total
+2026-03-22 23:09:56,417 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:56,417 [INFO]   • Nodes created: 228
+2026-03-22 23:09:56,417 [INFO]   • Relationships created: 521
+2026-03-22 23:09:56,418 [INFO]   • Properties set: 728
+2026-03-22 23:09:59,411 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:09:59,412 [INFO]   ✅ 400/500 in chunk — 1900 total
+2026-03-22 23:09:59,471 [INFO] Neo4j Batch Stats:
+2026-03-22 23:09:59,471 [INFO]   • Nodes created: 239
+2026-03-22 23:09:59,471 [INFO]   • Relationships created: 559
+2026-03-22 23:09:59,471 [INFO]   • Properties set: 739
+2026-03-22 23:10:02,700 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:02,700 [INFO]   ✅ 500/500 in chunk — 2000 total
+2026-03-22 23:10:02,700 [INFO] 📥 Fetching chunk 5 (500 patents, 2000/800000 done)...
+2026-03-22 23:10:02,701 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+/home/yacoubcherouali/kg-builder/patentmuse-ggc-KG/venv/lib/python3.11/site-packages/google/cloud/bigquery/table.py:1994: UserWarning: BigQuery Storage module not found, fetch data with the REST endpoint instead.
+  warnings.warn(
+2026-03-22 23:10:08,830 [INFO] ✅ Fetched 500 patents
+2026-03-22 23:10:08,831 [INFO] 📖 Patents with NPL citations: 17/500
+2026-03-22 23:10:08,831 [INFO] 📖 Total NPL citations: 24
+2026-03-22 23:10:08,831 [INFO] 📊 Total citations (all types): 1000
+2026-03-22 23:10:08,831 [INFO] 
+📄 Sample Patent: CN-116082586-B
+2026-03-22 23:10:08,831 [INFO]    Total citations: 2
+2026-03-22 23:10:08,832 [INFO]    NPL citations: 2
+2026-03-22 23:10:08,832 [INFO]    First NPL: 低温合成PSN微球及其裂解制备Si-C-N空心陶瓷微球;王雯;刘洪丽;李婧;罗永明;康伟;张海媛;;人工晶体学报;20150915(09);第2469页第2.2节和第2471页第3.1节...
+2026-03-22 23:10:08,832 [INFO] 📦 Chunk 5: 500 patents to process
+2026-03-22 23:10:08,885 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:08,885 [INFO]   • Nodes created: 218
+2026-03-22 23:10:08,885 [INFO]   • Relationships created: 514
+2026-03-22 23:10:08,885 [INFO]   • Properties set: 718
+2026-03-22 23:10:11,730 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:11,730 [INFO]   ✅ 100/500 in chunk — 2100 total
+2026-03-22 23:10:11,780 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:11,781 [INFO]   • Nodes created: 226
+2026-03-22 23:10:11,781 [INFO]   • Relationships created: 513
+2026-03-22 23:10:11,781 [INFO]   • Properties set: 726
+2026-03-22 23:10:14,797 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:14,797 [INFO]   ✅ 200/500 in chunk — 2200 total
+2026-03-22 23:10:14,848 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:14,849 [INFO]   • Nodes created: 222
+2026-03-22 23:10:14,849 [INFO]   • Relationships created: 529
+2026-03-22 23:10:14,849 [INFO]   • Properties set: 722
+2026-03-22 23:10:17,786 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:17,786 [INFO]   ✅ 300/500 in chunk — 2300 total
+2026-03-22 23:10:17,839 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:17,839 [INFO]   • Nodes created: 231
+2026-03-22 23:10:17,839 [INFO]   • Relationships created: 492
+2026-03-22 23:10:17,839 [INFO]   • Properties set: 731
+2026-03-22 23:10:23,074 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:23,074 [INFO]   ✅ 400/500 in chunk — 2400 total
+2026-03-22 23:10:23,127 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:23,127 [INFO]   • Nodes created: 250
+2026-03-22 23:10:23,127 [INFO]   • Relationships created: 543
+2026-03-22 23:10:23,128 [INFO]   • Properties set: 750
+2026-03-22 23:10:26,291 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:26,292 [INFO]   ✅ 500/500 in chunk — 2500 total
+2026-03-22 23:10:26,292 [INFO] 📥 Fetching chunk 6 (500 patents, 2500/800000 done)...
+2026-03-22 23:10:26,292 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+/home/yacoubcherouali/kg-builder/patentmuse-ggc-KG/venv/lib/python3.11/site-packages/google/cloud/bigquery/table.py:1994: UserWarning: BigQuery Storage module not found, fetch data with the REST endpoint instead.
+  warnings.warn(
+2026-03-22 23:10:32,893 [INFO] ✅ Fetched 500 patents
+2026-03-22 23:10:32,894 [INFO] 📖 Patents with NPL citations: 19/500
+2026-03-22 23:10:32,894 [INFO] 📖 Total NPL citations: 26
+2026-03-22 23:10:32,894 [INFO] 📊 Total citations (all types): 1000
+2026-03-22 23:10:32,895 [INFO] 
+📄 Sample Patent: CN-116615883-B
+2026-03-22 23:10:32,895 [INFO]    Total citations: 2
+2026-03-22 23:10:32,895 [INFO]    NPL citations: 2
+2026-03-22 23:10:32,895 [INFO]    First NPL: "R2-1909416_(Positioning procedures)".3GPP tsg_ran\wg2_rl2.2019,正文第4节....
+2026-03-22 23:10:32,895 [INFO] 📦 Chunk 6: 500 patents to process
+2026-03-22 23:10:32,958 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:32,959 [INFO]   • Nodes created: 256
+2026-03-22 23:10:32,959 [INFO]   • Relationships created: 584
+2026-03-22 23:10:32,959 [INFO]   • Properties set: 756
+2026-03-22 23:10:36,243 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:36,243 [INFO]   ✅ 100/500 in chunk — 2600 total
+2026-03-22 23:10:36,299 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:36,299 [INFO]   • Nodes created: 242
+2026-03-22 23:10:36,299 [INFO]   • Relationships created: 573
+2026-03-22 23:10:36,299 [INFO]   • Properties set: 742
+2026-03-22 23:10:39,733 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:39,733 [INFO]   ✅ 200/500 in chunk — 2700 total
+2026-03-22 23:10:39,788 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:39,788 [INFO]   • Nodes created: 252
+2026-03-22 23:10:39,788 [INFO]   • Relationships created: 571
+2026-03-22 23:10:39,788 [INFO]   • Properties set: 752
+2026-03-22 23:10:42,771 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:42,771 [INFO]   ✅ 300/500 in chunk — 2800 total
+2026-03-22 23:10:42,819 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:42,819 [INFO]   • Nodes created: 238
+2026-03-22 23:10:42,819 [INFO]   • Relationships created: 482
+2026-03-22 23:10:42,819 [INFO]   • Properties set: 738
+2026-03-22 23:10:45,799 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:45,800 [INFO]   ✅ 400/500 in chunk — 2900 total
+2026-03-22 23:10:45,857 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:45,857 [INFO]   • Nodes created: 255
+2026-03-22 23:10:45,857 [INFO]   • Relationships created: 554
+2026-03-22 23:10:45,857 [INFO]   • Properties set: 755
+2026-03-22 23:10:48,485 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:48,485 [INFO]   ✅ 500/500 in chunk — 3000 total
+2026-03-22 23:10:48,485 [INFO] 📥 Fetching chunk 7 (500 patents, 3000/800000 done)...
+2026-03-22 23:10:48,485 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+/home/yacoubcherouali/kg-builder/patentmuse-ggc-KG/venv/lib/python3.11/site-packages/google/cloud/bigquery/table.py:1994: UserWarning: BigQuery Storage module not found, fetch data with the REST endpoint instead.
+  warnings.warn(
+2026-03-22 23:10:55,240 [INFO] ✅ Fetched 500 patents
+2026-03-22 23:10:55,241 [INFO] 📖 Patents with NPL citations: 32/500
+2026-03-22 23:10:55,241 [INFO] 📖 Total NPL citations: 42
+2026-03-22 23:10:55,241 [INFO] 📊 Total citations (all types): 1000
+2026-03-22 23:10:55,242 [INFO] 
+📄 Sample Patent: EP-4624448-A1
+2026-03-22 23:10:55,242 [INFO]    Total citations: 2
+2026-03-22 23:10:55,242 [INFO]    NPL citations: 2
+2026-03-22 23:10:55,242 [INFO]    First NPL: LONGA EZWEINSTEIN PRCARLSON SCUMMINS R.: "Reversible middle cerebral artery occlusion without cranie...
+2026-03-22 23:10:55,242 [INFO] 📦 Chunk 7: 500 patents to process
+2026-03-22 23:10:55,300 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:55,300 [INFO]   • Nodes created: 227
+2026-03-22 23:10:55,300 [INFO]   • Relationships created: 555
+2026-03-22 23:10:55,300 [INFO]   • Properties set: 727
+2026-03-22 23:10:58,247 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:10:58,247 [INFO]   ✅ 100/500 in chunk — 3100 total
+2026-03-22 23:10:58,303 [INFO] Neo4j Batch Stats:
+2026-03-22 23:10:58,304 [INFO]   • Nodes created: 234
+2026-03-22 23:10:58,304 [INFO]   • Relationships created: 537
+2026-03-22 23:10:58,304 [INFO]   • Properties set: 734
+2026-03-22 23:11:01,242 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:01,242 [INFO]   ✅ 200/500 in chunk — 3200 total
+2026-03-22 23:11:01,299 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:01,299 [INFO]   • Nodes created: 228
+2026-03-22 23:11:01,299 [INFO]   • Relationships created: 554
+2026-03-22 23:11:01,299 [INFO]   • Properties set: 731
+2026-03-22 23:11:03,929 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:03,930 [INFO]   ✅ 300/500 in chunk — 3300 total
+2026-03-22 23:11:03,982 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:03,982 [INFO]   • Nodes created: 242
+2026-03-22 23:11:03,982 [INFO]   • Relationships created: 531
+2026-03-22 23:11:03,982 [INFO]   • Properties set: 742
+2026-03-22 23:11:06,906 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:06,906 [INFO]   ✅ 400/500 in chunk — 3400 total
+2026-03-22 23:11:06,967 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:06,967 [INFO]   • Nodes created: 227
+2026-03-22 23:11:06,967 [INFO]   • Relationships created: 545
+2026-03-22 23:11:06,967 [INFO]   • Properties set: 727
+2026-03-22 23:11:10,208 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:10,208 [INFO]   ✅ 500/500 in chunk — 3500 total
+2026-03-22 23:11:10,208 [INFO] 📥 Fetching chunk 8 (500 patents, 3500/800000 done)...
+2026-03-22 23:11:10,208 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+/home/yacoubcherouali/kg-builder/patentmuse-ggc-KG/venv/lib/python3.11/site-packages/google/cloud/bigquery/table.py:1994: UserWarning: BigQuery Storage module not found, fetch data with the REST endpoint instead.
+  warnings.warn(
+2026-03-22 23:11:16,862 [INFO] ✅ Fetched 500 patents
+2026-03-22 23:11:16,863 [INFO] 📖 Patents with NPL citations: 28/500
+2026-03-22 23:11:16,863 [INFO] 📖 Total NPL citations: 34
+2026-03-22 23:11:16,863 [INFO] 📊 Total citations (all types): 1000
+2026-03-22 23:11:16,864 [INFO] 
+📄 Sample Patent: CN-115221723-B
+2026-03-22 23:11:16,864 [INFO]    Total citations: 2
+2026-03-22 23:11:16,864 [INFO]    NPL citations: 2
+2026-03-22 23:11:16,864 [INFO]    First NPL: Aggregate Operation Method of Adjustable Power Domain for Technical Virtual Power Plant Based on Cos...
+2026-03-22 23:11:16,864 [INFO] 📦 Chunk 8: 500 patents to process
+2026-03-22 23:11:16,923 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:16,923 [INFO]   • Nodes created: 225
+2026-03-22 23:11:16,923 [INFO]   • Relationships created: 554
+2026-03-22 23:11:16,923 [INFO]   • Properties set: 725
+2026-03-22 23:11:19,944 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:19,944 [INFO]   ✅ 100/500 in chunk — 3600 total
+2026-03-22 23:11:19,999 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:19,999 [INFO]   • Nodes created: 222
+2026-03-22 23:11:19,999 [INFO]   • Relationships created: 494
+2026-03-22 23:11:20,000 [INFO]   • Properties set: 725
+2026-03-22 23:11:22,952 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:22,952 [INFO]   ✅ 200/500 in chunk — 3700 total
+2026-03-22 23:11:23,004 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:23,004 [INFO]   • Nodes created: 238
+2026-03-22 23:11:23,004 [INFO]   • Relationships created: 509
+2026-03-22 23:11:23,004 [INFO]   • Properties set: 738
+2026-03-22 23:11:26,170 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:26,170 [INFO]   ✅ 300/500 in chunk — 3800 total
+2026-03-22 23:11:26,224 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:26,224 [INFO]   • Nodes created: 238
+2026-03-22 23:11:26,224 [INFO]   • Relationships created: 539
+2026-03-22 23:11:26,224 [INFO]   • Properties set: 738
+2026-03-22 23:11:29,411 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:29,411 [INFO]   ✅ 400/500 in chunk — 3900 total
+2026-03-22 23:11:29,473 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:29,473 [INFO]   • Nodes created: 245
+2026-03-22 23:11:29,473 [INFO]   • Relationships created: 559
+2026-03-22 23:11:29,473 [INFO]   • Properties set: 745
+2026-03-22 23:11:33,749 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:33,749 [INFO]   ✅ 500/500 in chunk — 4000 total
+2026-03-22 23:11:33,749 [INFO] 📥 Fetching chunk 9 (500 patents, 4000/800000 done)...
+2026-03-22 23:11:33,749 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+/home/yacoubcherouali/kg-builder/patentmuse-ggc-KG/venv/lib/python3.11/site-packages/google/cloud/bigquery/table.py:1994: UserWarning: BigQuery Storage module not found, fetch data with the REST endpoint instead.
+  warnings.warn(
+2026-03-22 23:11:40,158 [INFO] ✅ Fetched 500 patents
+2026-03-22 23:11:40,160 [INFO] 📖 Patents with NPL citations: 16/500
+2026-03-22 23:11:40,160 [INFO] 📖 Total NPL citations: 19
+2026-03-22 23:11:40,160 [INFO] 📊 Total citations (all types): 1000
+2026-03-22 23:11:40,161 [INFO] 
+📄 Sample Patent: CN-118978567-B
+2026-03-22 23:11:40,161 [INFO]    Total citations: 2
+2026-03-22 23:11:40,161 [INFO]    NPL citations: 2
+2026-03-22 23:11:40,161 [INFO]    First NPL: Leu-Gly;PUBCHEM;PUBCHEM;20050711;1...
+2026-03-22 23:11:40,161 [INFO] 📦 Chunk 9: 500 patents to process
+2026-03-22 23:11:40,215 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:40,215 [INFO]   • Nodes created: 219
+2026-03-22 23:11:40,215 [INFO]   • Relationships created: 500
+2026-03-22 23:11:40,215 [INFO]   • Properties set: 719
+2026-03-22 23:11:43,123 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:43,124 [INFO]   ✅ 100/500 in chunk — 4100 total
+2026-03-22 23:11:43,179 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:43,179 [INFO]   • Nodes created: 214
+2026-03-22 23:11:43,179 [INFO]   • Relationships created: 544
+2026-03-22 23:11:43,179 [INFO]   • Properties set: 714
+2026-03-22 23:11:45,801 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:45,801 [INFO]   ✅ 200/500 in chunk — 4200 total
+2026-03-22 23:11:45,857 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:45,858 [INFO]   • Nodes created: 230
+2026-03-22 23:11:45,858 [INFO]   • Relationships created: 543
+2026-03-22 23:11:45,858 [INFO]   • Properties set: 730
+2026-03-22 23:11:48,758 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:48,758 [INFO]   ✅ 300/500 in chunk — 4300 total
+2026-03-22 23:11:48,814 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:48,814 [INFO]   • Nodes created: 218
+2026-03-22 23:11:48,814 [INFO]   • Relationships created: 526
+2026-03-22 23:11:48,814 [INFO]   • Properties set: 718
+2026-03-22 23:11:51,548 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:51,548 [INFO]   ✅ 400/500 in chunk — 4400 total
+2026-03-22 23:11:51,602 [INFO] Neo4j Batch Stats:
+2026-03-22 23:11:51,602 [INFO]   • Nodes created: 261
+2026-03-22 23:11:51,602 [INFO]   • Relationships created: 517
+2026-03-22 23:11:51,602 [INFO]   • Properties set: 761
+2026-03-22 23:11:54,837 [INFO] ✅ Marked 100 patents as processed
+2026-03-22 23:11:54,838 [INFO]   ✅ 500/500 in chunk — 4500 total
+2026-03-22 23:11:54,838 [INFO] 📥 Fetching chunk 10 (500 patents, 4500/800000 done)...
+2026-03-22 23:11:54,838 [INFO] 📊 Fetching 500 patents (offset: 0, require_npl: False)
+/home/yacoubcherouali/kg-builder/patentmuse-ggc-KG/venv/lib/python3.11/site-packages/google/cloud/bigquery/table.py:1994: UserWarning: BigQuery Storage module not found, fetch data with the REST endpoint instead.
+  warnings.warn(
+2026-03-22 23:12:01,609 [INFO] ✅ Fetched 500 patents
+2026-03-22 23:12:01,610 [INFO] 📖 Patents with NPL citations: 19/500
+2026-03-22 23:12:01,610 [INFO] 📖 Total NPL citations: 26
+2026-03-22 23:12:01,611 [INFO] 📊 Total citations (all types): 1000
+2026-03-22 23:12:01,611 [INFO] 
+📄 Sample Patent: AU-2019359458-B9
+2026-03-22 23:12:01,611 [INFO]    Total citations: 2
+2026-03-22 23:12:01,611 [INFO]    NPL citations: 2
+2026-03-22 23:12:01,611 [INFO]    First NPL: TAO JIA ET AL: MOLECULAR PHARMACEUTICS, vol. 14, no. 8, 29 September 2016 (2016-09-29), US, pages 25...
+2026-03-22 23:12:01,612 [INFO] 📦 Chunk 10: 500 patents to process
+2026-03-22 23:12:01,678 [INFO] Neo4j Batch Stats:
+2026-03-22 23:12:01,678 [INFO]   • Nodes created: 194
+2026-03-22 23:12:01,678 [INFO]   • Relationships created: 446
+2026-03-22 23:12:01,678 [INFO]   • Properties set: 694
+2026-03-22 23:12:09,283 [ERROR] ❌ Failed to mark patents as processed: 400 GET https://bigquery.googleapis.com/bigquery/v2/projects/patentmuse-kg-dev/queries/ebf69353-0a1a-4048-9801-ac1353c27d9c?maxResults=0&location=US&prettyPrint=false: Could not serialize access to table patentmuse-kg-dev:ipable_patents_private_us.patents_20251001 due to concurrent update
+
+Location: US
+Job ID: ebf69353-0a1a-4048-9801-ac1353c27d9c
+
+2026-03-22 23:12:09,283 [ERROR] ❌ Pipeline halted: 400 GET https://bigquery.googleapis.com/bigquery/v2/projects/patentmuse-kg-dev/queries/ebf69353-0a1a-4048-9801-ac1353c27d9c?maxResults=0&location=US&prettyPrint=false: Could not serialize access to table patentmuse-kg-dev:ipable_patents_private_us.patents_20251001 due to concurrent update
+
+Location: US
+Job ID: ebf69353-0a1a-4048-9801-ac1353c27d9c
+
+2026-03-22 23:12:09,283 [INFO] 🏁 Pipeline finished — 4500 patents ingested total.
