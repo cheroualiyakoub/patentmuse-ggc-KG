@@ -99,11 +99,21 @@ class BigQueryClient:
                     ARRAY(
                         SELECT cit.npl_text
                         FROM UNNEST(pub.citation) AS cit
-                        WHERE cit.npl_text IS NOT NULL 
+                        WHERE cit.npl_text IS NOT NULL
                           AND cit.npl_text != ''
                           AND LENGTH(cit.npl_text) > 10  -- Filter out garbage
                     ) AS npl_citations,
-                    
+
+                    -- Extract patent-to-patent citations
+                    ARRAY(
+                        SELECT AS STRUCT
+                            cit.publication_number AS cited_pub,
+                            cit.category
+                        FROM UNNEST(pub.citation) AS cit
+                        WHERE cit.publication_number IS NOT NULL
+                          AND cit.publication_number != ''
+                    ) AS patent_citations,
+
                     -- Count total citations for debugging
                     ARRAY_LENGTH(pub.citation) as total_citations
                     
@@ -118,7 +128,7 @@ class BigQueryClient:
                         WHERE t.language = 'en'
                     )
             )
-            SELECT 
+            SELECT
                 publication_number,
                 title_localized,
                 abstract_localized,
@@ -130,6 +140,7 @@ class BigQueryClient:
                 country_code,
                 family_id,
                 npl_citations,
+                patent_citations,
                 ARRAY_LENGTH(npl_citations) as npl_count,
                 total_citations
             FROM npl_extracted
@@ -222,6 +233,52 @@ class BigQueryClient:
             log.error(f"❌ Failed to reset flags: {e}")
             raise
     
+    def fetch_patent_citations(self, limit: int = 100_000, offset: int = 0):
+        """
+        Fetch patent-to-patent citations for all processed patents.
+        Returns publication_number + array of {cited_pub, category} structs.
+
+        Cost-efficient: only fetches citation links, no full patent data.
+        Uses large chunks to minimize BigQuery scan costs.
+        """
+        query = f"""
+            SELECT
+                idx.publication_number,
+                ARRAY(
+                    SELECT AS STRUCT
+                        cit.publication_number AS cited_pub,
+                        cit.category
+                    FROM UNNEST(pub.citation) AS cit
+                    WHERE cit.publication_number IS NOT NULL
+                      AND cit.publication_number != ''
+                ) AS patent_citations
+            FROM `{GCP_PROJECT_ID}.{BQ_DATASET}.{BQ_PATENTS_TABLE}` AS idx
+            JOIN `{PUBLIC_PATENTS_TABLE}` AS pub
+                ON idx.publication_number = pub.publication_number
+            WHERE idx.is_kg_generated = TRUE
+              AND EXISTS (
+                  SELECT 1 FROM UNNEST(pub.citation) AS cit
+                  WHERE cit.publication_number IS NOT NULL
+                    AND cit.publication_number != ''
+              )
+            ORDER BY idx.publication_number
+            LIMIT {limit} OFFSET {offset}
+        """
+
+        log.info(f"📊 Fetching patent citations (limit: {limit}, offset: {offset})")
+
+        try:
+            df = self.client.query(query).to_dataframe()
+            if not df.empty:
+                total_citations = df['patent_citations'].apply(len).sum()
+                log.info(f"✅ Fetched {len(df)} patents with {total_citations} patent citations total")
+            else:
+                log.info("✅ No more patents with citations to process")
+            return df
+        except Exception as e:
+            log.error(f"❌ Patent citations fetch failed: {e}")
+            raise
+
     def get_npl_statistics(self):
         """
         Get statistics about NPL coverage in your dataset.

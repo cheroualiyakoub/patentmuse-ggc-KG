@@ -11,10 +11,12 @@ NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "")
 # BigQuery
 GCP_PROJECT_ID    = "patentmuse-kg-dev"
 BQ_DATASET        = "ipable_patents_private_us"
-BQ_PATENTS_TABLE  = "patents_20250901"
+BQ_PATENTS_TABLE  = "patents_20250801"
 PUBLIC_PATENTS_TABLE = "patents-public-data.patents.publications"
 BQ_CLAIMS_TABLE   = "claims"
 
 # --- Pipeline Settings ---
 BATCH_SIZE = 100
 QUERY_LOCATION = "US"  # Crucial for cross-region performance
+
+ 

@@ -122,14 +122,34 @@ def prepare_row(row) -> Dict:
                 else:
                     log.debug(f"⚠️  No authors found in: {npl_text[:60]}...")
     
+    # ============================================================
+    # Extract Patent-to-Patent Citations
+    # ============================================================
+    patent_citations = []
+
+    patent_citations_raw = row.get("patent_citations")
+    if patent_citations_raw is not None:
+        if isinstance(patent_citations_raw, np.ndarray):
+            patent_citations_raw = patent_citations_raw.tolist()
+
+        if isinstance(patent_citations_raw, list):
+            for cit in patent_citations_raw:
+                if isinstance(cit, dict):
+                    cited_pub = cit.get('cited_pub', '')
+                    if cited_pub:
+                        patent_citations.append({
+                            'cited_pub': cited_pub,
+                            'category': cit.get('category') or '',
+                        })
+
     # Log statistics
     pub_num = row.get("publication_number", "UNKNOWN")
-    if npl_citations:
+    if npl_citations or patent_citations:
         total_authors = sum(len(npl['authors']) for npl in npl_citations)
-        log.debug(f"✅ Patent {pub_num}: {len(npl_citations)} NPL citations, {total_authors} total authors")
+        log.debug(f"✅ Patent {pub_num}: {len(npl_citations)} NPL, {len(patent_citations)} patent citations")
     else:
-        log.debug(f"ℹ️  Patent {pub_num}: No NPL citations with authors")
-    
+        log.debug(f"ℹ️  Patent {pub_num}: No citations")
+
     return {
         "publication_number": str(row.get("publication_number", "")),
         "title": title_en or "No Title",
@@ -142,6 +162,7 @@ def prepare_row(row) -> Dict:
         "assignees": assignees,
         "ipc_codes": ipc_codes,
         "npl_citations": npl_citations,
+        "patent_citations": patent_citations,
     }
 
 
@@ -225,6 +246,14 @@ def batch_ingest(tx, batch: List[Dict]):
             MERGE (author)-[:WROTE]->(art)
         )
     )
+
+    // 7. Create Patent-to-Patent Citations
+    WITH p, patent
+    FOREACH (cite IN patent.patent_citations |
+        MERGE (cited:Patent {publication_number: cite.cited_pub})
+        MERGE (p)-[r:CITES_PATENT]->(cited)
+        SET r.category = cite.category
+    )
     """
     
     try:
@@ -242,4 +271,38 @@ def batch_ingest(tx, batch: List[Dict]):
     except Exception as e:
         log.error(f"❌ Cypher execution failed: {e}")
         log.error(f"First patent in batch: {batch[0]['publication_number'] if batch else 'N/A'}")
+        raise
+
+
+def batch_ingest_patent_citations(tx, batch: List[Dict]):
+    """
+    Neo4j transaction function to create patent-to-patent citation relationships.
+
+    For each citing patent, MERGEs the cited Patent node (creates a stub if it
+    doesn't exist yet — future ingestion will enrich it automatically) and
+    creates a CITES_PATENT relationship with the citation category.
+    """
+    cypher = """
+    UNWIND $batch AS row
+    MATCH (p:Patent {publication_number: row.publication_number})
+    WITH p, row
+    UNWIND row.patent_citations AS cite
+    MERGE (cited:Patent {publication_number: cite.cited_pub})
+    MERGE (p)-[r:CITES_PATENT]->(cited)
+    SET r.category = cite.category
+    """
+
+    try:
+        result = tx.run(cypher, batch=batch)
+        summary = result.consume()
+
+        log.info(f"Patent Citation Stats:")
+        log.info(f"  • Nodes created: {summary.counters.nodes_created}")
+        log.info(f"  • Relationships created: {summary.counters.relationships_created}")
+        log.info(f"  • Properties set: {summary.counters.properties_set}")
+
+        return summary
+
+    except Exception as e:
+        log.error(f"❌ Patent citation Cypher failed: {e}")
         raise
