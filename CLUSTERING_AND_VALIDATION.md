@@ -182,13 +182,39 @@ All validation is **read-only on local Neo4j — no BigQuery, no writes, no clou
 
 ---
 
-## 6. Next steps (in priority order)
+## 6. v4 — fixing the M0 over-merge (recursive nested Leiden)
+
+v3's γ=0.3 mega level put **72% of the corpus (40,511 patents) in one blob** (M0),
+merging EPS + FOC + ECM + sensorless-PM + braking + stepper + … into a single
+top-level cluster. v4 fixes this with **recursive (nested) Leiden**: cluster at
+γ=0.3, then re-cluster any mega larger than 15% of the corpus at γ=1.0, replacing
+each oversized blob with coherent sub-megas (`cluster_h02p_v4.py`).
+
+Result (full graph):
+
+| | v3 mega (γ=0.3) | **v4 mega_fixed** |
+|---|---|---|
+| Largest cluster | 40,511 (72%) | **5,260 (9.4%)** |
+| Meaningful megas (≥1%) | 1 | **26, named** |
+| Held-out citation containment | 0.81 (blob artifact, lift 2.4) | **0.49 (lift 16.8)** |
+| vs IPC main-group (0.256 / 6.3) | — | **1.9× containment, 2.7× lift** |
+| Hierarchy | majority-vote (fake) | **true nested (parent_mega)** |
+
+Fixing the blob did **not** cost validation strength — v4 still beats IPC ~1.9× on
+held-out containment and adds a genuine 2-level hierarchy. The 26 megas are named
+from their central patents (`name_clusters_v4.py` → `mega_naming_data.json`) and
+pushed to Neo4j as `version:"v4"` (`push_clusters_v4_to_neo4j.py`), alongside v3.
+v4 is the recommended taxonomy.
+
+*(Method refinement: v4 de-duplicates reciprocal citation edges, so its γ=0.3
+baseline reads 66% vs v3's 72% — same conclusion.)*
+
+## 7. Next steps (in priority order)
 
 1. **(done) Quantitative validation** — held-out citation prediction. ✓
-2. **Fix the M0 over-merge** — the γ=0.3 mega absorbs 72% of the corpus. Test γ=0.4
-   or true nested Leiden, *measured against the validation metric above*.
-3. **LLM auto-labeling** — feed `cluster_naming_data.json` to Claude to replace the
-   hardcoded cluster names.
+2. **(done) Fix the M0 over-merge** — recursive nested Leiden → v4, 26 balanced megas. ✓
+3. **(done) Cluster naming** — v4 megas named from central patents. ✓
 4. **Second validation task** — prior-art retrieval precision@k.
-5. **Then** scale to other subclasses (recommended approach: one global graph with
+5. **Build a v4 hierarchy report** (the HTML viz currently renders v1/v2/v3).
+6. **Then** scale to other subclasses (recommended approach: one global graph with
    no IPC pre-scoping, letting communities cross IPC boundaries).

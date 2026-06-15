@@ -1,0 +1,184 @@
+[
+  {
+    "cluster_id": 0,
+    "size": 5260,
+    "parent_mega": 0,
+    "dominant_l2": 0,
+    "dominant_l2_share": 0.87
+  },
+  {
+    "cluster_id": 1755,
+    "size": 4656,
+    "parent_mega": 0,
+    "dominant_l2": 2,
+    "dominant_l2_share": 0.9
+  },
+  {
+    "cluster_id": 1748,
+    "size": 3119,
+    "parent_mega": 0,
+    "dominant_l2": 4,
+    "dominant_l2_share": 0.69
+  },
+  {
+    "cluster_id": 1757,
+    "size": 2982,
+    "parent_mega": 0,
+    "dominant_l2": 1,
+    "dominant_l2_share": 0.69
+  },
+  {
+    "cluster_id": 1756,
+    "size": 2939,
+    "parent_mega": 0,
+    "dominant_l2": 7,
+    "dominant_l2_share": 0.53
+  },
+  {
+    "cluster_id": 1750,
+    "size": 2554,
+    "parent_mega": 0,
+    "dominant_l2": 4,
+    "dominant_l2_share": 0.6
+  },
+  {
+    "cluster_id": 1752,
+    "size": 2247,
+    "parent_mega": 0,
+    "dominant_l2": 9,
+    "dominant_l2_share": 0.68
+  },
+  {
+    "cluster_id": 2,
+    "size": 2227,
+    "parent_mega": 2,
+    "dominant_l2": 8,
+    "dominant_l2_share": 0.54
+  },
+  {
+    "cluster_id": 1,
+    "size": 2144,
+    "parent_mega": 1,
+    "dominant_l2": 6,
+    "dominant_l2_share": 0.88
+  },
+  {
+    "cluster_id": 1754,
+    "size": 2081,
+    "parent_mega": 0,
+    "dominant_l2": 10,
+    "dominant_l2_share": 0.86
+  },
+  {
+    "cluster_id": 1749,
+    "size": 2022,
+    "parent_mega": 0,
+    "dominant_l2": 0,
+    "dominant_l2_share": 0.48
+  },
+  {
+    "cluster_id": 1751,
+    "size": 1963,
+    "parent_mega": 0,
+    "dominant_l2": 11,
+    "dominant_l2_share": 0.33
+  },
+  {
+    "cluster_id": 1753,
+    "size": 1754,
+    "parent_mega": 0,
+    "dominant_l2": 1,
+    "dominant_l2_share": 0.71
+  },
+  {
+    "cluster_id": 1706,
+    "size": 1716,
+    "parent_mega": 1,
+    "dominant_l2": 5,
+    "dominant_l2_share": 0.98
+  },
+  {
+    "cluster_id": 1719,
+    "size": 1521,
+    "parent_mega": 1,
+    "dominant_l2": 3,
+    "dominant_l2_share": 0.95
+  },
+  {
+    "cluster_id": 1758,
+    "size": 1425,
+    "parent_mega": 0,
+    "dominant_l2": 14,
+    "dominant_l2_share": 0.59
+  },
+  {
+    "cluster_id": 1716,
+    "size": 1342,
+    "parent_mega": 1,
+    "dominant_l2": 1,
+    "dominant_l2_share": 0.6
+  },
+  {
+    "cluster_id": 1759,
+    "size": 1286,
+    "parent_mega": 0,
+    "dominant_l2": 8,
+    "dominant_l2_share": 0.53
+  },
+  {
+    "cluster_id": 1763,
+    "size": 1207,
+    "parent_mega": 0,
+    "dominant_l2": 12,
+    "dominant_l2_share": 0.85
+  },
+  {
+    "cluster_id": 1709,
+    "size": 1204,
+    "parent_mega": 1,
+    "dominant_l2": 5,
+    "dominant_l2_share": 0.92
+  },
+  {
+    "cluster_id": 1712,
+    "size": 1121,
+    "parent_mega": 1,
+    "dominant_l2": 3,
+    "dominant_l2_share": 0.91
+  },
+  {
+    "cluster_id": 1714,
+    "size": 1010,
+    "parent_mega": 1,
+    "dominant_l2": 3,
+    "dominant_l2_share": 0.89
+  },
+  {
+    "cluster_id": 1762,
+    "size": 734,
+    "parent_mega": 0,
+    "dominant_l2": 2,
+    "dominant_l2_share": 0.84
+  },
+  {
+    "cluster_id": 1705,
+    "size": 723,
+    "parent_mega": 1,
+    "dominant_l2": 6,
+    "dominant_l2_share": 0.83
+  },
+  {
+    "cluster_id": 1715,
+    "size": 677,
+    "parent_mega": 1,
+    "dominant_l2": 3,
+    "dominant_l2_share": 0.59
+  },
+  {
+    "cluster_id": 1711,
+    "size": 668,
+    "parent_mega": 1,
+    "dominant_l2": 3,
+    "dominant_l2_share": 0.79
+  }
+]

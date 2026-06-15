@@ -1,0 +1,3773 @@
+[
+  {
+    "cluster_id": 0,
+    "size": 5260,
+    "top_central": [
+      {
+        "pub": "US-6396229-B1",
+        "degree": 200.7,
+        "title": "Method of estimating a rotor position of synchronous motor, method of controlling synchronous motor with no position sensor and a controller of synchronous motor",
+        "abstract": "In a method of accurately estimating the rotor position of a synchronous motor having saliency from observable quantities, a control system for adjusting an output frequency of an inverter on the basis of a value of axis shift of the synchronous motor to operate the motor synchronously with the outp",
+        "assignees": [
+          "HITACHI LTD"
+        ],
+        "ipc": [
+          "H02P21/24",
+          "H02P6/28",
+          "H02P21/06",
+          "H02P6/18",
+          "H02P6/182"
+        ]
+      },
+      {
+        "pub": "US-5585709-A",
+        "degree": 187.8,
+        "title": "Method and apparatus for transducerless position and velocity estimation in drives for AC machines",
+        "abstract": "Power is provided to the stator windings of an AC machine which includes a component at the fundamental drive frequency for the machine and a superimposed signal component which is at a substantially higher frequency than the drive power. The rotor has saliencies which result in a change in impedanc",
+        "assignees": [
+          "WISCONSIN ALUMNI RES FOUND"
+        ],
+        "ipc": [
+          "H02K15/00",
+          "H02K17/30",
+          "H02P21/00",
+          "H02K17/16",
+          "H02P21/14"
+        ]
+      },
+      {
+        "pub": "US-6163127-A",
+        "degree": 135.7,
+        "title": "System and method for controlling a position sensorless permanent magnet motor",
+        "abstract": "A position sensorless interior permanent magnet drive system and methods for use in electric and hybrid electric vehicles. The interior permanent magnet drive system and method use two rotor position estimation techniques for low and high speed operation and an initial rotor magnet polarity detectio",
+        "assignees": [
+          "GEN MOTORS CORP"
+        ],
+        "ipc": [
+          "H02P6/18",
+          "B60L11/18",
+          "B60L15/02"
+        ]
+      },
+      {
+        "pub": "US-2014203754-A1",
+        "degree": 129.4,
+        "title": "Method of controlling an ac machine and controller for controlling an ac machine",
+        "abstract": "A method of controlling an AC machine that includes a stator and a rotor. The method includes observing a stability parameter that is indicative of the stability of the AC machine and dependent on a current state of the AC machine; and controlling the AC machine based on the observed stability param",
+        "assignees": [
+          "ROLLS ROYCE PLC"
+        ],
+        "ipc": [
+          "H02P21/00",
+          "H02P21/12"
+        ]
+      },
+      {
+        "pub": "US-6492788-B1",
+        "degree": 127.1,
+        "title": "Method and apparatus for encoderless operation of a permanent magnet synchronous motor in an elevator",
+        "abstract": "A permanent magnet synchronous motor is controlled using d-axis current and q-axis current along with respective d-current and q-current feedback loops. The speed and position of the motor are determined by injecting a first signal into the d-axis current and observing the response in the q-current ",
+        "assignees": [
+          "OTIS ELEVATOR CO"
+        ],
+        "ipc": [
+          "H02P21/24",
+          "H02P27/04",
+          "H02P6/28",
+          "H02P6/17",
+          "H02P21/28"
+        ]
+      },
+      {
+        "pub": "US-6137258-A",
+        "degree": 126.8,
+        "title": "System for speed-sensorless control of an induction machine",
+        "abstract": "A system for speed-sensorless control of an induction machine includes a flux regulator &amp; torque current calculator for operating the machine in a heavily saturated state to produce a saturation induced saliency; a saliency tracker for tracking an angle of the saturation-induced saliency; a sign",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P27/04",
+          "H02P21/00",
+          "H02P21/06",
+          "H02P21/14"
+        ]
+      },
+      {
+        "pub": "US-6965212-B1",
+        "degree": 120.3,
+        "title": "Method and apparatus for field weakening control in an AC motor drive system",
+        "abstract": "A method and apparatus control a power converter ( 20 ) of an AC motor drive system ( 10 ). The method and apparatus: generate a field current regulating signal to control a field current component flowing from the power converter ( 20 ) to the AC motor ( 30 ), thereby achieving field current regula",
+        "assignees": [
+          "HONEYWELL INT INC"
+        ],
+        "ipc": [
+          "H02P21/00",
+          "H02P21/06"
+        ]
+      },
+      {
+        "pub": "US-2006125439-A1",
+        "degree": 119.0,
+        "title": "Synchronous motor drive unit and a driving method thereof",
+        "abstract": "A rotary sensor that outputs two analog signals, such as one sine wave and one cosine wave and has multiple periods within one period of the electrical angle of a motor is employed. The motor is energized at each position for a specified length of time upon its startup by using multiple electrical a",
+        "assignees": [
+          "HITACHI LTD"
+        ],
+        "ipc": [
+          "H02P21/28",
+          "H02P21/00",
+          "H02P23/16",
+          "H02P21/18",
+          "H02P21/22"
+        ]
+      },
+      {
+        "pub": "US-6069467-A",
+        "degree": 118.3,
+        "title": "Sensorless rotor tracking of induction machines with asymmetrical rotor resistance",
+        "abstract": "A drive system for providing ac drive power to an induction machine with asymmetrical rotor resistance and for sensorless rotor tracking of the induction machine includes: a signal injector for determining a stator command signal in a reference frame which is aligned with either an estimated rotor r",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P21/14",
+          "H02P21/12"
+        ]
+      },
+      {
+        "pub": "US-10389289-B2",
+        "degree": 108.5,
+        "title": "Generating motor control reference signal with control voltage budget",
+        "abstract": "A method of controlling a motor in a motor control system is provided. The method determines a control voltage budget value based on an operating region of the motor. The method adjusts a supply voltage signal based on the control voltage budget value. The method determines a motor voltage command b",
+        "assignees": [
+          "STEERING SOLUTIONS IP HOLDING"
+        ],
+        "ipc": [
+          "H02P21/22",
+          "H02P1/00",
+          "B60L15/02",
+          "H02P7/00",
+          "H02P6/00"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1755,
+    "size": 4656,
+    "top_central": [
+      {
+        "pub": "US-5023527-A",
+        "degree": 422.6,
+        "title": "Control circuits, electronically commutated motor systems and methods",
+        "abstract": "Control circuit for an electronically commutated motor which has a rotatable assembly and further has a stationary assembly with a plurality of winding stages having terminals for energization, and switches for applying a voltage to one or more of the terminals of the winding stages at a time and co",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "F23N3/08",
+          "H02K29/10",
+          "H02P6/08",
+          "H02K29/06",
+          "H02P6/18"
+        ]
+      },
+      {
+        "pub": "US-4743815-A",
+        "degree": 406.9,
+        "title": "Brushless permanent magnet motor system",
+        "abstract": "A control system for a multi-phase brushless permanent magnet motor has circuitry for periodically generating signals representing the relative position of the rotor with respect to the stator, circuitry for decoding the periodically generated signals to determine the presence of the rotor at one of",
+        "assignees": [
+          "EMERSON ELECTRIC CO"
+        ],
+        "ipc": [
+          "H02P6/06",
+          "H02P6/20",
+          "H02P6/14"
+        ]
+      },
+      {
+        "pub": "US-4928043-A",
+        "degree": 262.8,
+        "title": "Back EMF sampling circuit for phase locked loop motor control",
+        "abstract": "A sensorless control for DC permanent magnet brushless motor includes a feedback loop connected between the motor stator windings and the inverter which controls the timer at which current is provided to the various windings in sequence. The control of the invention includes a voltage sensing networ",
+        "assignees": [
+          "SYNEKTRON CORP"
+        ],
+        "ipc": [
+          "H02P6/06",
+          "H02P6/18"
+        ]
+      },
+      {
+        "pub": "US-4169990-A",
+        "degree": 257.2,
+        "title": "Electronically commutated motor",
+        "abstract": "A brushless DC motor is constructed with photosensitive device for detecting rotor shaft position. Arcuate permanent magnets on the rotor provide a DC flux field while distributed stationary armature windings, each spanning a fixed number of slots in the armature assembly, provide mutually perpendic",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "F23N3/08",
+          "H02P6/16",
+          "H02K29/10"
+        ]
+      },
+      {
+        "pub": "US-4162435-A",
+        "degree": 229.9,
+        "title": "Method and apparatus for electronically commutating a direct current motor without position sensors",
+        "abstract": "Method and apparatus for electronically commutating a direct current motor is disclosed not requiring position sensors but rather sampling induced voltage across an unenergized motor winding to derive control signals therefrom. One motor winding is energized while the voltage across another winding ",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02K29/10",
+          "H02P6/18"
+        ]
+      },
+      {
+        "pub": "US-5744921-A",
+        "degree": 215.8,
+        "title": "Control circuit for five-phase brushless DC motor",
+        "abstract": "A control system (100) for a five-phase brushless DC motor (102) including a stator having five windings and a rotor (116) mounted for rotation relative to the windings (114). The windings (114) are adapted to be electronically commutated in response to the rotary position of the rotor (116). The co",
+        "assignees": [
+          "SIEMENS ELECTRIC LTD"
+        ],
+        "ipc": [
+          "H02P6/22"
+        ]
+      },
+      {
+        "pub": "US-4876491-A",
+        "degree": 214.8,
+        "title": "Method and apparatus for brushless DC motor speed control",
+        "abstract": "Control and synchronization of a polyphase, brushless DC motor (used for a hard-disk system) during initial start-up of the motor, is effected by monitoring rotor position using a high-frequency commutation: A short current pulse is applied to each power phase of the motor, and motor current conduct",
+        "assignees": [
+          "CONNER PERIPHERALS INC"
+        ],
+        "ipc": [
+          "H02P6/06",
+          "H02P6/22",
+          "H02P6/18"
+        ]
+      },
+      {
+        "pub": "US-5929577-A",
+        "degree": 213.3,
+        "title": "Brushless DC motor controller",
+        "abstract": "A brushless DC motor controller including a track and hold circuit responsive to the voltage at the motor centertap terminal and the voltage across at least one motor winding in order to determine the position of the rotor by detecting zero crossings of the back EMF of the unenergized winding in a m",
+        "assignees": [
+          "UNITRODE CORP"
+        ],
+        "ipc": [
+          "H02P6/18"
+        ]
+      },
+      {
+        "pub": "US-5028852-A",
+        "degree": 212.0,
+        "title": "Position detection for a brushless DC motor without hall effect devices using a time differential method",
+        "abstract": "The present method and apparatus detects the rotor position of a brushless DC motor with an accuracy of \u03c0/m electrical radians (where m=the number of motor phases) within one electrical period, and provides enough information to enable starting the motor in the correct direction with certainty. Afte",
+        "assignees": [
+          "SEAGATE TECHNOLOGY"
+        ],
+        "ipc": [
+          "H02P6/16",
+          "H02P6/22",
+          "H02P6/18",
+          "H02P6/20"
+        ]
+      },
+      {
+        "pub": "US-4654566-A",
+        "degree": 204.6,
+        "title": "Control system, method of operating an electronically commutated motor, and laundering apparatus",
+        "abstract": "A control system for an electronically commutated DC motor having a rotatable assembly and a stationary assembly with a plurality of winding stages. The application of a DC voltage to the winding stages is controlled to provide an effective voltage thereto by commutating the winding stages to apply ",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "D06F37/38",
+          "H02K29/10",
+          "H02P6/16",
+          "F23N3/08",
+          "H02P6/08"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1748,
+    "size": 3119,
+    "top_central": [
+      {
+        "pub": "US-4893067-A",
+        "degree": 122.4,
+        "title": "Direct current motor speed control",
+        "abstract": "The motor speed control circuit senses average back EMF as a measure of motor speed. The back EMF charges a capacitor circuit which accumulates charge and develops a voltage indicative of the motor speed. A sample and hold circuit may be used to sample the back EMF when the motor is switched off dur",
+        "assignees": [
+          "BLACK & DECKER INC"
+        ],
+        "ipc": [
+          "H02P7/288"
+        ]
+      },
+      {
+        "pub": "US-3950684-A",
+        "degree": 98.8,
+        "title": "Direct current motor speed control apparatus",
+        "abstract": "A direct current motor speed control apparatus is disclosed for controlling the motor speed from zero to base speed primarily by an armature voltage control and for controlling the motor speed from base speed to a rated run speed primarily by field flux control.",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02P7/298"
+        ]
+      },
+      {
+        "pub": "US-3349309-A",
+        "degree": 91.1,
+        "title": "Industrial truck power circuit",
+        "abstract": "",
+        "assignees": [
+          "YALE & TOWNE INC"
+        ],
+        "ipc": [
+          "H02H7/08",
+          "H02P7/29"
+        ]
+      },
+      {
+        "pub": "US-5565760-A",
+        "degree": 86.0,
+        "title": "Electrical propulsion systems for a golf car",
+        "abstract": "A method and apparatus for preventing overspeed of an electrically powered golf car having a shunt wound direct current electric motor with an armature winding and a field winding serially connected to respective switching devices and to a source of on-board direct current electric power. The golf c",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "A63B55/60",
+          "B60L11/18",
+          "H02P7/06",
+          "B60L15/20"
+        ]
+      },
+      {
+        "pub": "US-3095534-A",
+        "degree": 85.1,
+        "title": "Circuit for controlling energization of a direct current load",
+        "abstract": "",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P7/295"
+        ]
+      },
+      {
+        "pub": "US-4309645-A",
+        "degree": 84.4,
+        "title": "DC Motor speed controller",
+        "abstract": "An electronic speed controller for a radio controlled model has conversion circuitry to derive a dc signal having a level that is proportional to the information pulse width of the radio control signal, but which is insensitive to changes in the frame rate thereof. This dc signal level is compared w",
+        "assignees": [
+          "VILLENEUVE DAIL A DE"
+        ],
+        "ipc": [
+          "H02P7/00",
+          "H02P7/29"
+        ]
+      },
+      {
+        "pub": "US-3599064-A",
+        "degree": 83.9,
+        "title": "Dc motor drive using combined armature and field control",
+        "abstract": "A DC motor drive for the armature and associated field winding of the motor includes an armature feedback loop responsive to the current flow in the armature, an input command signal such as a speed control signal, and the actual speed of the armature for providing a control of the current supplied ",
+        "assignees": [
+          "LOYOLA IND INC"
+        ],
+        "ipc": [
+          "H02P7/298"
+        ]
+      },
+      {
+        "pub": "US-5410229-A",
+        "degree": 82.8,
+        "title": "Motor speed control circuit with electronic clutch",
+        "abstract": "The pulse width modulated DC motor speed control circuit indirectly senses motor current using sense MOSFETs and a peak detector circuit with storage capacitor for deriving an average motor current signal. The average motor current signal is used both in the feedback loop of the pulse width modulate",
+        "assignees": [
+          "BLACK & DECKER INC"
+        ],
+        "ipc": [
+          "H02P7/29",
+          "H02P3/08"
+        ]
+      },
+      {
+        "pub": "US-4019107-A",
+        "degree": 82.0,
+        "title": "D. C. motor control system",
+        "abstract": "A direct current motor control system for generating current command signals to a unidirectional armature controller and a bidirectional field controller. A motor speed command is compared with the actual motor speed to generate a speed error signal. The system generates a current command signal fro",
+        "assignees": [
+          "RELIANCE ELECTRIC CO"
+        ],
+        "ipc": [
+          "H02P7/298"
+        ]
+      },
+      {
+        "pub": "US-4638226-A",
+        "degree": 79.8,
+        "title": "Speed control system with feedback and soft-start",
+        "abstract": "A motor (M) supplied by AC full-wave voltage is controlled by a triac (Q2) under the control of a double-time constant triggering circuit which has a speed setting branch (R3-C2) connected at the triac (Q2) side of the motor (M) and the other time constant branch (R1-C1) connected at the supply side",
+        "assignees": [
+          "EATON CORP"
+        ],
+        "ipc": [
+          "H02P25/14",
+          "H02P1/24",
+          "H02P25/10"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1757,
+    "size": 2982,
+    "top_central": [
+      {
+        "pub": "US-6498451-B1",
+        "degree": 149.4,
+        "title": "Torque ripple free electric power steering",
+        "abstract": "Disclosed is an electric motor system with reduced torque ripple comprising a sinusoidally magnetized permanent magnet, a sinusoidal inverter, a higher resolution position sensor, a composite iron stator yoke, a composite reinforced plastic rotor core and shaft; and a high gear ratio gear reduction ",
+        "assignees": [
+          "DELPHI TECH INC"
+        ],
+        "ipc": [
+          "B62D5/04",
+          "H02K29/03",
+          "H02K29/08",
+          "H02K7/116",
+          "H02P6/10"
+        ]
+      },
+      {
+        "pub": "US-6373211-B1",
+        "degree": 144.4,
+        "title": "Extended speed range operation of permanent magnet brushless machines using optimal phase angle control in the voltage mode operation",
+        "abstract": "A voltage mode control method and apparatus for extending speed range operation from a sinusoidally excited permanent magnet motor is described. The method includes a determination of a maximum value from a first set of parameters with each parameter having a known maximum value as well as a reading",
+        "assignees": [
+          "DELPHI TECH INC"
+        ],
+        "ipc": [
+          "H02P6/16",
+          "H02P6/06",
+          "H02P21/00",
+          "B62D5/04",
+          "H02P6/08"
+        ]
+      },
+      {
+        "pub": "US-2008067960-A1",
+        "degree": 143.0,
+        "title": "Unconnected Motor, Drive Control Device Thereof, And Electric Power Steering Device Using Drive Control Device Of Unconnected Motor",
+        "abstract": "A drive control device of an unconnected motor capable of resolving power shortage and increasing motor output without using a boost circuit, and an electric power steering device using the unconnected motor. The drive control device comprises an unconnected motor ( 12 ) having a rotor in which perm",
+        "assignees": [
+          "NSK LTD"
+        ],
+        "ipc": [
+          "H02P6/08",
+          "B62D5/04"
+        ]
+      },
+      {
+        "pub": "US-2003076064-A1",
+        "degree": 135.8,
+        "title": "Feedforward parameter estimation for electric machines",
+        "abstract": "A method and system for estimating a parameter of an electric machine, including a controller and a switching device, the controller responsive to at least one of: a current sensor, and a temperature sensor. Where the controller executes a parameter estimation process, which is responsive to at leas",
+        "assignees": [],
+        "ipc": [
+          "H02P23/14",
+          "H02P29/00",
+          "G05B13/04",
+          "G01K7/42",
+          "G05B23/02"
+        ]
+      },
+      {
+        "pub": "US-2003071594-A1",
+        "degree": 126.0,
+        "title": "Feedback parameter estimation for electric machines",
+        "abstract": "A method and system for estimating a parameter of an electric machine, including a controller and a switching device, the controller executes a parameter estimation process, which is responsive to at least one of: a current value and a torque command and the resultant of the parameter estimation pro",
+        "assignees": [],
+        "ipc": [
+          "H02P6/08",
+          "H02P21/14",
+          "H02P23/14",
+          "G05B13/02",
+          "H02P29/00"
+        ]
+      },
+      {
+        "pub": "US-2003076061-A1",
+        "degree": 125.5,
+        "title": "Combined feedforward and feedback parameter estimation for electric machines",
+        "abstract": "A method and system for estimating a parameter of an electric machine, including a controller and a switching device, the controller responsive to at least one of: a current sensor, and a temperature sensor. Where the controller executes a parameter estimation process, which is responsive to at leas",
+        "assignees": [],
+        "ipc": [
+          "G05B13/04",
+          "H02P6/16",
+          "B62D5/04",
+          "G01K7/21",
+          "H02P21/14"
+        ]
+      },
+      {
+        "pub": "US-6566829-B1",
+        "degree": 106.1,
+        "title": "Method and apparatus for torque control of a machine",
+        "abstract": "An exemplary embodiment of the invention is a method for torque control of a PM synchronous machine. The method includes obtaining a torque command signal and a machine speed and determining an operating mode in response to the torque command signal and the machine speed. The operating mode includes",
+        "assignees": [
+          "DELPHI TECH INC"
+        ],
+        "ipc": [
+          "H02P6/00"
+        ]
+      },
+      {
+        "pub": "US-2004095089-A1",
+        "degree": 99.9,
+        "title": "Transient compensation voltage estimation for feedforward sinusoidal brushless motor control",
+        "abstract": "A method for controlling a voltage mode controlled electric machine comprising: receiving a torque value representative of a desired torque; obtaining a speed value indicative of a rotational velocity of the electric machine; acquiring a phase advance value indicative of a desired phase advance angl",
+        "assignees": [],
+        "ipc": [
+          "B62D5/04",
+          "H02P6/14",
+          "H02P6/16"
+        ]
+      },
+      {
+        "pub": "US-2004162655-A1",
+        "degree": 96.7,
+        "title": "Velocity compensation control for electric steering systems",
+        "abstract": "Disclosed herein is a method as well as a system for controlling an electric power steering system. The method includes: receiving a torque signal from a torque sensor responsive to a torque applied to a steering wheel; obtaining a motor velocity signal, the motor velocity signal indicative of a spe",
+        "assignees": [],
+        "ipc": [
+          "B62D119/00",
+          "B62D137/00",
+          "H02P29/00",
+          "B62D6/00",
+          "B62D113/00"
+        ]
+      },
+      {
+        "pub": "US-2014009093-A1",
+        "degree": 87.3,
+        "title": "Controller for multiple-phase rotating machine",
+        "abstract": "A controller for a multiple-phase rotating machine includes power converters for supplying alternating current to winding sets of the rotating machine. A pair of each electrical power converter and a corresponding winding set forms a system. The controller further includes a failure detector for det",
+        "assignees": [
+          "DENSO CORP"
+        ],
+        "ipc": [
+          "B62D5/04",
+          "H02P21/00",
+          "H02P25/22",
+          "H02P21/22",
+          "H02P27/06"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1756,
+    "size": 2939,
+    "top_central": [
+      {
+        "pub": "US-5334923-A",
+        "degree": 191.3,
+        "title": "Motor torque control method and apparatus",
+        "abstract": "A method and apparatus for controlling torque by correcting slip gain error in an operating induction motor is provided. This is accomplished by measuring the amplitude and position of a flux in the motor such as rotor flux. Rotor flux position and amplitude can be estimated from the air gap flux. T",
+        "assignees": [
+          "WISCONSIN ALUMNI RES FOUND"
+        ],
+        "ipc": [
+          "H02P21/14"
+        ]
+      },
+      {
+        "pub": "US-4023083-A",
+        "degree": 148.9,
+        "title": "Torque regulating induction motor system",
+        "abstract": "A torque regulating alternating current induction motor control system comprising a motor flux sensing coil arrangement mounted on the induction motor stator for sensing the actual flux produced across the rotor-stator air gap of the motor and deriving a motor flux voltage signal proportional to the",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P21/10",
+          "H02P27/04",
+          "H02P21/00"
+        ]
+      },
+      {
+        "pub": "US-5272429-A",
+        "degree": 133.5,
+        "title": "Air gap flux measurement using stator third harmonic voltage and uses",
+        "abstract": "Methods and apparatus are provided wherein air gap flux magnitude and relative position are determined from stator voltage harmonic components and stator current in operating alternating current machines having a stator, a rotor and an air gap therebetween. Such determinations have various uses, suc",
+        "assignees": [
+          "WISCONSIN ALUMNI RES FOUND"
+        ],
+        "ipc": [
+          "H02P21/14"
+        ]
+      },
+      {
+        "pub": "US-4047083-A",
+        "degree": 131.9,
+        "title": "Adjustable speed A-C motor drive with smooth transition between operational modes and with reduced harmonic distortion",
+        "abstract": "Alternating voltage for energizing an adjustable speed a-c motor is derived from unipolarity input voltage by means of electric power inverting apparatus comprising at least one pair of alternately conducting controllable electric valves. The conducting states of these valves are periodically switch",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02M7/48",
+          "H02P21/00",
+          "H02P27/04",
+          "H02P27/08",
+          "H02M7/527"
+        ]
+      },
+      {
+        "pub": "US-3512067-A",
+        "degree": 129.4,
+        "title": "Speed regulation of asynchronous three-phase motors",
+        "abstract": "",
+        "assignees": [
+          "MINI IND CONSTRUCTILLOR"
+        ],
+        "ipc": [
+          "H02P27/04"
+        ]
+      },
+      {
+        "pub": "US-3593083-A",
+        "degree": 126.4,
+        "title": "Apparatus for providing the pilot values of characteristics of an asynchronous three phase machine",
+        "abstract": "Multipliers produce a signal having a magnitude proportional to the sum of the squares of the rotary flux vectors and the induced three phase voltage vector of an asynchronous three phase machine by first producing signals having instantaneous magnitudes proportional to flux components of voltages i",
+        "assignees": [
+          "SIEMENS AG"
+        ],
+        "ipc": [
+          "H02P27/04",
+          "G01R29/00",
+          "H02P21/10",
+          "H02P27/06",
+          "H02P5/50"
+        ]
+      },
+      {
+        "pub": "US-4456868-A",
+        "degree": 119.6,
+        "title": "Method and apparatus for controlling AC motors",
+        "abstract": "An AC motor control method and apparatus therefor, for controlling an AC motor 11 by holding the excitation current I 0  of the AC motor 11 constant and varying primary current I 1  in accordance with a speed deviation \u0394n. Stored previously in a memory device 18 are a torque T-slip frequency \u03c9 s  ch",
+        "assignees": [
+          "FANUC LTD"
+        ],
+        "ipc": [
+          "H02P21/08"
+        ]
+      },
+      {
+        "pub": "US-5032771-A",
+        "degree": 119.3,
+        "title": "Slip control based on sensing voltage fed to an induction motor",
+        "abstract": "An electronic motor drive for vector control of an induction motor controls slip and operating frequency in response to changes in stator voltage. The drive includes a torque control loop, a flux control loop and a frequency control loop which includes slip control in response to a voltage differenc",
+        "assignees": [
+          "ALLEN BRADLEY CO"
+        ],
+        "ipc": [
+          "H02P21/08"
+        ]
+      },
+      {
+        "pub": "US-2004085042-A1",
+        "degree": 116.6,
+        "title": "Method of and apparatus for controlling the operation of an induction motor using a model of the induction motor",
+        "abstract": "A controller for a motor and a method for controlling the operation of the motor. The controller includes a model of the motor, where the model is utilized to determine modeled values of first and second motor variables. An estimated value of slip is adjusted based at least in part on a comparison o",
+        "assignees": [
+          "SMITH CORP A O"
+        ],
+        "ipc": [
+          "H02P5/00",
+          "H02P7/00",
+          "H02P29/00",
+          "G05B17/02"
+        ]
+      },
+      {
+        "pub": "US-3983463-A",
+        "degree": 113.2,
+        "title": "Method and apparatus for controlling the speed of induction motors",
+        "abstract": "In a method and apparatus for controlling the speed of an induction motor energized from a source of variable frequency, e.g. a controllable inverter, a control signal which is a function of the primary current of the induction motor is produced, a predetermined slip frequency pattern signal is gene",
+        "assignees": [
+          "TOKYO SHIBAURA ELECTRIC CO"
+        ],
+        "ipc": [
+          "H02P27/06",
+          "H02P21/34",
+          "H02P23/26",
+          "H02P23/07",
+          "H02P27/08"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1750,
+    "size": 2554,
+    "top_central": [
+      {
+        "pub": "US-11047528-B2",
+        "degree": 130.5,
+        "title": "Electronic braking for a power tool having a brushless motor",
+        "abstract": "A power tool is provided including a housing, a brushless direct-current (BLDC) electric motor disposed inside the housing, power switches disposed between a power supply and the electric motor and including high-side switches and low-side switches, and a control unit configured to control a switchi",
+        "assignees": [
+          "BLACK & DECKER INC"
+        ],
+        "ipc": [
+          "H02K7/14",
+          "F16P7/02",
+          "H02P29/024",
+          "B24B23/02",
+          "H02P27/08"
+        ]
+      },
+      {
+        "pub": "US-5294874-A",
+        "degree": 121.1,
+        "title": "Dynamic brake circuit for an electric motor",
+        "abstract": "A universal electric motor having an arbor mounted on a rotating armature with a run winding for generating a magnetic field having a polarity relative to the armature and for rotating the arbor, a first switch for connecting the run winding to a power source, and a brake winding for generating a co",
+        "assignees": [
+          "MILWAUKEE ELECTRIC TOOL CORP"
+        ],
+        "ipc": [
+          "H02P3/06"
+        ]
+      },
+      {
+        "pub": "US-5705903-A",
+        "degree": 108.7,
+        "title": "Electric brake for an alternating current motor",
+        "abstract": "An electric brake circuit (10) for bringing an alternating current (AC) motor (12) to a rapid halt. When the AC motor is turned on, a braking capacitor (C1) is charged to a preselected voltage. A shunt regulator (18) prevents the braking capacitor from overcharging by shunting charging current to gr",
+        "assignees": [
+          "UNICOIL INC"
+        ],
+        "ipc": [
+          "H02P3/24"
+        ]
+      },
+      {
+        "pub": "US-6078156-A",
+        "degree": 103.7,
+        "title": "Method and apparatus for improved electronic braking of a DC motor",
+        "abstract": "The present invention provides efficient dynamic braking of a DC motor to complement servo loop control. This invention uses a combined technique where, first, a reversed-torque signal is applied to a standard motor controller that then reverses armature current to initiate braking and, second, a di",
+        "assignees": [
+          "EASTMAN KODAK CO"
+        ],
+        "ipc": [
+          "H02P7/06",
+          "H02P3/08"
+        ]
+      },
+      {
+        "pub": "US-4093900-A",
+        "degree": 100.8,
+        "title": "Dynamic brake blending for an inverter propulsion system",
+        "abstract": "The stator terminals of an adjustable speed a-c induction motor are connected to a source of d-c electric power by means of an inverter, and a system is provided for blending both dynamic and regenerative electrical braking of the motor whenever it decelerates. The brake blending system comprises a ",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "B60L7/22",
+          "H02P3/18",
+          "H02P3/22"
+        ]
+      },
+      {
+        "pub": "US-10720860-B2",
+        "degree": 97.9,
+        "title": "Electronic braking in a power tool",
+        "abstract": "A power tool including a three-phase DC motor, a power switching network, a power source, and an electronic processor. A first phase of the motor is connected between a first high side electronic switch and a first low side electronic switch, and between a second high side electronic switch and a se",
+        "assignees": [
+          "MILWAUKEE ELECTRIC TOOL CORP"
+        ],
+        "ipc": [
+          "B25F5/02",
+          "B24B47/12",
+          "H02P3/22",
+          "H02P3/14",
+          "H02P7/29"
+        ]
+      },
+      {
+        "pub": "US-6236177-B1",
+        "degree": 96.5,
+        "title": "Braking and control circuit for electric power tools",
+        "abstract": "A power tool including a braking and control circuit. The braking and control circuit includes a microcontroller-based control means circuit. The microcontroller assures control of switch means, such as triacs, switches and relays, and ensures that braking is effectuated regardless of the phase in t",
+        "assignees": [
+          "MILWAUKEE ELECTRIC TOOL CORP"
+        ],
+        "ipc": [
+          "B25H1/00",
+          "H02P3/14",
+          "B25F5/00",
+          "H02P3/12",
+          "B23D59/00"
+        ]
+      },
+      {
+        "pub": "US-5847533-A",
+        "degree": 96.3,
+        "title": "Procedure and apparatus for braking a synchronous motor",
+        "abstract": "The invention relates to a method and an apparatus for braking a synchronous motor (2) magnetized with permanent magnets. According to the invention, there is connected to the input connectors (38,40,42) of the synchronous motor a non-linear braking resistor (60) by means of which the stator winding",
+        "assignees": [
+          "KONE OY"
+        ],
+        "ipc": [
+          "B66B1/32",
+          "H02P6/24",
+          "H02P3/06",
+          "H02P3/22"
+        ]
+      },
+      {
+        "pub": "US-5117166-A",
+        "degree": 93.6,
+        "title": "Chopper circuit for dynamic braking in an electric power conversion system",
+        "abstract": "An improved electrical circuit configuration for a chopper circuit is disclosed which is particularly adapted for use with an inductive load such as a braking resistor of the type used in many rapid transit vehicles. Instead of connecting a di/dt reactor directly in series with the electronic switch",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P3/22",
+          "H02P3/12"
+        ]
+      },
+      {
+        "pub": "US-4450397-A",
+        "degree": 92.2,
+        "title": "Electronic AC induction motor brake",
+        "abstract": "A braking control circuit for an alternating current motor is disclosed as having a winding and adapted to be coupled to an energizing control circuit for connecting a source of AC voltage to and for disconnecting the source of AC voltage from the winding. The braking control circuit comprises a sel",
+        "assignees": [
+          "ROCKWELL INTERNATIONAL CORP"
+        ],
+        "ipc": [
+          "H02P3/24"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1752,
+    "size": 2247,
+    "top_central": [
+      {
+        "pub": "US-3950682-A",
+        "degree": 80.0,
+        "title": "Digital dc motor velocity control system",
+        "abstract": "A velocity control system for a motor is provided wherein first counter means are reset by feedback pulses from the motor to record the feedback period. Decode means responsive to the first counter means determines whether the feedback period is long or short and the status of this is put into stora",
+        "assignees": [
+          "IBM"
+        ],
+        "ipc": [
+          "G06K15/06",
+          "H02P23/00",
+          "B65H23/18",
+          "G03G21/00",
+          "G01D15/24"
+        ]
+      },
+      {
+        "pub": "US-3110853-A",
+        "degree": 75.0,
+        "title": "Electrical control apparatus",
+        "abstract": "",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC CORP"
+        ],
+        "ipc": [
+          "G04C11/00",
+          "H02P23/00",
+          "G04G3/02"
+        ]
+      },
+      {
+        "pub": "US-4855654-A",
+        "degree": 65.8,
+        "title": "Rotary body drive device",
+        "abstract": "A rotary body drive device for controlling rotation of a motor on the basis of the phase difference between a periodic signal produced in accompaniment with rotation of the motor and a reference clock signal so that their phase relationship becomes a prescribed one. When the phase difference between",
+        "assignees": [
+          "CANON KK"
+        ],
+        "ipc": [
+          "G11B21/03",
+          "G11B27/10",
+          "H02P23/00",
+          "G11B19/28",
+          "H04N5/77"
+        ]
+      },
+      {
+        "pub": "US-4543516-A",
+        "degree": 65.6,
+        "title": "Speed and phase control system",
+        "abstract": "Disclosed is a speed and phase control system for a moving apparatus driven by an electric motor, or the like, and provided with a speed control system for controlling the moving apparatus to an initially set speed, a phase control system for synchronizing the phase of the moving apparatus with a re",
+        "assignees": [
+          "HITACHI LTD"
+        ],
+        "ipc": [
+          "H02P29/00",
+          "G05B11/36",
+          "G05D13/62"
+        ]
+      },
+      {
+        "pub": "US-3176208-A",
+        "degree": 64.1,
+        "title": "Phase locking control device",
+        "abstract": "",
+        "assignees": [
+          "NORTH AMERICAN AVIATION INC"
+        ],
+        "ipc": [
+          "H02P23/00"
+        ]
+      },
+      {
+        "pub": "US-3974428-A",
+        "degree": 55.0,
+        "title": "Wide range, high accuracy, electronically programmed speed control system",
+        "abstract": "The disclosed system utilizes digital electronic programming to establish the rotational or translational speed of a motor driven member. The desired speed can be selected by manipulating a set of digital switches. A stable oscillator is employed to generate a high frequency signal which is processe",
+        "assignees": [
+          "BALDWIN ELECTRONICS INC"
+        ],
+        "ipc": [
+          "H02P23/00",
+          "G05D13/62",
+          "H02P7/288",
+          "G02B23/16"
+        ]
+      },
+      {
+        "pub": "US-3331006-A",
+        "degree": 54.7,
+        "title": "Digital speed and position regulating motor control system",
+        "abstract": "",
+        "assignees": [
+          "CUTLER HAMMER INC"
+        ],
+        "ipc": [
+          "H02P23/00"
+        ]
+      },
+      {
+        "pub": "US-4564795-A",
+        "degree": 54.7,
+        "title": "Motor speed control system",
+        "abstract": "An improved motor speed control system for high speed, high resolution motor control applications such as centrifuges is presented. A proportional, or proportional and integral motor control system is provided with improved circuitry which uses digital phase lock techniques to generate a speed diffe",
+        "assignees": [
+          "BECKMAN INSTRUMENTS INC"
+        ],
+        "ipc": [
+          "H02P23/00"
+        ]
+      },
+      {
+        "pub": "US-3268788-A",
+        "degree": 54.4,
+        "title": "Phase difference speed control system",
+        "abstract": "",
+        "assignees": [
+          "MINNESOTA MINING & MFG"
+        ],
+        "ipc": [
+          "H02P23/00"
+        ]
+      },
+      {
+        "pub": "US-4739230-A",
+        "degree": 54.2,
+        "title": "Control device for controlling motor speed without hunting",
+        "abstract": "A control device for use in maintaining a constant driving speed in various rotational objects such as a photosensitive drum, etc. for an electrophotographic reproduction apparatus, the control device being constructed with a driving device; a detecting device to sense a driving condition of the dri",
+        "assignees": [
+          "CANON KK"
+        ],
+        "ipc": [
+          "H02P23/00",
+          "G03G21/00"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "size": 2227,
+    "top_central": [
+      {
+        "pub": "US-4622506-A",
+        "degree": 199.0,
+        "title": "Load and speed sensitive motor starting circuit",
+        "abstract": "A speed sensitive, load sensitive and AC line voltage fluctuation insensitive, motor starting system is provided for an AC motor having a main winding (1) and an auxiliary winding (2) both connectable across an AC power source (3). Relative magnitudes of main and auxiliary winding voltages are sense",
+        "assignees": [
+          "PT COMPONENTS"
+        ],
+        "ipc": [
+          "H02P1/42",
+          "H02P1/44"
+        ]
+      },
+      {
+        "pub": "US-4658195-A",
+        "degree": 194.8,
+        "title": "Motor control circuit with automatic restart of cut-in",
+        "abstract": "A control circuit (10) is provided for automatically re-applying starting torque to a single phase AC induction motor by reconnecting the auxiliary or starting winding (2) to the AC power source (3) if the motor has not accelerated to a given cut-out speed, or otherwise begins to stall. Multiple rec",
+        "assignees": [
+          "PT COMPONENTS INC"
+        ],
+        "ipc": [
+          "H02P1/42"
+        ]
+      },
+      {
+        "pub": "US-2005007062-A1",
+        "degree": 162.9,
+        "title": "Switch assembly, electric machine having the switch assembly, and method of controlling the same",
+        "abstract": "A switch assembly including a switch (e.g., an electronic switch) and a controller connected to the switch to control the switch. The switch assembly can also include a power supply connectable to a power source and connected to the controller. The power supply is configured to receive power from th",
+        "assignees": [],
+        "ipc": [
+          "H02P1/42",
+          "H03K17/292",
+          "H03K17/30"
+        ]
+      },
+      {
+        "pub": "US-4604563-A",
+        "degree": 162.7,
+        "title": "Electronic switch for starting AC motor",
+        "abstract": "In an AC motor having a main winding (1) and a start winding (2) both connectable to an AC power source (3), and having a switch (22) for disconnecting the start winding from the AC source, an improved control circuit for the switch is provided. A pulse generator (15) responds to main and start wind",
+        "assignees": [
+          "PT COMPONENTS INC"
+        ],
+        "ipc": [
+          "H02P1/44"
+        ]
+      },
+      {
+        "pub": "US-6320348-B1",
+        "degree": 133.2,
+        "title": "Time rate of change motor start circuit",
+        "abstract": "A start circuit for a single-phase AC motor controls the current through the start or auxiliary winding based on time rate of change of voltage or current, or based on the current or voltage dropping or rising some fraction from inrush value, i.e., to 50% of initial start current or to 150% of initi",
+        "assignees": [],
+        "ipc": [
+          "H02P1/42"
+        ]
+      },
+      {
+        "pub": "US-2006103340-A1",
+        "degree": 107.7,
+        "title": "Single-phase induction motor and method for reducing noise in the same",
+        "abstract": "A single-phase induction motor and a method for reducing noise in the same, which can eliminate unbalance between magnetomotive forces of main and auxiliary windings in a stator of the motor, thereby implementing a low noise, low vibration motor, and can also achieve balance between the magnetomotiv",
+        "assignees": [
+          "SAMSUNG ELECTRONICS CO LTD"
+        ],
+        "ipc": [
+          "H02K17/08",
+          "H02P21/05",
+          "H02P23/04",
+          "H02P25/04",
+          "H02P23/07"
+        ]
+      },
+      {
+        "pub": "US-5528120-A",
+        "degree": 103.2,
+        "title": "Adjustable electronic potential relay",
+        "abstract": "A starting circuit for a single-phase induction motor having a start capacitor, an auxiliary or start winding, and a run winding includes user adjustable pick-up voltage means to allow a user to select a pick-up voltage in the field to correspond to the pick-up voltage of a particular induction moto",
+        "assignees": [
+          "SEALED UNIT PARTS CO INC"
+        ],
+        "ipc": [
+          "H02P1/44"
+        ]
+      },
+      {
+        "pub": "US-3671830-A",
+        "degree": 102.9,
+        "title": "Single phase motor starting control apparatus",
+        "abstract": "A starting circuit for a single phase electric motor, particularly a capacitor start motor, is provided that includes a solid state switch connected in series with the motor starting winding and the capacitor for controlling the supply of power to the starting winding in accordance with switching si",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02P1/44"
+        ]
+      },
+      {
+        "pub": "US-5451853-A",
+        "degree": 101.0,
+        "title": "Starting device for a single phase induction motor",
+        "abstract": "A starting device for a single phase induction motor can reduce the power consumption and restart in a short time. The starting device for the single phase induction motor having a main winding and a starting winding comprises a starting positive temperature coefficient thermistor connected in serie",
+        "assignees": [
+          "YAMADA ELECTRIC MFG CO LTD"
+        ],
+        "ipc": [
+          "H02P1/44",
+          "H02P1/42",
+          "H01C7/02"
+        ]
+      },
+      {
+        "pub": "US-4862053-A",
+        "degree": 100.5,
+        "title": "Motor starting circuit",
+        "abstract": "An electronic starting circuit for a single-phase electric motor is disclosed in which the motor has a first, and possibly a second, main winding and has an auxiliary winding used for starting. The voltage across the auxiliary winding increases as the motor speed accelerates and is used as a sensing",
+        "assignees": [
+          "RELIANCE ELECTRIC CO"
+        ],
+        "ipc": [
+          "H02P1/44"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "size": 2144,
+    "top_central": [
+      {
+        "pub": "US-2488402-A",
+        "degree": 90.0,
+        "title": "Control system",
+        "abstract": "",
+        "assignees": [
+          "LANDIS TOOL CO"
+        ],
+        "ipc": [
+          "H02P7/34"
+        ]
+      },
+      {
+        "pub": "US-1608792-A",
+        "degree": 87.0,
+        "title": "Control system",
+        "abstract": "",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC & MFG CO"
+        ],
+        "ipc": [
+          "H02P1/02"
+        ]
+      },
+      {
+        "pub": "US-1847081-A",
+        "degree": 86.2,
+        "title": "Control system",
+        "abstract": "",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC & MFG CO"
+        ],
+        "ipc": [
+          "H02P7/00"
+        ]
+      },
+      {
+        "pub": "US-1907974-A",
+        "degree": 81.2,
+        "title": "Control system",
+        "abstract": "",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC & MFG CO"
+        ],
+        "ipc": [
+          "H02P9/00"
+        ]
+      },
+      {
+        "pub": "US-2364486-A",
+        "degree": 77.6,
+        "title": "Control system",
+        "abstract": "",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P5/68"
+        ]
+      },
+      {
+        "pub": "US-2459640-A",
+        "degree": 64.3,
+        "title": "Regulating system",
+        "abstract": "",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02P9/14"
+        ]
+      },
+      {
+        "pub": "US-2075105-A",
+        "degree": 61.3,
+        "title": "Regulating system",
+        "abstract": "",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC & MFG CO"
+        ],
+        "ipc": [
+          "H02P9/26"
+        ]
+      },
+      {
+        "pub": "US-2467753-A",
+        "degree": 57.9,
+        "title": "Regulating system",
+        "abstract": "",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02P9/14"
+        ]
+      },
+      {
+        "pub": "US-2559538-A",
+        "degree": 54.8,
+        "title": "Motor speed control",
+        "abstract": "",
+        "assignees": [
+          "HARNISCHFEGER CORP"
+        ],
+        "ipc": [
+          "H02P7/34"
+        ]
+      },
+      {
+        "pub": "US-1966232-A",
+        "degree": 54.6,
+        "title": "Regulating system",
+        "abstract": "",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC & MFG CO"
+        ],
+        "ipc": [
+          "H02P9/10"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1754,
+    "size": 2081,
+    "top_central": [
+      {
+        "pub": "US-6208107-B1",
+        "degree": 119.5,
+        "title": "Use of digital current ramping to reduce audible noise in stepper motor",
+        "abstract": "A stepper motor controller and method for controlling the motion of a stepper motor by selectively energizing the motor&#39;s windings so that the current level in the windings match a desired current profile. The motor controller comprises a master logic device, preferably a microprocessor or micro",
+        "assignees": [
+          "ABBOTT LAB"
+        ],
+        "ipc": [
+          "G05B19/40",
+          "H02P8/32",
+          "H02P8/10"
+        ]
+      },
+      {
+        "pub": "US-2005206340-A1",
+        "degree": 92.2,
+        "title": "System and method for controlling current provided to a stepping motor",
+        "abstract": "A system and method is disclosed for controlling the input electrical current to an infusion pump stepper motor based on predetermined torque requirements. The system can include a motor controller and a non-volatile memory containing expected load torque values throughout a pump cycle. Responsive t",
+        "assignees": [
+          "DAO SON",
+          "ALLEN TIM",
+          "BRUNDLE ALAN"
+        ],
+        "ipc": [
+          "A61M5/142",
+          "H02P8/22",
+          "G05B19/40"
+        ]
+      },
+      {
+        "pub": "US-4710691-A",
+        "degree": 91.6,
+        "title": "Process and apparatus for characterizing and controlling a synchronous motor in microstepper mode",
+        "abstract": "A process for characterizing the motion of a synchronous motor in microstep mode to achieve desired precise velocity motion at the final output. The motor velocity is directly proportional to the frequency of the microstep excitation pulses which control the rate of change of sine/cosine motor curre",
+        "assignees": [
+          "ANACOMP INC"
+        ],
+        "ipc": [
+          "H02P8/22",
+          "H02P8/34"
+        ]
+      },
+      {
+        "pub": "US-6555985-B1",
+        "degree": 90.0,
+        "title": "Stepping motor control device",
+        "abstract": "In a stepping motor control method using an encoder, a timer means is provided, and an excessive advance of a phase during low rotation is restricted to attain a high speed without compromising stability during low rotation by driving the motor in such a manner that a pre-reversal state is recovered",
+        "assignees": [
+          "MATSUSHITA ELECTRIC INDUSTRIAL CO LTD"
+        ],
+        "ipc": [
+          "H02P8/38"
+        ]
+      },
+      {
+        "pub": "US-4326278-A",
+        "degree": 89.6,
+        "title": "Electronic timepiece",
+        "abstract": "An electronic timepiece having a stepping motor including a stator, rotor and coil, a driving circuit for applying driving pulses to the coil, an oscillating circuit for generating a time standard signal and a dividing circuit for dividing the time standard signal, is provided with a pulse combining",
+        "assignees": [
+          "SEIKO INSTR & ELECTRONICS"
+        ],
+        "ipc": [
+          "G04C9/08",
+          "H02P8/02",
+          "G04C3/14"
+        ]
+      },
+      {
+        "pub": "US-5105140-A",
+        "degree": 88.4,
+        "title": "Peristaltic pump motor drive",
+        "abstract": "The present invention provides a drive signal for a peristaltic pump motor. A first circuit is provided which generates a first series of pulses at a given frequency. A second circuit is provided which generates a second series of pulses having a frequency higher than the frequency of the first seri",
+        "assignees": [
+          "BAXER INTERNATIONAL INC"
+        ],
+        "ipc": [
+          "A61M1/00",
+          "H02P8/14",
+          "A61M5/142",
+          "F04B49/06",
+          "H02P8/16"
+        ]
+      },
+      {
+        "pub": "US-6150789-A",
+        "degree": 86.2,
+        "title": "Stepper motor control",
+        "abstract": "In a preferred embodiment, a stepper motor control, including: a driver to drive the stepper rotor; a detector to detect a commanded step rate signal provided to the driver and to provide an output signal proportional thereto; a power control, responsive to the output signal, to provide driving powe",
+        "assignees": [
+          "TRI TECH"
+        ],
+        "ipc": [
+          "H02P8/32",
+          "H02P8/14",
+          "G05B19/40",
+          "H02P8/36"
+        ]
+      },
+      {
+        "pub": "US-6563285-B1",
+        "degree": 83.4,
+        "title": "Stepper motor control system",
+        "abstract": "A method and system for controlling a stepper motor that may be used in a paper feed rolling arrangement of a printer. The method includes storing step mode selection data in combination with time data in a single table for retrieval and use by a controller.",
+        "assignees": [
+          "LEXMARK INT INC"
+        ],
+        "ipc": [
+          "B41J11/42",
+          "B41J19/20",
+          "B41J3/407",
+          "H02P8/34"
+        ]
+      },
+      {
+        "pub": "US-4959601-A",
+        "degree": 83.0,
+        "title": "Driving device for a stepping motor",
+        "abstract": "In a driving circuit for a stepping motor in which a phase current corresponding to a predetermined reference voltage is generated when an excitation signal for each phase of the stepping motor is being produced and a coil of the corresponding phase is excited by the phase current, the supply time o",
+        "assignees": [
+          "CANON KK"
+        ],
+        "ipc": [
+          "H02P8/18",
+          "H02P8/12"
+        ]
+      },
+      {
+        "pub": "US-3345547-A",
+        "degree": 82.8,
+        "title": "Step motor control system including a three stage energization for each step",
+        "abstract": "",
+        "assignees": [
+          "AMPEX"
+        ],
+        "ipc": [
+          "H02P8/32",
+          "G06K13/20"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1749,
+    "size": 2022,
+    "top_central": [
+      {
+        "pub": "US-12370907-B2",
+        "degree": 194.9,
+        "title": "On-pulse transition times for pulsed controlled electric machines using boost voltages",
+        "abstract": "Various boost circuits that are used to improve or reduce the time needed to transition an electric machine from an off-state to an on-state at the start of a next pulse during pulsed controlled operation. With these various boost circuits, the naturally generated Back Electromotive Force or \u201cBEMF\u201d ",
+        "assignees": [
+          "TULA TECHNOLOGY INC"
+        ],
+        "ipc": [
+          "B60L15/08",
+          "B60L15/20",
+          "B60W10/08",
+          "H02P6/08",
+          "B60L15/04"
+        ]
+      },
+      {
+        "pub": "US-11973447-B2",
+        "degree": 186.0,
+        "title": "Selective phase control of an electric machine",
+        "abstract": "Methods, controllers and electric machine systems are described for selective phase control of electric machines (e.g. electric motors and generators).",
+        "assignees": [
+          "TULA TECHNOLOGY INC"
+        ],
+        "ipc": [
+          "H02P25/08",
+          "H02K1/278",
+          "H02K3/12",
+          "H02K3/28"
+        ]
+      },
+      {
+        "pub": "US-12278581-B2",
+        "degree": 185.8,
+        "title": "Delay reduction for pulsed wound field synchronous machines",
+        "abstract": "An electric machine is provided. A power converter is coupled between a power supply and a wound field synchronous machine. The power converter is arranged to provide a pulsed operation by providing a pulsed DC current to field windings of the wound field synchronous machine.",
+        "assignees": [
+          "TULA TECHNOLOGY INC"
+        ],
+        "ipc": [
+          "H02K3/28",
+          "H02P27/08",
+          "H02P23/30",
+          "H02P25/022"
+        ]
+      },
+      {
+        "pub": "US-12319147-B2",
+        "degree": 185.7,
+        "title": "Pulsed electric machine control",
+        "abstract": "Pulsed control of electric motors, and more particularly, to selectively adjusting one or more of a pulsing frequency, an amplitude of the pulses and/or a duty cycle of the pulses for reducing Noise, Vibration and Harshness (NVH) while maintaining high levels of operating efficiency.",
+        "assignees": [
+          "TULA TECHNOLOGY INC"
+        ],
+        "ipc": [
+          "B60L15/20",
+          "H02P23/14",
+          "B60K17/356"
+        ]
+      },
+      {
+        "pub": "US-12311772-B2",
+        "degree": 185.0,
+        "title": "Pulse modulated control with field weakening for improved machine efficiency",
+        "abstract": "Modulated pulse control of electric machines to deliver a desired output in a more energy efficient manner by either (a) operating the electric machine in a continuous mode when a requested torque demand is greater than the peak efficiency torque of the electric machine or (b) in a pulsed modulation",
+        "assignees": [
+          "TULA TECHNOLOGY INC"
+        ],
+        "ipc": [
+          "H02P23/02",
+          "B60L15/08",
+          "H02P23/00",
+          "H02P27/08",
+          "B60L15/20"
+        ]
+      },
+      {
+        "pub": "US-11695361-B2",
+        "degree": 184.1,
+        "title": "Electric machines with efficient torque transitions",
+        "abstract": "An electric machine is provided. A polyphase machine is provided. A power inverter is electrically connected to the polyphase machine. A controller is electrically connected to the power inverter, wherein the controller provides switching signals to the power inverter, wherein the controller compris",
+        "assignees": [
+          "TULA TECHNOLOGY INC"
+        ],
+        "ipc": [
+          "H02P21/00",
+          "H02P27/08"
+        ]
+      },
+      {
+        "pub": "US-12328088-B2",
+        "degree": 177.5,
+        "title": "Pulsed control of multiple electric machines",
+        "abstract": "A variety of methods, controllers, and electric machine systems are described that facilitate pulsed control of multiple electric machines (e.g., electric motors and generators) to improve the machine&#39;s energy conversion efficiency. Under selected operating conditions, the electric machine is in",
+        "assignees": [
+          "TULA TECHNOLOGY INC"
+        ],
+        "ipc": [
+          "H02P5/74"
+        ]
+      },
+      {
+        "pub": "US-11623529-B2",
+        "degree": 170.5,
+        "title": "Pulse modulated control with field weakening for improved motor efficiency",
+        "abstract": "Modulated pulse control of electric machines to deliver a desired output in a more energy efficient manner by either (a) operating the electric machine in a continuous mode when a requested torque demand is greater than the peak efficiency torque of the electric machine or (b) in a pulsed modulation",
+        "assignees": [
+          "TULA TECHNOLOGY INC"
+        ],
+        "ipc": [
+          "B60L15/08",
+          "H02P23/02",
+          "H02P23/00",
+          "H02P27/08",
+          "B60L15/20"
+        ]
+      },
+      {
+        "pub": "US-11888424-B1",
+        "degree": 165.9,
+        "title": "Methods for improving rate of rise of torque in electric machines with stator current biasing",
+        "abstract": "A method of controlling an electric machine having a separately excitable rotor and stator includes pulsing the electric machine and controlling the electric machine to an OFF state. Pulsing the electric machine includes exiting the rotor with direction current and the stator with a stator biasing c",
+        "assignees": [
+          "TULA TECHNOLOGY INC"
+        ],
+        "ipc": [
+          "H02P27/08",
+          "H02P25/064"
+        ]
+      },
+      {
+        "pub": "US-12424962-B2",
+        "degree": 162.8,
+        "title": "Pulsed electric machine control with soft start and end",
+        "abstract": "An electric machine controller arranged to direct a power converter to cause a pulsed operation of an electric machine in selected operational ranges to deliver a desired output and to cause a continuous operation of the electric machine in selected operational ranges is provided. A ramp generator i",
+        "assignees": [
+          "TULA TECHNOLOGY INC"
+        ],
+        "ipc": [
+          "H02P27/08",
+          "H02M1/36",
+          "H02M1/00"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1751,
+    "size": 1963,
+    "top_central": [
+      {
+        "pub": "US-4710686-A",
+        "degree": 110.7,
+        "title": "Method and apparatus for control of current in a motor winding",
+        "abstract": "A current driver circuit for an inductive load, such as a motor winding, provides unidirectional, controlled current through the winding by use of two pulse width modulator switches on opposite sides of the winding or bidirectional current control by use of two pairs of pulse width modulated switche",
+        "assignees": [
+          "GUZIK TECHNICAL ENTERPRISES"
+        ],
+        "ipc": [
+          "H02P7/00",
+          "H02M7/5387",
+          "H02P7/29"
+        ]
+      },
+      {
+        "pub": "US-4581565-A",
+        "degree": 94.3,
+        "title": "H-bridge power amplifier and method for controlling the same",
+        "abstract": "An improved H-bridge power amplifier for controllably driving a dc motor is presented. The motor is connected in the center of the H-bridge in conventional manner. The H-bridge includes a current sense resistor placed between the power supply and a common tie point of the upper transistors of the br",
+        "assignees": [
+          "STORAGE TECHNOLOGY CORP"
+        ],
+        "ipc": [
+          "H02P7/00"
+        ]
+      },
+      {
+        "pub": "US-4705997-A",
+        "degree": 86.3,
+        "title": "Bidirectional motor drive circuit",
+        "abstract": "A drive circuit is provided for a bidirectional DC inductive motor, as may be used for automotive window wipers and the like. Four power MOSFETS are connected in an H-bridge configuration with the motor and a DC source. A pair of input terminals receives respective direction-controlling logic signal",
+        "assignees": [
+          "UNITED TECHNOLOGIES AUTOMOTIVE"
+        ],
+        "ipc": [
+          "H02P1/22",
+          "H02M1/38",
+          "H02P7/00"
+        ]
+      },
+      {
+        "pub": "US-4562387-A",
+        "degree": 79.0,
+        "title": "Vehicle power window control",
+        "abstract": "A control for a vehicle window driving motor in an H-switch semiconductor bridge with an SCR and a FET in each opposite armature current path includes control logic circuitry enabling one-touch actuation of window movement in either direction with stoppage by actuating either actuation device and wi",
+        "assignees": [
+          "GEN MOTORS CORP"
+        ],
+        "ipc": [
+          "B60J1/00",
+          "H02H7/08",
+          "E05F15/16",
+          "H02P7/00",
+          "E05F15/00"
+        ]
+      },
+      {
+        "pub": "US-4544869-A",
+        "degree": 69.6,
+        "title": "Electronic control circuit for bi-directional motion",
+        "abstract": "The disclosure provides an electronic motor control circuit which switches and amplifies to control a bi-directional electric motor, using a symmetrical circuit, each half of which consists of five transistors. The circuit has a logic level input and motor driving power output using, for control in ",
+        "assignees": [
+          "UNISEN INC"
+        ],
+        "ipc": [
+          "H02P7/00",
+          "H02P6/00"
+        ]
+      },
+      {
+        "pub": "US-6078154-A",
+        "degree": 69.0,
+        "title": "Circuitry for determining actuator position",
+        "abstract": "Circuitry (100, 100&#39;) for determining actuator position includes four MOS transistors (T1-T4) connected to each side of a bi-directional motor (10). The current flowing through the motor (10) at any given time is proportional to voltages developed across the internal impedances of the transistor",
+        "assignees": [
+          "DELCO ELECTRONICS CORP"
+        ],
+        "ipc": [
+          "H02P7/06",
+          "H02P7/00",
+          "H02P6/08"
+        ]
+      },
+      {
+        "pub": "US-4575662-A",
+        "degree": 68.8,
+        "title": "Vehicle power window control circuit",
+        "abstract": "A control circuit for a one-touch vehicle window control uses a pair of switches, each switch actuating a still window for movement in one of two opposite directions but being effective to stop a window moving in the opposite direction from that which it initiates. The motor is in an H-switch bridge",
+        "assignees": [
+          "GEN MOTORS CORP"
+        ],
+        "ipc": [
+          "H02H7/085",
+          "H02P7/00",
+          "B60J1/00",
+          "E05F15/00",
+          "E05F15/16"
+        ]
+      },
+      {
+        "pub": "US-5428522-A",
+        "degree": 67.1,
+        "title": "Four quadrant unipolar pulse width modulated inverter",
+        "abstract": "A four quadrant unipolar pulse width modulated (PWM) power conversion circuit for supplying a desired current to an inductive load uses an H-bridge circuit topology with an upper and lower pair of switching elements including a diode in parallel with each of the switching elements to provide a curre",
+        "assignees": [
+          "KAMAN ELECTROMAGNETICS CORP"
+        ],
+        "ipc": [
+          "H02P7/00",
+          "H02P7/28",
+          "H02M7/5387",
+          "H02P7/29"
+        ]
+      },
+      {
+        "pub": "US-4527103-A",
+        "degree": 58.6,
+        "title": "Four state DC motor controller",
+        "abstract": "A driver circuit for a transistor bridge is selectively controllable to produce four state operation of a DC motor. The driver circuit has two control inputs yielding four distinct input combinations, each combination producing a different state of motor operation. The states which may be selectivel",
+        "assignees": [
+          "GEN MOTORS CORP"
+        ],
+        "ipc": [
+          "H02P7/00"
+        ]
+      },
+      {
+        "pub": "US-5497326-A",
+        "degree": 58.6,
+        "title": "Intelligent commutation pulse detection system to control electric D.C. motors used with automobile accessories",
+        "abstract": "A control system for use with a bidirectional motor connected to a motorized vehicle accessory to move the accessory a distance from a first position to a second position. The control system includes a detector responsive to control signals emitted from the motor during rotation, where the control s",
+        "assignees": [
+          "CHERRY CORP"
+        ],
+        "ipc": [
+          "B60N2/02",
+          "G05B19/4062",
+          "B60R16/02",
+          "H02P7/06"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1753,
+    "size": 1754,
+    "top_central": [
+      {
+        "pub": "US-12525890-B2",
+        "degree": 93.9,
+        "title": "Power conversion apparatus, motor drive apparatus, and refrigeration cycle apparatus",
+        "abstract": "A power conversion apparatus includes a rectification unit that rectifies a first alternating-current power supplied from a commercial power supply; a capacitor connected to output terminals of the rectification unit; an inverter that is connected across the capacitor, converts power output from the",
+        "assignees": [
+          "MITSUBISHI ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02M7/06",
+          "H02M7/5387",
+          "H02M5/458",
+          "H02M5/453",
+          "H02P27/06"
+        ]
+      },
+      {
+        "pub": "US-2024380345-A1",
+        "degree": 54.5,
+        "title": "Power converting apparatus, motor drive unit, and refrigeration cycle-incorporating apparatus",
+        "abstract": "The power converting apparatus includes a rectifier unit rectifying first alternating-current power, a capacitor connected to the rectifier unit, an inverter connected across the capacitor to output second alternating-current power to a motor, a voltage detection unit detecting a power state of the ",
+        "assignees": [
+          "MITSUBISHI ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02P21/26",
+          "H02P21/05",
+          "H02P27/08"
+        ]
+      },
+      {
+        "pub": "US-2025141340-A1",
+        "degree": 53.9,
+        "title": "Power converting apparatus, motor drive unit, and refrigeration cycle-incorporating apparatus",
+        "abstract": "A power converting apparatus includes a rectifier unit that rectifies first alternating-current power supplied from a commercial power supply, a capacitor connected to an output end of the rectifier unit, an inverter connected across the capacitor to generate second alternating-current power and out",
+        "assignees": [
+          "MITSUBISHI ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02M1/14",
+          "H02P27/06",
+          "H02M5/458",
+          "H02M1/12",
+          "H02M1/44"
+        ]
+      },
+      {
+        "pub": "WO-2021038665-A1",
+        "degree": 36.6,
+        "title": "Motor drive device, electric blower, electric vacuum cleaner, and hand dryer",
+        "abstract": "This motor drive device (2) is provided with an inverter (11), a current detector (22) and a control unit (25). The inverter (11) has a first and a second leg (5A, 5B) and converts DC voltage outputted from a battery (10) to an AC voltage and applies this to a single-phase motor (12). The control un",
+        "assignees": [
+          "MITSUBISHI ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02P25/04"
+        ]
+      },
+      {
+        "pub": "US-2015194922-A1",
+        "degree": 36.5,
+        "title": "Motor drive device including insulation deterioration detection function and insulation resistance detection method of motor",
+        "abstract": "A motor drive device of the present invention includes: a rectification circuit configured to rectify an AC voltage; a power source unit configured to smooth a DC voltage by a capacitor; an inverter unit configured to drive a motor by converting a DC voltage into an AC voltage; a current detection u",
+        "assignees": [
+          "FANUC CORP"
+        ],
+        "ipc": [
+          "H02P27/06"
+        ]
+      },
+      {
+        "pub": "US-12525782-B2",
+        "degree": 36.3,
+        "title": "Motor drive device provided with charging control unit",
+        "abstract": "A motor drive device includes: a converter that converts AC power supplied from an AC power source into DC power and outputs the DC power to a DC link; a capacitor installed in the DC link; an inverter that converts the DC power at the DC link into AC power for driving a motor and outputs the AC pow",
+        "assignees": [
+          "FANUC CORP"
+        ],
+        "ipc": [
+          "H02H7/08",
+          "H02H1/00",
+          "H02P1/02",
+          "H02H7/122",
+          "H02M7/00"
+        ]
+      },
+      {
+        "pub": "US-12021468-B2",
+        "degree": 33.0,
+        "title": "Motor drive device, electric blower, electric vacuum cleaner, and hand dryer",
+        "abstract": "A motor drive device includes a single-phase inverter that converts a direct-current voltage into an alternating-current voltage applied to a motor. The motor drive device includes a control power supply outputting power having a voltage lower than the direct-current voltage. The motor drive device ",
+        "assignees": [
+          "MITSUBISHI ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H01L29/20",
+          "A47L5/24",
+          "A47L9/28",
+          "H02P27/04",
+          "H02P27/08"
+        ]
+      },
+      {
+        "pub": "US-10476415-B2",
+        "degree": 32.3,
+        "title": "Motor drive control device and motor drive control method",
+        "abstract": "According to an aspect of the present disclosure, a motor drive control device includes a motor drive unit having a plurality of switch elements connected to a power supply source and supplying a driving current to a plurality of phase coils of a motor, a control circuit unit outputting, to the moto",
+        "assignees": [
+          "MINEBEA MITSUMI INC"
+        ],
+        "ipc": [
+          "H02P6/15",
+          "H02P6/28",
+          "H02H7/085",
+          "H02P6/22",
+          "H02H7/08"
+        ]
+      },
+      {
+        "pub": "US-2023378867-A1",
+        "degree": 32.0,
+        "title": "Power conversion apparatus, motor drive apparatus, and refrigeration cycle apparatus",
+        "abstract": "A power conversion apparatus includes a rectification and boost unit that rectifies a first alternating-current power supplied from a commercial power supply and boosts voltage of the first alternating-current power; a capacitor connected to output terminals of the rectification and boost unit; an i",
+        "assignees": [
+          "MITSUBISHI ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02P27/06",
+          "H02M1/14",
+          "H02M1/42",
+          "H02M7/48"
+        ]
+      },
+      {
+        "pub": "WO-2020178955-A1",
+        "degree": 31.6,
+        "title": "Motor drive device, electric blower, electric vacuum cleaner, and hand dryer",
+        "abstract": "This motor drive device (1), which controls the driving of a single-phase motor (12) that rotates a rotor (12a) in which a permanent magnet is disposed, comprises: an inverter (11) that has a plurality of switching elements, converts a DC voltage into an AC voltage using the plurality of switching e",
+        "assignees": [
+          "MITSUBISHI ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02P6/18",
+          "H02P6/26",
+          "H02P25/04"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1706,
+    "size": 1716,
+    "top_central": [
+      {
+        "pub": "US-5083039-A",
+        "degree": 315.7,
+        "title": "Variable speed wind turbine",
+        "abstract": "A variable speed wind turbine is disclosed comprising a turbine rotor that drives an AC induction generator, a power converter that converts the generator output to fixed-frequency AC power, a generator controller, and an inverter controller. The generator controller uses field orientation to regula",
+        "assignees": [
+          "US WINDPOWER"
+        ],
+        "ipc": [
+          "H02P9/00",
+          "H02J3/18",
+          "H02P21/06",
+          "F03D7/02",
+          "H02J3/40"
+        ]
+      },
+      {
+        "pub": "US-5798631-A",
+        "degree": 250.5,
+        "title": "Performance optimization controller and control method for doubly-fed machines",
+        "abstract": "A variable speed, constant frequency (VSCF) system utilizes a doubly-fed machine (DFM) to maximize the output power of the system. The system includes a power converter that provides a frequency signal and a current signal to the DFM. The power converter is controlled by an adaptive controller. The ",
+        "assignees": [
+          "OREGON STATE"
+        ],
+        "ipc": [
+          "F03D7/04",
+          "H02P9/42",
+          "H02P9/00"
+        ]
+      },
+      {
+        "pub": "US-6137187-A",
+        "degree": 188.6,
+        "title": "Variable speed wind turbine generator",
+        "abstract": "A variable speed system for use in systems, such as, for example, wind turbines, is described. The system comprises a wound rotor induction generator, a torque controller and a proportional, integral derivative (PID) pitch controller. The torque controller controls generator torque using field orien",
+        "assignees": [
+          "ZOND ENERGY SYSTEMS INC"
+        ],
+        "ipc": [
+          "F03D7/02",
+          "H02P9/00",
+          "F03D9/00",
+          "H02P9/04",
+          "H02P9/30"
+        ]
+      },
+      {
+        "pub": "US-6420795-B1",
+        "degree": 169.1,
+        "title": "Variable speed wind turbine generator",
+        "abstract": "A variable speed system for use in systems, such as, for example, wind turbines, is described. The system comprises a wound rotor induction generator, a torque controller and a proportional, integral derivative (PID) pitch controller. The torque controller controls generator torque using field orien",
+        "assignees": [
+          "ZOND ENERGY SYSTEMS INC"
+        ],
+        "ipc": [
+          "H02P9/00",
+          "H02P9/42"
+        ]
+      },
+      {
+        "pub": "US-2006273595-A1",
+        "degree": 135.3,
+        "title": "System and method for operating a wind farm under high wind speed conditions",
+        "abstract": "A technique is provided for operating a wind farm at increased rated power output. The technique includes sensing a plurality of operating parameters of the wind turbine generator, assessing the plurality of operating parameters with respect to respective design ratings for the operating parameters,",
+        "assignees": [
+          "DESHPANDE AMEET S",
+          "EKER SUKRU A",
+          "HOPEWELL PAUL D"
+        ],
+        "ipc": [
+          "F03D9/00",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-2007018457-A1",
+        "degree": 131.1,
+        "title": "Method of operating a wind turbine",
+        "abstract": "In a wind turbine and in a method of operating a wind turbine, the rotor speed and/or the generator power are reduced in response to variables exceeding predetermined values, the variables being one or more of wind direction relative to horizontal direction of main shaft of turbine, turbulence of th",
+        "assignees": [
+          "GAMESA EOLICA SA"
+        ],
+        "ipc": [
+          "F03D9/00",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-4994684-A",
+        "degree": 127.4,
+        "title": "Doubly fed generator variable speed generation control system",
+        "abstract": "Disclosed is a device and method to control the conversion of an arbitrary resource energy into mechanical energy and subsequently into electric energy with a variable-speed generation system utilizing a turbine and a doubly-fed generator, to be connected directly to a power grid of a certain grid f",
+        "assignees": [
+          "OREGON STATE"
+        ],
+        "ipc": [
+          "H02P9/42"
+        ]
+      },
+      {
+        "pub": "US-5155375-A",
+        "degree": 121.4,
+        "title": "Speed control system for a variable speed wind turbine",
+        "abstract": "A controller and method is disclosed for operating a variable speed turbine to better track wind speed fluctuations for greater efficiency in conversion of wind energy to electrical energy. The controller of the invention controls the rotor speed in accordance with a wind speed supplied by a wind ob",
+        "assignees": [
+          "US WINDPOWER"
+        ],
+        "ipc": [
+          "F03D7/04",
+          "F03D7/02",
+          "H02P9/00",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-2005012339-A1",
+        "degree": 120.8,
+        "title": "Variable speed distributed drive train wind turbine system",
+        "abstract": "A variable speed wind turbine employing a rotor connected to a multiplicity of synchronous generators with wound field or permanent magnet rotors. A passive rectifier and an inverter are used for power transfer back to the grid. A Turbine Control Unit (TCU) commands a required generator torque based",
+        "assignees": [],
+        "ipc": [
+          "H02P9/04",
+          "H02P9/02",
+          "F03D7/02",
+          "H02H7/06",
+          "H02P11/00"
+        ]
+      },
+      {
+        "pub": "US-5907192-A",
+        "degree": 116.7,
+        "title": "Method and system for wind turbine braking",
+        "abstract": "Stored rotational energy in an operating variable speed wind turbine is used to pitch blades and brake the wind turbine in the event of utility power grid failure. In one embodiment, a generator IGBT converter and the main power utility grid IGBT converter supply control and pitch servo power during",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "F03D7/02",
+          "H02P9/04",
+          "H02J9/06"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1719,
+    "size": 1521,
+    "top_central": [
+      {
+        "pub": "US-4636706-A",
+        "degree": 152.7,
+        "title": "Generator voltage regulating system",
+        "abstract": "A voltage regulator for regulating the output voltage of a diode-rectified alternating current generator that supplies the electrical loads on a motor vehicle including the storage battery. The voltage regulator has an up-down counter which is incremented when the output voltage of the generator is ",
+        "assignees": [
+          "GEN MOTORS CORP"
+        ],
+        "ipc": [
+          "H02J7/24",
+          "H02P9/30",
+          "H02P9/14",
+          "H02J7/16",
+          "H02J7/14"
+        ]
+      },
+      {
+        "pub": "US-5581172-A",
+        "degree": 126.5,
+        "title": "Apparatus for controlling output of vehicular AC generator",
+        "abstract": "An apparatus for controlling an output from an AC generator for a vehicle is provided which enables wiring from an external control unit to a voltage regulator by using only one wiring line, and which is capable of adjusting an output voltage of the AC generator to a usual value in accordance with a",
+        "assignees": [
+          "MITSUBISHI ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02J7/14",
+          "H02P9/30",
+          "H02J7/24"
+        ]
+      },
+      {
+        "pub": "US-2007085512-A1",
+        "degree": 109.5,
+        "title": "Vehicle-generator control device",
+        "abstract": "The vehicle-generator control device for controlling an output voltage of a vehicle generator by on/off-controlling an excitation current flowing into an excitation winding of the vehicle generator, includes an excitation current detecting circuit detecting an excitation current flowing into the exc",
+        "assignees": [
+          "DENSO CORP"
+        ],
+        "ipc": [
+          "H02P9/00",
+          "H02P11/00",
+          "H02H7/06"
+        ]
+      },
+      {
+        "pub": "US-4379990-A",
+        "degree": 102.8,
+        "title": "Fault detection and diagnostic system for automotive battery charging systems",
+        "abstract": "An in situ self-diagnostic automotive alternator battery charging system is disclosed. Included are: a battery; voltage regulator sensing battery voltage and generating an excitation signal; and an alternator driven by a vehicle engine provide a rectified electrical signal to charge the battery in r",
+        "assignees": [
+          "MOTOROLA INC"
+        ],
+        "ipc": [
+          "H02P9/30",
+          "H02P9/00",
+          "H02J7/14",
+          "G01R31/00"
+        ]
+      },
+      {
+        "pub": "US-6184661-B1",
+        "degree": 101.5,
+        "title": "Regulator with alternator output current and input drive power control",
+        "abstract": "An alternator regulator controls both output voltage and output current, limits input drive power and torque, and maintains output power within a prescribed range while operating over a wide ambient temperature range and shaft speed range. Voltage, shaft speed, and temperature signals are monitored,",
+        "assignees": [
+          "NIEHOFF & CO C E"
+        ],
+        "ipc": [
+          "H02P9/30",
+          "H02P9/48"
+        ]
+      },
+      {
+        "pub": "US-2008164852-A1",
+        "degree": 100.9,
+        "title": "Power-generator control apparatus for addressing occurrence of voltage transient",
+        "abstract": "In a power-generator control apparatus, a control circuit intermittently controls the supply of a field current from a battery to a field winding of a power generator in normal mode so as to adjust power induced in an output winding of the power generator. The control circuit interrupts the supply o",
+        "assignees": [
+          "DENSO CORP"
+        ],
+        "ipc": [
+          "H02J7/16",
+          "H02P9/14"
+        ]
+      },
+      {
+        "pub": "US-4629968-A",
+        "degree": 99.7,
+        "title": "Alternator load control system",
+        "abstract": "A load control system for controlling the field current of an alternating current generator and the idle speed control system for the engine that drives the generator. A voltage regulator senses the output voltage of the generator and controls field current by causing a semiconductor switch connecte",
+        "assignees": [
+          "GEN MOTORS CORP"
+        ],
+        "ipc": [
+          "H02P9/10"
+        ]
+      },
+      {
+        "pub": "US-5543703-A",
+        "degree": 93.3,
+        "title": "Generator motor for vehicles",
+        "abstract": "A vehicular generator motor performing generator operation and motor operation is disclosed. The generator motor comprises an AC-DC converter means and a switching means. The converter means is composed of a plurality of MOSFETs and connected between each armature coil and a vehicular storage batter",
+        "assignees": [
+          "NIPPON DENSO CO"
+        ],
+        "ipc": [
+          "H02P9/48",
+          "H01L29/78",
+          "F02N11/04",
+          "H02J7/14",
+          "H02K29/00"
+        ]
+      },
+      {
+        "pub": "US-5629606-A",
+        "degree": 89.1,
+        "title": "Battery charging device for vehicle",
+        "abstract": "A generator for vehicle is connected to an end of a transmitting wire through a generator-side signal transmitting and receiving circuit which has a transistor and a comparator. An ECU is connected to the other end of the transmitting wire through a vehicle-side signal transmitting and receiving cir",
+        "assignees": [
+          "NIPPON DENSO CO"
+        ],
+        "ipc": [
+          "H02J7/24",
+          "H02P9/30",
+          "H02J7/14"
+        ]
+      },
+      {
+        "pub": "US-5739677-A",
+        "degree": 88.9,
+        "title": "Vehicle power generating system",
+        "abstract": "In a power generating system having an AC power generator, a quantity which is related to the state of power generation of the power generator and varies according to the supply of a leading phase current to the power generator, is detected. When the passage of the leading phase current through each",
+        "assignees": [
+          "NIPPON DENSO CO"
+        ],
+        "ipc": [
+          "H02P9/30",
+          "H02J7/16",
+          "H02J7/24"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1758,
+    "size": 1425,
+    "top_central": [
+      {
+        "pub": "US-11569765-B2",
+        "degree": 124.7,
+        "title": "Power tool receiving different capacity battery packs",
+        "abstract": "A system is provided with a set of removable battery packs and a set of power tools each including a motor, a controller, and a battery receiving portion. For each power tool, the controller is configured to identify a type of battery pack coupled to the battery receiving portion and limit a maximum",
+        "assignees": [
+          "BLACK & DECKER INC"
+        ],
+        "ipc": [
+          "H01M10/42",
+          "H02K11/00",
+          "B25F5/00",
+          "H02K7/14",
+          "H02P6/28"
+        ]
+      },
+      {
+        "pub": "US-10243491-B2",
+        "degree": 119.4,
+        "title": "Control scheme to increase power output of a power tool using conduction band and advance angle",
+        "abstract": "A power tool includes a multi-phase BLDC motor, a plurality of switches, an input unit, and a controller. For each phase, the controller operates to vary power output to the motor between a first power and a second power by varying a duty cycle of a PWM signal from 0% to 100% while keeping a conduct",
+        "assignees": [
+          "BLACK & DECKER INC"
+        ],
+        "ipc": [
+          "H02P7/03",
+          "B25F5/00",
+          "H02K11/33",
+          "H02K7/14",
+          "H02P27/08"
+        ]
+      },
+      {
+        "pub": "US-11329597-B2",
+        "degree": 118.8,
+        "title": "Reducing noise and lowering harmonics in power tools using conduction band control schemes",
+        "abstract": "Conduction band control schemes are presented for reducing noise and/or lower harmonics in power tools. A controller in the tool is interfaced with a plurality of motor switches and, for each phase, operates to output a pulse-width modulated (PWM) signal to one or more of the motor switches to contr",
+        "assignees": [
+          "BLACK & DECKER INC"
+        ],
+        "ipc": [
+          "H02P29/50",
+          "H02P29/40",
+          "B25F5/02",
+          "H02P7/29",
+          "B25F5/00"
+        ]
+      },
+      {
+        "pub": "US-11213302-B2",
+        "degree": 99.5,
+        "title": "Method for closed loop control of motor velocity of a surgical stapling and cutting instrument",
+        "abstract": "A control circuit usable with a surgical instrument including a displacement member, a motor configured to translate the displacement member, and a position sensor configured to monitor a position of the displacement member is provided. The control circuit includes logic configured to provide a moto",
+        "assignees": [
+          "CILAG GMBH INT",
+          "ETHICON LLC"
+        ],
+        "ipc": [
+          "A61B34/00",
+          "A61B17/32",
+          "H02P23/00",
+          "A61B17/072",
+          "A61B17/00"
+        ]
+      },
+      {
+        "pub": "US-5014793-A",
+        "degree": 95.4,
+        "title": "Variable speed DC motor controller apparatus particularly adapted for control of portable-power tools",
+        "abstract": "A portable electric power tool having a DC motor for driving tool bit is controlled according to speed and torque by employing a zero displacement switch means which is coupled to the tool and operative to provide an output voltage porportional to the pressure applied to the switch means via the han",
+        "assignees": [
+          "MEASUREMENT SPEC INC"
+        ],
+        "ipc": [
+          "B25F5/00",
+          "H02P7/29",
+          "B25B21/00",
+          "H02P1/18"
+        ]
+      },
+      {
+        "pub": "US-10828033-B2",
+        "degree": 95.1,
+        "title": "Handheld electromechanical surgical instruments with improved motor control arrangements for positioning components of an adapter coupled thereto",
+        "abstract": "A handheld electromechanical surgical device configured to be operably coupled to a surgical accessory. The device includes a handle assembly that operably supports a plurality of electrically powered motors that are controlled by a processor within the handle assembly. The handle assembly is encase",
+        "assignees": [
+          "ETHICON LLC"
+        ],
+        "ipc": [
+          "A61B17/29",
+          "A61B90/00",
+          "H02P5/74",
+          "H01M10/42",
+          "H02P23/14"
+        ]
+      },
+      {
+        "pub": "US-10327769-B2",
+        "degree": 94.6,
+        "title": "Surgical stapler having motor control based on a drive system component",
+        "abstract": "A surgical stapler. The surgical stapler includes a drive system, an electric motor, a battery and a control system. The drive system includes a movable drive member. The electric motor is mechanically coupled to the drive system. The battery is electrically couplable to the electric motor. The cont",
+        "assignees": [
+          "ETHICON ENDO SURGERY LLC",
+          "ETHICON LLC"
+        ],
+        "ipc": [
+          "A61B90/00",
+          "A61B17/072",
+          "H02P7/00",
+          "A61B17/00",
+          "H02P7/06"
+        ]
+      },
+      {
+        "pub": "US-10869666-B2",
+        "degree": 93.2,
+        "title": "Adapters with control systems for controlling multiple motors of an electromechanical surgical instrument",
+        "abstract": "An adapter for use with an electromechanical surgical instrument. The adapter includes a shaft assembly and a surgical end effector that is selectively articulatable and rotatable relative to the shaft assembly through a range of articulated and rotated positions. The adapter includes a firing membe",
+        "assignees": [
+          "ETHICON LLC"
+        ],
+        "ipc": [
+          "A61B17/072",
+          "H01M10/42",
+          "A61B90/00",
+          "H02P23/14",
+          "A61B17/00"
+        ]
+      },
+      {
+        "pub": "US-10363036-B2",
+        "degree": 83.9,
+        "title": "Surgical stapler having force-based motor control",
+        "abstract": "A surgical stapler. The surgical stapler includes a drive system, a handle assembly, an electric motor, a battery and a control system. The drive system includes a movable drive member. The handle assembly includes a frame configured to support the movable drive member. The electric motor is mechani",
+        "assignees": [
+          "ETHICON LLC",
+          "ETHICON ENDO SURGERY LLC"
+        ],
+        "ipc": [
+          "A61B17/072",
+          "H02P7/00",
+          "A61B17/00",
+          "A61B90/00"
+        ]
+      },
+      {
+        "pub": "US-5440215-A",
+        "degree": 83.6,
+        "title": "Electrical power tool having a motor control circuit for increasing the effective torque output of the power tool",
+        "abstract": "A power tool such as an electric drill typically contains a gear train that couples the output spindle of the motor to the tool bit-receiving chuck and has associated therewith a degree of looseness which must be taken up before torque from the motor is applied to the tool bit. The control circuit f",
+        "assignees": [
+          "BLACK & DECKER INC"
+        ],
+        "ipc": [
+          "H02P7/29",
+          "B25B23/14",
+          "B23P19/06",
+          "B25B23/147",
+          "B23B45/02"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1716,
+    "size": 1342,
+    "top_central": [
+      {
+        "pub": "US-5099186-A",
+        "degree": 91.3,
+        "title": "Integrated motor drive and recharge system",
+        "abstract": "A drive and recharge system is disclosed that includes a bidirectional dc power source, two voltage-fed inverters, two induction motors, and a control unit. In the drive mode, power is bidirectionally connected between the dc power source and the motors. In the recharge mode, single-phase power appl",
+        "assignees": [
+          "GEN MOTORS INC"
+        ],
+        "ipc": [
+          "B60L11/18",
+          "H02J7/02",
+          "H02J7/00",
+          "H02J3/00",
+          "H02P5/74"
+        ]
+      },
+      {
+        "pub": "US-5710699-A",
+        "degree": 76.4,
+        "title": "Power electronic interface circuits for batteries and ultracapacitors in electric vehicles and battery storage systems",
+        "abstract": "A method and apparatus for load leveling of a battery in an electrical power system includes a power regulator coupled to transfer power between a load and a DC link, a battery coupled to the DC link through a first DC-to-DC converter and an auxiliary passive energy storage device coupled to the DC ",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02M3/28",
+          "H02P23/06",
+          "B60L11/18",
+          "B60L11/00"
+        ]
+      },
+      {
+        "pub": "US-7764051-B2",
+        "degree": 65.4,
+        "title": "Alternating voltage generation apparatus and power output apparatus",
+        "abstract": "A power output apparatus includes first and second motor generators, first and second inverters and a relay circuit. The first and second motor generators include first and second 3-phase coils, respectively. The first inverter alters periodically the potential at a first neutral point of the 3-phas",
+        "assignees": [
+          "TOYOTA MOTOR CO LTD",
+          "AISIN AW CO"
+        ],
+        "ipc": [
+          "H02H7/06",
+          "B60L50/15",
+          "H02P11/00",
+          "H02P9/00",
+          "H02M7/497"
+        ]
+      },
+      {
+        "pub": "US-5589743-A",
+        "degree": 63.0,
+        "title": "Integrated cranking inverter and boost converter for a series hybrid drive system",
+        "abstract": "An electric continuously variable drive system includes an ac motor, an alternator for supplying electrical power to the ac motor via a rectifier and an inverter, a heat engine for driving the alternator, an energy storage device for providing electrical energy to the electric continuously variable ",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "B60K6/387",
+          "B60K6/46",
+          "B60K6/36",
+          "B60W20/00",
+          "B60W10/06"
+        ]
+      },
+      {
+        "pub": "US-2003146726-A1",
+        "degree": 60.5,
+        "title": "Load driver with power storage unit",
+        "abstract": "In a load driving arrangement, electric power is supplied from an auxiliary battery to a main power supply when the power stored by charging in the main power supply is scarce at the startup of the system. The power is supplied to the main power supply by closing relays to connect the auxiliary batt",
+        "assignees": [
+          "TOYOTA MOTOR CO LTD"
+        ],
+        "ipc": [
+          "H01M10/44",
+          "B60K6/48",
+          "B60W20/00",
+          "B60L50/15",
+          "B60L15/10"
+        ]
+      },
+      {
+        "pub": "US-5973460-A",
+        "degree": 59.0,
+        "title": "Power output apparatus and method of controlling the same",
+        "abstract": "A power output apparatus of the invention includes a clutch motor (30) and an assist motor (40) that allow energy output from an engine (50) driven at a driving point of high efficiency to be converted to energy expressed as the product of a revolving speed and a torque of a drive shaft (22) and to ",
+        "assignees": [
+          "TOYOTA MOTOR CO LTD"
+        ],
+        "ipc": [
+          "B60K6/40",
+          "B60K17/356",
+          "B60W20/13",
+          "B60L15/20",
+          "B60K6/20"
+        ]
+      },
+      {
+        "pub": "US-11479139-B2",
+        "degree": 55.9,
+        "title": "Methods and systems for an integrated charging system for an electric vehicle",
+        "abstract": "Methods and systems are provided for an onboard charging system of an electric vehicle. In one example, the charging system includes a controller for an electric vehicle comprising a first DC energy storage device at a device voltage, a charging interface for interfacing with an external DC source o",
+        "assignees": [
+          "INVERTEDPOWER PTY LTD"
+        ],
+        "ipc": [
+          "H02J7/34",
+          "B60L53/53",
+          "B60K6/28",
+          "B60L53/60",
+          "B60L53/66"
+        ]
+      },
+      {
+        "pub": "US-2009033274-A1",
+        "degree": 55.5,
+        "title": "System for using a multi-phase motor with a double-ended inverter system",
+        "abstract": "Systems and apparatus are provided for an inverter system for use in a vehicle having a first energy source and a second energy source. The inverter system comprises an electric motor having a first set of windings and a second set of windings. The inverter system further comprises a first inverter ",
+        "assignees": [
+          "GM GLOBAL TECH OPERATIONS INC"
+        ],
+        "ipc": [
+          "H02P4/00",
+          "H02P27/06"
+        ]
+      },
+      {
+        "pub": "US-6476571-B1",
+        "degree": 51.6,
+        "title": "Multiple power source system and apparatus, motor driving apparatus, and hybrid vehicle with multiple power source system mounted thereon",
+        "abstract": "In a multiple power source system of the present invention that has an inverter connected to a reactance, such as three-phase coils in a motor, a high voltage battery is connected with a low voltage battery via one transistor (Tr 2 ) and one diode (D 2 ) included in the inverter and one phase coil (",
+        "assignees": [
+          "TOYOTA MOTOR CO LTD"
+        ],
+        "ipc": [
+          "B60W10/08",
+          "B60L50/16",
+          "F02D29/02",
+          "H02M7/5387",
+          "H01M10/44"
+        ]
+      },
+      {
+        "pub": "US-2009033253-A1",
+        "degree": 48.8,
+        "title": "Electric traction system for a vehicle having a dual winding ac traction motor",
+        "abstract": "An electric traction system for a vehicle having a high voltage battery and a low voltage battery is provided. The system includes an AC electric motor and a double ended inverter system coupled to the AC electric motor. The AC electric motor has a first set of windings and a second set of windings ",
+        "assignees": [
+          "GM GLOBAL TECH OPERATIONS INC"
+        ],
+        "ipc": [
+          "H02J7/14",
+          "H02P27/06"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1759,
+    "size": 1286,
+    "top_central": [
+      {
+        "pub": "US-4052648-A",
+        "degree": 139.1,
+        "title": "Power factor control system for ac induction motors",
+        "abstract": "A power factor control system for use with AC induction motors which samples line voltage and current through the motor and decreases power input to the motor proportional to the detected phase displacement between current and voltage to thereby provide less power to the motor, as it is less loaded.",
+        "assignees": [
+          "NASA"
+        ],
+        "ipc": [
+          "G01R21/00",
+          "H02J3/18",
+          "H02P23/00",
+          "H02P25/04",
+          "H02P27/02"
+        ]
+      },
+      {
+        "pub": "US-5008608-A",
+        "degree": 109.3,
+        "title": "Controller for starting and stopping electric motors",
+        "abstract": "A three-phase motor is operated by a controller having sets of thyristors which trigger electricity from each phase of a supply to the motor. The controller measures the interval \u03c6 between the voltage and the current when one phase of the motor makes a zero crossing and measures the interval \u03b3 when ",
+        "assignees": [
+          "ALLEN BRADLEY CO"
+        ],
+        "ipc": [
+          "H02P27/02",
+          "H02P1/28"
+        ]
+      },
+      {
+        "pub": "US-2004155622-A1",
+        "degree": 96.8,
+        "title": "System and method for stall detection of a motor",
+        "abstract": "A motor starter system comprises solid state switches for connection between an AC line and motor terminals for controlling application of AC power to the motor. A voltage sensor senses AC line voltage and the motor terminal voltage. Current sensors sense motor current. A control circuit controls op",
+        "assignees": [],
+        "ipc": [
+          "H02P27/02",
+          "H02P1/28"
+        ]
+      },
+      {
+        "pub": "US-5592062-A",
+        "degree": 91.5,
+        "title": "Controller for AC induction motors",
+        "abstract": "A controller for use with AC induction motors utilizes a microcontroller in conjunction with a triac to control the duty cycle of the AC power applied to the motor. A voltage sensing circuit provides signals to the microcontroller. The microcontroller is also coupled to the gate of a triac. The micr",
+        "assignees": [],
+        "ipc": [
+          "H02P25/14"
+        ]
+      },
+      {
+        "pub": "US-4800326-A",
+        "degree": 90.2,
+        "title": "Apparatus and methods for controlling induction motors",
+        "abstract": "When induction motors are lightly loaded their power factors and efficiency are poor but in the present invention power factor is controlled regardless of load. An induction motor is connected by way of a triac to a supply. The voltage across the triac is monitored by a comparator for voltage steps ",
+        "assignees": [
+          "NAT RES DEV"
+        ],
+        "ipc": [
+          "H02P23/00"
+        ]
+      },
+      {
+        "pub": "US-4266177-A",
+        "degree": 84.5,
+        "title": "Power factor control system for AC induction motors",
+        "abstract": "A power control circuit for an induction motor wherein a servo loop is used to control power input by controlling the power factor of motor operation, and wherein the power factor is measured by summing the voltage and current derived square wave signals.",
+        "assignees": [
+          "NASA"
+        ],
+        "ipc": [
+          "H02J3/18",
+          "H02P23/00"
+        ]
+      },
+      {
+        "pub": "US-8698447-B2",
+        "degree": 82.0,
+        "title": "Energy saving system and method for devices with rotating or reciprocating masses",
+        "abstract": "A system and method are provided for reducing the energy consumed by a pump jack electric motor by reducing the supply voltage to the motor when the motor would be generating energy in open loop mode. By substantially eliminating the energy generation mode, the braking action of the utility grid in ",
+        "assignees": [
+          "POWERWISE GROUP INC",
+          "VENKATARAMAN VASAN",
+          "LUMSDEN JOHN L"
+        ],
+        "ipc": [
+          "H02P27/00",
+          "H02P23/00",
+          "H02P3/18",
+          "H02P25/00"
+        ]
+      },
+      {
+        "pub": "US-4482853-A",
+        "degree": 80.7,
+        "title": "Composite control for soft start and dynamic braking of a three-phase induction motor",
+        "abstract": "A control circuit for a three phase induction motor includes a voltage controller having a silicon controlled rectifier in each of a first, second and third supply line connected to the motor. The control circuit further includes a first, second and third phase control means for controlling the firi",
+        "assignees": [
+          "REULAND ELECTRIC COMPANY"
+        ],
+        "ipc": [
+          "H02P3/24",
+          "H02P1/28"
+        ]
+      },
+      {
+        "pub": "US-11128240-B1",
+        "degree": 79.3,
+        "title": "Reduced voltage soft starter apparatus and methods using current-controlled transitions",
+        "abstract": "A motor starter includes a plurality of semiconductor switches configured to couple respective phases of an AC power source to respective phases of a motor and a control circuit configured to configured to selectively operate the semiconductor switches to gradually increase a voltage applied to the ",
+        "assignees": [
+          "EATON INTELLIGENT POWER LTD"
+        ],
+        "ipc": [
+          "H02P1/28"
+        ]
+      },
+      {
+        "pub": "US-4636702-A",
+        "degree": 76.8,
+        "title": "Energy economizer controlled-current start and protection for induction motors",
+        "abstract": "A standard, unmodified induction motor starts with reduced input current, energy consumption and mechanical stress and is further protected from AC power source &#34;phase loss&#34;, excessively low or high voltage or a locked-rotor condition during start-up or any subsequent moment while running wh",
+        "assignees": [
+          "PARKER LOUIS W"
+        ],
+        "ipc": [
+          "H02P27/02",
+          "H02H7/085",
+          "H02P1/28"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1763,
+    "size": 1207,
+    "top_central": [
+      {
+        "pub": "US-4772839-A",
+        "degree": 149.1,
+        "title": "Rotor position estimator for switched reluctance motor",
+        "abstract": "An indirect position estimator for a switched reluctance motor applies short duration, low level sensing pulses to two unenergized phases of the motor. A change in phase current during a sampling period, resulting from the application of the sensing pulse, is sensed and processed to produce an indic",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P6/18",
+          "H02P25/08",
+          "H02P6/16"
+        ]
+      },
+      {
+        "pub": "US-2005072608-A1",
+        "degree": 145.0,
+        "title": "Vehicle for materials handling and other industrial uses",
+        "abstract": "A heavy duty wheeled vehicle for an industrial environment is electrically driven by one or more switched reluctance motor traction drive system connected to the wheels. The switched reluctance motors are powered by an electrical generator that is driven by an engine, such as a diesel engine, which ",
+        "assignees": [],
+        "ipc": [
+          "H02P25/08",
+          "B60K1/02",
+          "B60W10/08",
+          "B60K7/00",
+          "B60K6/26"
+        ]
+      },
+      {
+        "pub": "US-4739240-A",
+        "degree": 136.1,
+        "title": "Commutator for switched reluctance drive",
+        "abstract": "A commutator for a microcomputer based switched reluctance drive employs a selectively addressable non-volatile memory, e.g. a ROM, to store stator phase firing patterns and facilities selective adjustment of turn-on angle and pulsewidth of phase switching current pulses. Firing patterns differing o",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P25/08",
+          "H02P6/10",
+          "H02P29/00"
+        ]
+      },
+      {
+        "pub": "US-4707650-A",
+        "degree": 134.9,
+        "title": "Control system for switched reluctance motor",
+        "abstract": "A programmable, closed-loop four quadrant control system for a switched reluctance motor employs feedback control, angle control and current control. The feedback control can be implemented with a speed feedback loop and/or a torque feedback loop. The angle control digitally synchronizes stator phas",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P3/06",
+          "H02P25/08"
+        ]
+      },
+      {
+        "pub": "US-4684867-A",
+        "degree": 131.8,
+        "title": "Regenerative unipolar converter for switched reluctance motors using one main switching device per phase",
+        "abstract": "In a converter for a switched reluctance motor, a dump capacitor receives freewheeling current from each phase and resupplies the charge to the dc supply. In this manner, residual magnetic energy is recovered and phase current quickly reduced while the converter requires only one main switching devi",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P25/08",
+          "H02P6/24",
+          "H02P3/06",
+          "H02P3/18"
+        ]
+      },
+      {
+        "pub": "US-4670696-A",
+        "degree": 131.7,
+        "title": "Variable speed variable reluctance electrical machines",
+        "abstract": "A drive system includes a reluctance motor, driving a load. The motor has stator and rotor poles and magnetizing windings for each stator pole. The airgap is small so that saturation occurs during pole overlap, and the poles are constructed so that there is torque overlap between phases as successiv",
+        "assignees": [
+          "KOLLMORGEN TECH CORP"
+        ],
+        "ipc": [
+          "H02P6/04",
+          "H02K29/06",
+          "H02K19/24",
+          "H02K19/10",
+          "H02P6/10"
+        ]
+      },
+      {
+        "pub": "US-5097190-A",
+        "degree": 130.0,
+        "title": "Rotor position estimator for a switched reluctance machine",
+        "abstract": "A method and apparatus for indirectly determining rotor position in a switched reluctance motor (SRM) are based on instantaneous flux and phase current sensing. For each phase in a predetermined sequence of phase sensing, which depends on the particular quadrant of machine operation, phase flux and ",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P25/08",
+          "H02P6/18"
+        ]
+      },
+      {
+        "pub": "US-4611157-A",
+        "degree": 125.7,
+        "title": "Switched reluctance motor drive operating without a shaft position sensor",
+        "abstract": "A method and apparatus for operating a switched reluctance motor at high efficiency, without requiring a shaft position sensor, allows dynamic increase of the torque margin as the dwell angle of the phase currents is changed in response to a change in load torque. Average current supplied by the DC ",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P25/08"
+        ]
+      },
+      {
+        "pub": "US-5923142-A",
+        "degree": 122.7,
+        "title": "Low cost drive for switched reluctance motor with DC-assisted excitation",
+        "abstract": "A reluctance machine system including a reluctance machine having a rotor and a stator including at least one phase winding and a full pitch auxiliary field winding where constant currents are established in the auxiliary field winding to assist in the establishment of a magnetic field in the machin",
+        "assignees": [
+          "EMERSON ELECTRIC CO"
+        ],
+        "ipc": [
+          "H02K19/10",
+          "H02P25/08",
+          "H02K3/28"
+        ]
+      },
+      {
+        "pub": "US-5469039-A",
+        "degree": 120.8,
+        "title": "Control of switched reluctance machines",
+        "abstract": "A control system for and method for controlling a switched reluctance generator to maintain stable control of the generator in the continuous current mode. This is achieved by sensing the load on the generator, the speed of the rotor and the position of the rotor with respect to each phase winding i",
+        "assignees": [
+          "SWITCHED RELUCTANCE DRIVES LTD"
+        ],
+        "ipc": [
+          "H02P9/40",
+          "H02P9/00",
+          "H02P7/00",
+          "H02P25/08"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1709,
+    "size": 1204,
+    "top_central": [
+      {
+        "pub": "US-7042109-B2",
+        "degree": 67.3,
+        "title": "Wind turbine",
+        "abstract": "A wind turbine for generating electrical power from wind energy includes a turbine rotor mounted for rotation in wind, and having multiple blades for converting energy in the wind into rotational energy. A generator is coupled with said turbine rotor such that said turbine rotor drives said generato",
+        "assignees": [
+          "GABRYS CHRISTOPHER W"
+        ],
+        "ipc": [
+          "F03D7/02",
+          "F16C39/06",
+          "F03B15/06",
+          "F03D9/00",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-9006918-B2",
+        "degree": 63.5,
+        "title": "Wind turbine",
+        "abstract": "A wind turbine having an electric machine in turn having a stator, and a rotor which rotates about an axis of rotation with respect to the stator; the rotor having a number of magnetized modules, and a number of supports for supporting the magnetized modules and arranged about the axis of rotation; ",
+        "assignees": [
+          "PABST OTTO",
+          "CASAZZA MATTEO",
+          "WILIC S A R L"
+        ],
+        "ipc": [
+          "H02K1/22",
+          "H02K1/27",
+          "F03D9/00",
+          "H02K7/18",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-8319362-B2",
+        "degree": 62.7,
+        "title": "Wind power turbine with a cooling system",
+        "abstract": "A wind power turbine having a pylon; a nacelle; an electric generator fitted to the nacelle to produce electric energy; a frequency converter housed inside the pylon; and a cooling system for cooling the frequency converter, and which has an open-loop circuit provided with a conduit, and at least on",
+        "assignees": [
+          "WILIC SARL",
+          "VIHRIALA HARRI",
+          "KASSNER THOMAS"
+        ],
+        "ipc": [
+          "F03D9/00",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-7323791-B2",
+        "degree": 61.9,
+        "title": "Louvered horizontal wind turbine",
+        "abstract": "A wind turbine, including: a rotatable frame; a plurality of airfoils extending in a direction parallel to an axis of rotation of the rotatable frame; and an enclosure surrounding the rotatable frame, wherein the enclosure comprises a plurality of moveable members configured to direct air flow onto ",
+        "assignees": [
+          "JONSSON STANLEY C"
+        ],
+        "ipc": [
+          "H02P9/04",
+          "F03D9/00"
+        ]
+      },
+      {
+        "pub": "US-8937397-B2",
+        "degree": 60.6,
+        "title": "Wind power turbine and method of removing a bearing from a wind power turbine",
+        "abstract": "An electric energy producing wind power turbine having a nacelle, an electric generator having a stator and a rotor, a rotary assembly connected to the nacelle to rotate about an axis of rotation, and a bearing located between the rotary assembly and the nacelle, the nacelle having a first sector, w",
+        "assignees": [
+          "GELMINI EMMANUELE",
+          "WILIC S A R L"
+        ],
+        "ipc": [
+          "H02P9/04",
+          "F03D1/00",
+          "F03D9/00",
+          "F03D11/00"
+        ]
+      },
+      {
+        "pub": "US-6285090-B1",
+        "degree": 59.0,
+        "title": "Low-speed directly driven wind turbine",
+        "abstract": "An electrical energy production system includes a wind turbine having blades mounted on a support and which rotationally drive an alternator. The alternator includes at least one module having at least one rotor disk and one stator disk centered on an axis of the support and all of the rotor and sta",
+        "assignees": [
+          "JEUMONT IND"
+        ],
+        "ipc": [
+          "F03D7/04",
+          "F03D9/02",
+          "F03D9/00",
+          "F03D7/02",
+          "H02P9/00"
+        ]
+      },
+      {
+        "pub": "US-8975770-B2",
+        "degree": 57.4,
+        "title": "Wind power turbine electric generator and wind power turbine equipped with an electric generator",
+        "abstract": "A wind power turbine electric generator, the electric generator having a tubular first supporting structure extending about an axis of rotation; a second supporting structure extending about the axis of rotation, substantially coaxial with the first supporting structure, and fitted to the first supp",
+        "assignees": [
+          "GELMINI EMMANUELE",
+          "WILIC SARL"
+        ],
+        "ipc": [
+          "H02K1/18",
+          "F03B13/00",
+          "F03D9/00",
+          "F03D7/02",
+          "H02K7/18"
+        ]
+      },
+      {
+        "pub": "US-7164212-B2",
+        "degree": 57.3,
+        "title": "Electric device and method",
+        "abstract": "The present invention relates to a wave-power unit having a floating body ( 3 ) which is connected by a connection means ( 4 ) to the rotor ( 7 ) of an electric linear generator ( 5 ). The stator ( 6 ) is anchored in the sea bed ( 1 ). In accordance with the invention the rotor ( 7 ) is permanently ",
+        "assignees": [
+          "SWEDISH SEABASED ENERGY AB"
+        ],
+        "ipc": [
+          "F03B13/18",
+          "F03B13/10",
+          "F03B13/12",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-8937398-B2",
+        "degree": 57.0,
+        "title": "Wind turbine rotary electric machine",
+        "abstract": "A wind turbine rotary electric machine having a rotor, which rotates about a designated axis and has a rotary body; a plurality of permanent magnets fitted to the rotary body; a plurality of cooling channels close to the permanent magnets; and a plurality of heat-conducting bodies, each located part",
+        "assignees": [
+          "CASAZZA MATTEO",
+          "WILIC SARL",
+          "FOLIE GEORG"
+        ],
+        "ipc": [
+          "H02P9/04",
+          "F03D9/00",
+          "H02K9/22",
+          "H02K5/20",
+          "H02K21/12"
+        ]
+      },
+      {
+        "pub": "US-7323790-B2",
+        "degree": 56.6,
+        "title": "Wave energy converters (WECs) with linear electric generators (LEGs)",
+        "abstract": "An ocean wave energy converter (WEC) utilizes the relative motion between permanent magnet and induction coil assemblies to generate electricity. The permanent magnet assemblies and induction coil assemblies are separately housed in watertight enclosures, enabling a wide range of wave energy convert",
+        "assignees": [
+          "OCEAN POWER TECHNOLOGIES INC"
+        ],
+        "ipc": [
+          "H02P9/04",
+          "F03B13/12",
+          "F03B13/10"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1712,
+    "size": 1121,
+    "top_central": [
+      {
+        "pub": "US-5594322-A",
+        "degree": 235.1,
+        "title": "Starter/generator system with variable-frequency exciter control",
+        "abstract": "A control for a brushless generator is operable in a starting mode of operation to convert electrical power into motive power for starting a prime mover. The control applies AC power to an exciter field winding at a first frequency at the initiation of a start sequence and thereafter decreases the f",
+        "assignees": [
+          "SUNDSTRAND CORP"
+        ],
+        "ipc": [
+          "F02N11/04",
+          "H02P9/08"
+        ]
+      },
+      {
+        "pub": "US-5493200-A",
+        "degree": 162.1,
+        "title": "Control for a brushless generator",
+        "abstract": "A control for a brushless generator operable in starting and generating modes supplies combined AC and DC power to an exciter field winding of the brushless generator during operation in the starting mode. The magnitude of a parameter of the AC power is decreased with increasing rotor speed during o",
+        "assignees": [
+          "SUNDSTRAND CORP"
+        ],
+        "ipc": [
+          "H02P9/08"
+        ]
+      },
+      {
+        "pub": "US-4743777-A",
+        "degree": 156.1,
+        "title": "Starter generator system with two stator exciter windings",
+        "abstract": "A starter generator system is provided with a dynamoelectric machine having a stator and a rotor which is mounted for rotation with respect to the stator. The rotor carries a main field winding, an exciter armature winding and means for rectifying the output of the exciter armature winding to provid",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02P1/00",
+          "F02N11/04",
+          "H02P9/08",
+          "H02K19/00",
+          "H02K19/26"
+        ]
+      },
+      {
+        "pub": "US-5581168-A",
+        "degree": 143.3,
+        "title": "Starter/generator system with DC link current control",
+        "abstract": "A synchronous generator usable in both a starting mode of operation and a generating mode of operation includes a permanent magnet generator having a permanent magnet and an armature winding rotatable with respect to the permanent magnet, an exciter portion having an exciter armature winding and an ",
+        "assignees": [
+          "SUNDSTRAND CORP"
+        ],
+        "ipc": [
+          "H02P9/08",
+          "F02N11/04"
+        ]
+      },
+      {
+        "pub": "US-5430362-A",
+        "degree": 137.6,
+        "title": "Engine starting system utilizing multiple controlled acceleration rates",
+        "abstract": "A control for operating an electromagnetic machine in a starting mode of operation wherein the main armature winding of the machine receives electrical power from a controllable power source during the starting mode of operation, comprises a circuit for detecting a magnitude of a parameter of power ",
+        "assignees": [
+          "SUNDSTRAND CORP"
+        ],
+        "ipc": [
+          "H02P9/08",
+          "F02N11/04",
+          "F01D15/10",
+          "F02C7/268"
+        ]
+      },
+      {
+        "pub": "US-4772802-A",
+        "degree": 129.4,
+        "title": "Starting/generating system",
+        "abstract": "Prior starting/generating systems which operate a generator as a motor to start a prime mover have been inefficient since motive power was delivered to the prime mover through hydrostatic trim and differential components of a constant speed drive interposed between the prime mover and the generator.",
+        "assignees": [
+          "SUNDSTRAND CORP"
+        ],
+        "ipc": [
+          "H02P1/46",
+          "F02N11/04"
+        ]
+      },
+      {
+        "pub": "US-4093869-A",
+        "degree": 118.7,
+        "title": "Quadrature axis field brushless exciter",
+        "abstract": "Method and apparatus for accelerating a large inertia load from rest to a predetermined speed of rotation by means of a synchronous dynamoelectric machine. A synchronous dynamoelectric machine, such as a turbine generator, which is mechanically coupled to a gas turbine prime mover, is started synchr",
+        "assignees": [
+          "WESTINGHOUSE ELECTRIC CORP"
+        ],
+        "ipc": [
+          "H02P9/14",
+          "H02P1/00",
+          "H02K19/26",
+          "H02K19/12"
+        ]
+      },
+      {
+        "pub": "US-4625160-A",
+        "degree": 118.1,
+        "title": "Variable speed constant frequency generating system",
+        "abstract": "A variable speed constant frequency generating system for generating constant frequency electrical output power from a variable speed source of motive power includes an exciter for generating excitation current, a main generator for developing the output power, both of the exciter and main generator",
+        "assignees": [
+          "SUNDSTRAND CORP"
+        ],
+        "ipc": [
+          "H02K16/02",
+          "H02K19/26",
+          "H02P9/30",
+          "H02P9/42",
+          "H02K3/16"
+        ]
+      },
+      {
+        "pub": "US-3908161-A",
+        "degree": 108.1,
+        "title": "Field excitation system for synchronous machines utilizing a rotating transformer brushless exciter generating combination",
+        "abstract": "A field excitation system is provided for a synchronous machine which is operated both as a motor and as a generator. Field excitation is provided by a rotating machine which is connected as a brushless exciter when the synchronous machine is in the generating mode and connected as a rotating transf",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P1/46",
+          "H02K19/00",
+          "H02P9/14",
+          "H02P27/06",
+          "H02P1/00"
+        ]
+      },
+      {
+        "pub": "US-6838779-B1",
+        "degree": 106.9,
+        "title": "Aircraft starter generator for variable frequency (vf) electrical system",
+        "abstract": "A starter-generator for an aircraft engine comprises a variable dynamoelectric machine alternatively operable as a motor or as a generator, having a rotor. A support motor is coupled to the variable dynamoelectric machine to assist the machine. A torque converter selectively couples and decouples th",
+        "assignees": [
+          "HAMILTON SUNDSTRAND CORP"
+        ],
+        "ipc": [
+          "F02N15/02",
+          "F02C7/268",
+          "H02P9/06",
+          "F02N11/04"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1714,
+    "size": 1010,
+    "top_central": [
+      {
+        "pub": "US-6700356-B1",
+        "degree": 123.8,
+        "title": "Method and apparatus for regulating the excitation of an alternator of a genset",
+        "abstract": "A system and method are disclosed for providing a control signal to control an excitation level of an alternator. The system includes a first calculation element that receives first, second and third indications of first, second and third output voltages of first, second and third phases of the alte",
+        "assignees": [
+          "KOHLER CO"
+        ],
+        "ipc": [
+          "H02P9/30"
+        ]
+      },
+      {
+        "pub": "US-6555929-B1",
+        "degree": 115.7,
+        "title": "Method and apparatus for preventing excessive reaction to a load disturbance by a generator set",
+        "abstract": "A method and apparatus are disclosed for controlling a genset having an engine and an alternator in order to prevent an excessive change in a speed of the engine because of a sudden change in a load on the alternator. The method includes obtaining a first measured value of an actual AC output power ",
+        "assignees": [
+          "KOHLER CO"
+        ],
+        "ipc": [
+          "F02D41/08",
+          "F02D31/00",
+          "F02D11/10",
+          "H02P9/10"
+        ]
+      },
+      {
+        "pub": "US-5168208-A",
+        "degree": 99.1,
+        "title": "Microprocessor based integrated generator set controller apparatus and method",
+        "abstract": "An electrical generator system integrated controller device utilizing PID control and capable of regulating voltage or current, and frequency simultaneously. The device utilizes a micro-controller (30.1) to monitor the engine generator set (20), then determines the appropriate signal to deliver to t",
+        "assignees": [
+          "ONAN CORP"
+        ],
+        "ipc": [
+          "H02P9/04",
+          "H02P9/30"
+        ]
+      },
+      {
+        "pub": "US-6701221-B1",
+        "degree": 94.1,
+        "title": "Method and apparatus for preventing excessive heat generation in a alternator of a generator set",
+        "abstract": "A method and apparatus are disclosed for preventing damage to an alternator of a genset resulting from high currents within the alternator. The method includes calculating, at a processor, a first quantity related to a current flowing through the alternator during a first time period, and comparing,",
+        "assignees": [
+          "KOHLER CO"
+        ],
+        "ipc": [
+          "G05D11/00",
+          "H02P9/00"
+        ]
+      },
+      {
+        "pub": "US-5006781-A",
+        "degree": 93.1,
+        "title": "Microprocessor based integrated generator set controller apparatus and method",
+        "abstract": "An electrical generator system integrated controller device utilizing PID control and capable of regulating voltage or current, and frequency simultaneously. The device utilizes a micro-controller (30.1) to monitor the engine generator set (20), then determines the appropriate signal to deliver to t",
+        "assignees": [
+          "ONAN CORP"
+        ],
+        "ipc": [
+          "H02P9/04",
+          "H02P9/30"
+        ]
+      },
+      {
+        "pub": "US-4245182-A",
+        "degree": 92.6,
+        "title": "Excitation control apparatus for a generator",
+        "abstract": "A field control apparatus for a generator having a field winding comprises a terminal voltage control unit for controlling a field current of the generator in accordance with a difference between a terminal voltage signal of the generator and a reference voltage signal, which control unit has at lea",
+        "assignees": [
+          "HITACHI LTD"
+        ],
+        "ipc": [
+          "H02J3/50",
+          "H02P9/10",
+          "H02P9/30",
+          "H02P9/14"
+        ]
+      },
+      {
+        "pub": "US-6118186-A",
+        "degree": 89.2,
+        "title": "Throttle control for small engines and other applications",
+        "abstract": "The throttle of an engine in an engine driven generator system operating under an intermittently heavy load, as in supplying current to a welder, is controlled such that successive control signals sent to a throttle actuator for adjusting the engine throttle position are inhibited until at least a p",
+        "assignees": [
+          "COLEMAN POWERMATE INC"
+        ],
+        "ipc": [
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-6018200-A",
+        "degree": 83.4,
+        "title": "Load demand throttle control for portable generator and other applications",
+        "abstract": "The throttle of an engine in an engine driven generator system operating subject to a wide and rapidly variable load, as in supplying current to a welder, is operated such that control signals are sent to a throttle actuator for adjusting the engine throttle position in response to load changes. The",
+        "assignees": [
+          "COLEMAN POWERMATE INC"
+        ],
+        "ipc": [
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-4080559-A",
+        "degree": 78.1,
+        "title": "Torsional protective device for power system stabilizer",
+        "abstract": "Power system stabilizers are used in the excitation systems of large shaft driven synchronous dynamoelectric machines for the purpose of enhancing the dynamic stability of power generating systems. Such stabilizers using speed, power or frequency as an input signal when applied with high initial res",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P9/10",
+          "H02H7/06",
+          "H02J3/24"
+        ]
+      },
+      {
+        "pub": "US-4855664-A",
+        "degree": 75.2,
+        "title": "Method and apparatus for damping oscillations of an ac generator",
+        "abstract": "A scheme for stabilizing a synchronous alternating current generator through the excitation control to dampen generator oscillations includes a power system stabilizer responsive to signals representing the generator output voltage and output current to provide an oscillation signal which represents",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P9/10",
+          "H02H7/06"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1762,
+    "size": 734,
+    "top_central": [
+      {
+        "pub": "US-6650074-B1",
+        "degree": 90.9,
+        "title": "Fan speed controller with conditioned tachometer signal",
+        "abstract": "The speed of a fan motor is controlled by varying a DC voltage to the fan motor. A series pass transistor is used to vary the DC voltage to the fan motor. A power management controller sets the fan motor speed by outputting pulses to a pulse-to-DC voltage converter that changes the pulses to a propo",
+        "assignees": [
+          "DELL PRODUCTS LP"
+        ],
+        "ipc": [
+          "G06F1/20",
+          "H02P7/288"
+        ]
+      },
+      {
+        "pub": "US-2010039055-A1",
+        "degree": 78.7,
+        "title": "Temperature control of motor",
+        "abstract": "Some embodiments of the present disclosure provide a brushless motor configured to sense the temperature of the motor and control the operation of the motor. The motor is configured to lower the current generation in a power switching circuit and lower the temperature within the power switching circ",
+        "assignees": [
+          "JEUNG YOUNG-CHUN"
+        ],
+        "ipc": [
+          "H02P6/16",
+          "H02P6/00"
+        ]
+      },
+      {
+        "pub": "US-2009284201-A1",
+        "degree": 68.0,
+        "title": "Motor with magnetic sensors",
+        "abstract": "Disclosed is an electric motor that includes a stator with a plurality of main poles, each of which includes a coil, and a rotor rotatable about an axis and having a magnet with magnetic poles in which N and S poles are alternating. The motor further includes a first sensor group of a plurality of m",
+        "assignees": [
+          "JEUNG YOUNG-CHUN"
+        ],
+        "ipc": [
+          "H02K29/08",
+          "H02P1/40",
+          "H02K11/00"
+        ]
+      },
+      {
+        "pub": "US-5942866-A",
+        "degree": 66.8,
+        "title": "PWM control circuit for a DC brushless fan",
+        "abstract": "PWM control circuit for a DC brushless fan, including a rectifying circuit which rectifies a voltage signal representative of the rotating speed of the fan, a comparator which compares the rectified voltage signal with a reference voltage signal, and a switching device which is repeatedly closed and",
+        "assignees": [],
+        "ipc": [
+          "H02P6/16",
+          "H02P6/06"
+        ]
+      },
+      {
+        "pub": "US-6135718-A",
+        "degree": 65.6,
+        "title": "Interface apparatus for fan monitoring and control",
+        "abstract": "An interface apparatus for fan monitoring and control includes a current source amplifier that generates a programmable current in response to its input voltages. Associated with an output capacitor, which is able to reduce noise, the programmable current drives the fan at a desired speed. The rotat",
+        "assignees": [
+          "SYSTEM GENERAL CORP"
+        ],
+        "ipc": [
+          "F04D17/12",
+          "F04D29/62",
+          "G05B23/02",
+          "H02P7/28"
+        ]
+      },
+      {
+        "pub": "US-2010039058-A1",
+        "degree": 64.1,
+        "title": "Power drive of electric motor",
+        "abstract": "Some embodiment of the present disclosure provide an electric motor comprising a power drive configured to supply electric power to different components of the motor that operate with different power inputs. The motor is configured to transform the electric power into mechanical work to perform on a",
+        "assignees": [
+          "JEUNG YOUNG-CHUN"
+        ],
+        "ipc": [
+          "H02P31/00"
+        ]
+      },
+      {
+        "pub": "US-2010253266-A1",
+        "degree": 63.0,
+        "title": "Brushless dc motor with soft-starting of pwm signals",
+        "abstract": "A DC motor is provided. The DC motor prevents rush or overload of current in the DC motor during and/or after power input irregularities to the DC motor. A control circuit of the DC motor is configured to control current provided to the DC motor. When power irregularities in the power input to the D",
+        "assignees": [
+          "JEUNG YOUNG-CHUN"
+        ],
+        "ipc": [
+          "H02P6/14"
+        ]
+      },
+      {
+        "pub": "US-2009134823-A1",
+        "degree": 60.0,
+        "title": "Multi-level programming of motor for a ventilation system",
+        "abstract": "A method of constant airflow control for a ventilation system is disclosed. The method includes various controls to accomplish a substantially constant airflow rate over a significant change of the static pressure in a ventilation duct. One control is a constant I\u00b7RPM control, which is primarily use",
+        "assignees": [
+          "JEUNG YOUNG-CHUN"
+        ],
+        "ipc": [
+          "F04D27/00",
+          "H02P7/00",
+          "F24F11/00"
+        ]
+      },
+      {
+        "pub": "US-5457766-A",
+        "degree": 59.1,
+        "title": "Fan speed control circuit",
+        "abstract": "A speed control circuit for a ventilation fan of an electronic device, such as a laser printer, adaptively varies a speed of the ventilation fan depending upon an internal temperature of the device. The speed control circuit has a temperature sensing circuit for generating a voltage depending upon t",
+        "assignees": [
+          "SAMSUNG ELECTRONICS CO LTD"
+        ],
+        "ipc": [
+          "H02P7/288",
+          "H02P7/29"
+        ]
+      },
+      {
+        "pub": "US-2009218968-A1",
+        "degree": 57.5,
+        "title": "Control system for controlling motors for heating, ventilation and air conditioning or pump",
+        "abstract": "The present invention discloses a control system for controlling a motor for a heating, ventilation and air conditioning (HVAC) or a pump comprising: an opto-isolated speed command signal processing interface into which a signal for controlling a speed of the motor is inputted and which outputs an o",
+        "assignees": [
+          "JEUNG YOUNG-CHUN"
+        ],
+        "ipc": [
+          "H02P7/29",
+          "H02P6/08",
+          "H02P6/16"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1705,
+    "size": 723,
+    "top_central": [
+      {
+        "pub": "US-2558729-A",
+        "degree": 54.4,
+        "title": "Frequency control system",
+        "abstract": "",
+        "assignees": [
+          "BUECHLER LESTER W"
+        ],
+        "ipc": [
+          "H02P9/42"
+        ]
+      },
+      {
+        "pub": "US-2433432-A",
+        "degree": 51.3,
+        "title": "Propeller synchronizing apparatus",
+        "abstract": "",
+        "assignees": [
+          "CURTISS WRIGHT CORP"
+        ],
+        "ipc": [
+          "H02P5/50"
+        ]
+      },
+      {
+        "pub": "US-2662372-A",
+        "degree": 45.4,
+        "title": "Electronic engine speed control system",
+        "abstract": "",
+        "assignees": [
+          "OFFNER FRANKLIN F"
+        ],
+        "ipc": [
+          "H02P23/00"
+        ]
+      },
+      {
+        "pub": "US-4659283-A",
+        "degree": 44.5,
+        "title": "Propeller Synchrophaser\u00ae device and mode logic",
+        "abstract": "An improved slave propeller SYNCHROPHASER\u00ae device and mode logic for a multi-propeller aircraft is disclosed. A designated master propeller has at least one associated slave propeller which has its speed and phase controlled with respect to the master by initially controlling the speed of the slave ",
+        "assignees": [
+          "UNITED TECHNOLOGIES CORP"
+        ],
+        "ipc": [
+          "B64C11/50",
+          "H02P5/52"
+        ]
+      },
+      {
+        "pub": "US-2408451-A",
+        "degree": 44.4,
+        "title": "Speed control system",
+        "abstract": "",
+        "assignees": [
+          "SORENSEN EDWARD M"
+        ],
+        "ipc": [
+          "H02P5/50"
+        ]
+      },
+      {
+        "pub": "US-4653981-A",
+        "degree": 44.1,
+        "title": "Propeller synchrophaser",
+        "abstract": "An improved slave propeller synchrophaser (10) includes a first control (14) responsive to a phase difference signal (28) and a phase difference reference signal (26) for providing a phase error signal (112) and for providing a propeller speed reference bias signal (40) for a speed governor (46), an",
+        "assignees": [
+          "UNITED TECHNOLOGIES CORP"
+        ],
+        "ipc": [
+          "B64C11/50",
+          "H02P5/52"
+        ]
+      },
+      {
+        "pub": "US-2246516-A",
+        "degree": 43.0,
+        "title": "Governing and synchronizing system",
+        "abstract": "",
+        "assignees": [
+          "EUGENE HERZOG"
+        ],
+        "ipc": [
+          "H02P23/00",
+          "G05D13/00"
+        ]
+      },
+      {
+        "pub": "US-2827910-A",
+        "degree": 37.9,
+        "title": "Electrical speed control system for engines",
+        "abstract": "",
+        "assignees": [
+          "GEN ELECTRIC"
+        ],
+        "ipc": [
+          "H02P23/00"
+        ]
+      },
+      {
+        "pub": "US-2492472-A",
+        "degree": 37.9,
+        "title": "Speed responsive control system",
+        "abstract": "",
+        "assignees": [
+          "BRISTOL AEROPLANE CO LTD"
+        ],
+        "ipc": [
+          "H02P23/00"
+        ]
+      },
+      {
+        "pub": "US-2612956-A",
+        "degree": 36.2,
+        "title": "Synchronizing means for multimotored airplanes",
+        "abstract": "",
+        "assignees": [
+          "BANNING JR THOMAS A"
+        ],
+        "ipc": [
+          "H02P5/48"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1715,
+    "size": 677,
+    "top_central": [
+      {
+        "pub": "US-12176836-B2",
+        "degree": 180.4,
+        "title": "Systems and methods for intelligent energy storage and provisioning using an energy storage control system",
+        "abstract": "Control of an energy storage and provisioning system is disclosed, including a method in which electrical power is received from a power generator in an energy storage system having energy storage cells. Each of the energy storage cells has switching elements selectively operable to connect with ter",
+        "assignees": [
+          "DPM TECH INC"
+        ],
+        "ipc": [
+          "H02J3/46",
+          "H02P25/18",
+          "H02K11/28",
+          "H02J7/14",
+          "H02J3/32"
+        ]
+      },
+      {
+        "pub": "US-11967913-B2",
+        "degree": 177.9,
+        "title": "Method and apparatus to drive coils of a multiphase electric machine",
+        "abstract": "Disclosed is a series mode modulation configuration and a parallel voltage equivalent modulation configuration. In the series mode modulation configuration a unipolar modulation is utilized. Unipolar modulation utilizes a zero vector and produces a voltage across the load with a frequency factor of ",
+        "assignees": [
+          "EXRO TECH INC"
+        ],
+        "ipc": [
+          "H02P25/02",
+          "H02P25/18",
+          "H02P23/28"
+        ]
+      },
+      {
+        "pub": "US-11722026-B2",
+        "degree": 156.0,
+        "title": "Fault tolerant rotating electric machine",
+        "abstract": "The disclosed technology provides systems and methods to employ fault tolerance for rotating electric machines operating as motors or generators. A unique system architecture and control elements allow rotating electric machines the ability to isolate faulted conditions and continue to operate.",
+        "assignees": [
+          "DPM TECH INC"
+        ],
+        "ipc": [
+          "H02P25/22",
+          "H02P27/06",
+          "H02P29/028",
+          "H02K3/28"
+        ]
+      },
+      {
+        "pub": "US-11081996-B2",
+        "degree": 124.4,
+        "title": "Variable coil configuration system control, apparatus and method",
+        "abstract": "This application generally relates to electric machines with coils or windings (e.g., generators and motors), and more particularly to systems, apparatus, and methods that configure coils or windings of electric machines, for instance dynamically in response to operational condition and under load.",
+        "assignees": [
+          "DPM TECH INC"
+        ],
+        "ipc": [
+          "H02P25/18"
+        ]
+      },
+      {
+        "pub": "US-5614799-A",
+        "degree": 93.0,
+        "title": "Brushless direct current motor having adjustable motor characteristics",
+        "abstract": "A brushless direct current motor includes a permanent magnet mounted to a rotor and a set of commutated stator windings. The motor further includes a circuit for changeably connecting the set of stator windings to operate in a first electrical configuration or a second electrical configuration and a",
+        "assignees": [
+          "MTS SYSTEM CORP"
+        ],
+        "ipc": [
+          "H02P1/32",
+          "H02P6/00"
+        ]
+      },
+      {
+        "pub": "US-5068587-A",
+        "degree": 91.6,
+        "title": "Spindle drive control apparatus for a machine tool",
+        "abstract": "Provided is a spindle drive control apparatus which is provided with a single three-phase spindle motor (60) for rotatingly driving a spindle (50) of a machine tool and a solenoid relay (70) for switching the phase windings (U, V, W) of the motor between a delta (\u0394) and star (Y) state and which swit",
+        "assignees": [
+          "FANUC LTD"
+        ],
+        "ipc": [
+          "H02P25/18",
+          "H02P25/10",
+          "H02P23/07",
+          "H02P23/03",
+          "H02P23/00"
+        ]
+      },
+      {
+        "pub": "US-2013307455-A1",
+        "degree": 84.0,
+        "title": "Stator teeth, stator, rotating electric machine, and method for controlling rotating electric machine",
+        "abstract": "There is provided a single motor which performs plural driving characteristics and can expand output range thereof. Three coils are wounded around each of the stator teeth A to F, and provided to each stator tooth A to F are switches for providing a concentrated winding state by connecting the three",
+        "assignees": [
+          "HIJIKATA HIROKI",
+          "SHIBAURA INST TECHNOLOGY",
+          "AKATSU KAN"
+        ],
+        "ipc": [
+          "H02P4/00",
+          "H02K3/28"
+        ]
+      },
+      {
+        "pub": "US-6025693-A",
+        "degree": 67.1,
+        "title": "Motor starter",
+        "abstract": "An improved method of starting three-phase and three-winding induction motors from a single phase supply reconfigures the 6 accessible windings of a standard induction motor into first an optimal starting configuration which, for example, may reduce starting torque or starting current and then an op",
+        "assignees": [],
+        "ipc": [
+          "H02P1/32",
+          "H02P1/26",
+          "H02P1/42"
+        ]
+      },
+      {
+        "pub": "US-4691155-A",
+        "degree": 65.3,
+        "title": "Automatic load seeking control for a motor",
+        "abstract": "Method and apparatus for matching the power output of a high slip motor to the demand requirement of a pumpjack unit. The stators of the high slip motor are automatically connected in various different configurations to provide the optimum torque as required by the pumpjack unit due to the downhole ",
+        "assignees": [
+          "TAYLOR NOEL R",
+          "TAYLOR PAUL A"
+        ],
+        "ipc": [
+          "H02P25/18",
+          "F04B49/06"
+        ]
+      },
+      {
+        "pub": "US-2004217723-A1",
+        "degree": 61.1,
+        "title": "Performance improvement of integrated starter alternator by changing stator winding connection",
+        "abstract": "A method for controlling voltages in an integrated starter alternator electric machine is provided where the armature windings are manipulated in a \u0394Y/\u0394 fashion. In particular, the armature windings are arranged in a \u0394 connection during engine cranking operation, when the electric machine acts as a ",
+        "assignees": [
+          "DELCO REMY AMERICA"
+        ],
+        "ipc": [
+          "H02K3/28",
+          "H02P25/02",
+          "F02N11/04",
+          "H02K29/00",
+          "H02K11/00"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster_id": 1711,
+    "size": 668,
+    "top_central": [
+      {
+        "pub": "US-6487096-B1",
+        "degree": 114.5,
+        "title": "Power controller",
+        "abstract": "A power controller provides a distributed generation power networking system in which bi-directional power converters are used with a common DC bus for permitting compatibility between various energy components. Each power converter operates essentially as a customized bi-directional switching conve",
+        "assignees": [
+          "CAPSTONE TURBINE CORP"
+        ],
+        "ipc": [
+          "H02P9/04",
+          "H02J1/14",
+          "H02J1/10"
+        ]
+      },
+      {
+        "pub": "US-2003015873-A1",
+        "degree": 102.8,
+        "title": "Transient ride-through or load leveling power distribution system",
+        "abstract": "A power generation system includes a turbogenerator having a motor/generator and a turbine coupled to a common shaft, and generates AC power. A first power converter is coupled to the turbogenerator and a DC bus and converts the AC power to DC power on the DC bus. A second power converter is coupled",
+        "assignees": [],
+        "ipc": [
+          "H02P9/04",
+          "H02P9/30"
+        ]
+      },
+      {
+        "pub": "US-2002198648-A1",
+        "degree": 92.4,
+        "title": "Method and system for control of turbogenerator power and temperature",
+        "abstract": "A power controller controls the turbine of a turbine powered generating system regardless of the load on said system to maximize the efficiency of the turbine and maintains the turbine at a substantially constant temperature during a system load change by using an energy storage device to provide po",
+        "assignees": [],
+        "ipc": [
+          "H02J1/10",
+          "H02J1/14",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-2002175522-A1",
+        "degree": 88.7,
+        "title": "Distributed power system",
+        "abstract": "A power generation system is disclosed. In one embodiment, the power generation system includes a fuel source, a turbogenerator coupled to the fuel source, and a power controller coupled to the turbogenerator. The power controller includes an AC/DC power converter that converts AC power generated by",
+        "assignees": [],
+        "ipc": [
+          "H02P9/30",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-6031294-A",
+        "degree": 78.4,
+        "title": "Turbogenerator/motor controller with ancillary energy storage/discharge",
+        "abstract": "A turbogenerator/motor controller with a microprocessor based inverter having multiple modes of operation with an energy storage and discharge system including an ancillary electric storage device, such as a battery, connected to the generator controller through control electronics. Electrical energ",
+        "assignees": [
+          "CAPSTONE TURBINE CORP"
+        ],
+        "ipc": [
+          "F02C9/56",
+          "F04B47/02",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-6093975-A",
+        "degree": 73.2,
+        "title": "Turbogenerator/motor control with synchronous condenser",
+        "abstract": "A turbogenerator/motor controller with a microprocessor-based control system having a synchronous condenser, line commutated inverter, and a battery coupled to the turbogenerator/motor controller. When a load transient occurs, the gas turbine engine and the synchronous condenser, which draws its pow",
+        "assignees": [
+          "CAPSTONE TURBINE CORP"
+        ],
+        "ipc": [
+          "H02K7/18",
+          "H02J3/32",
+          "H02P9/04",
+          "F02C9/56"
+        ]
+      },
+      {
+        "pub": "US-6410992-B1",
+        "degree": 65.2,
+        "title": "System and method for dual mode control of a turbogenerator/motor",
+        "abstract": "A method of controlling a permanent magnet turbogenerator/motor includes providing a protected load connected in parallel with the turbogenerator/motor through a pulse width modulated inverter configured in a first operating mode to supply controlled current from the turbogenerator/motor to a utilit",
+        "assignees": [
+          "CAPSTONE TURBINE CORP"
+        ],
+        "ipc": [
+          "H02P9/04",
+          "H02P9/02",
+          "H02J3/42"
+        ]
+      },
+      {
+        "pub": "US-2004008010-A1",
+        "degree": 60.9,
+        "title": "Microturbine engine system",
+        "abstract": "A microturbine engine that includes a compressor that is operable to provide a flow of compressed air. The compressed air flows through a recuperator where it is preheated before delivery to a combustor. The preheated compressed air mixes with a fuel and is combusted within the combustor to provide ",
+        "assignees": [],
+        "ipc": [
+          "H02P9/30",
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-5903116-A",
+        "degree": 59.3,
+        "title": "Turbogenerator/motor controller",
+        "abstract": "A turbogenerator/motor controller with a microprocessor based inverter having multiple modes of operation. To start the turbine, the inverter connects to and supplies fixed current, variable voltage, variable frequency, AC power to the permanent magnet turbogenerator/motor, driving the permanent mag",
+        "assignees": [
+          "CAPSTONE TURBINE CORP"
+        ],
+        "ipc": [
+          "H02P9/04"
+        ]
+      },
+      {
+        "pub": "US-6265786-B1",
+        "degree": 57.1,
+        "title": "Turbogenerator power control system",
+        "abstract": "A power control system for a turbogenerator which provides electrical power to pump-jack oil well. When the induction motor of a pump-jack is powered by three-phase utility power, the speed of the shaft varies only slightly over the pumping cycle but the utility power requirements can vary by four t",
+        "assignees": [
+          "CAPSTONE TURBINE CORP"
+        ],
+        "ipc": [
+          "E21B47/00",
+          "F02C9/56",
+          "H02P9/04",
+          "F04B47/02"
+        ]
+      }
+    ]
+  }
+]
