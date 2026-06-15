@@ -68,3 +68,5 @@ cluster_h02p_*_out/clusters.json
 cluster_h02p_*_out/hierarchy_report*.html
 # transient diagnostic scripts
 _diag_*.py
+# query/diagnostic run outputs
+*.out
