@@ -60,3 +60,11 @@ pipeline.log
 # OS
 .DS_Store
 Thumbs.db
+
+# Clustering: large regenerable artifacts (keep scripts + small results/figures)
+_validation_cache.pkl
+cluster_h02p_*_out/scope_metadata.json
+cluster_h02p_*_out/clusters.json
+cluster_h02p_*_out/hierarchy_report*.html
+# transient diagnostic scripts
+_diag_*.py

@@ -1,0 +1,11532 @@
+[
+  {
+    "cluster_id": 0,
+    "size": 2712,
+    "top_assignees": [
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        362
+      ],
+      [
+        "FANUC CORP",
+        194
+      ],
+      [
+        "DENSO CORP",
+        143
+      ],
+      [
+        "MINEBEA MITSUMI INC",
+        96
+      ],
+      [
+        "PANASONIC IP MAN CO LTD",
+        94
+      ],
+      [
+        "HITACHI ASTEMO LTD",
+        81
+      ],
+      [
+        "NIDEC CORP",
+        79
+      ],
+      [
+        "TOSHIBA KK",
+        64
+      ],
+      [
+        "OMRON TATEISI ELECTRONICS CO",
+        60
+      ],
+      [
+        "YASKAWA DENKI SEISAKUSHO KK",
+        49
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        470
+      ],
+      [
+        "H02P27/08",
+        437
+      ],
+      [
+        "H02P29/00",
+        303
+      ],
+      [
+        "H02P6/08",
+        242
+      ],
+      [
+        "H02P21/22",
+        225
+      ],
+      [
+        "H02P6/06",
+        172
+      ],
+      [
+        "H02M7/48",
+        171
+      ],
+      [
+        "H02P29/024",
+        165
+      ],
+      [
+        "H02P6/16",
+        143
+      ],
+      [
+        "H02P21/00",
+        124
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1605
+      ],
+      [
+        "WO",
+        1107
+      ]
+    ],
+    "sample_titles": [
+      "Motor-governing device",
+      "Time-element device and motor-control system employing the same",
+      "Motor-controlling device",
+      "Motor-control device",
+      "Motor-controlling device",
+      "Remote control device for electric motors",
+      "Power distribution system",
+      "Motor drive system",
+      "Control device for electric motors",
+      "Motor drive system"
+    ]
+  },
+  {
+    "cluster_id": 1,
+    "size": 2704,
+    "top_assignees": [
+      [
+        "TOYOTA MOTOR CO LTD",
+        296
+      ],
+      [
+        "FORD GLOBAL TECH LLC",
+        119
+      ],
+      [
+        "HONDA MOTOR CO LTD",
+        101
+      ],
+      [
+        "DENSO CORP",
+        97
+      ],
+      [
+        "HYUNDAI MOTOR CO LTD",
+        84
+      ],
+      [
+        "GM GLOBAL TECH OPERATIONS LLC",
+        83
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        67
+      ],
+      [
+        "GM GLOBAL TECH OPERATIONS INC",
+        57
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        54
+      ],
+      [
+        "GEN ELECTRIC",
+        42
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        609
+      ],
+      [
+        "B60L50/16",
+        299
+      ],
+      [
+        "H02P27/08",
+        298
+      ],
+      [
+        "H02J7/00",
+        289
+      ],
+      [
+        "B60W10/08",
+        258
+      ],
+      [
+        "B60L15/20",
+        257
+      ],
+      [
+        "B60W20/00",
+        250
+      ],
+      [
+        "B60L11/18",
+        235
+      ],
+      [
+        "B60L50/15",
+        210
+      ],
+      [
+        "B60L3/00",
+        182
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2213
+      ],
+      [
+        "WO",
+        491
+      ]
+    ],
+    "sample_titles": [
+      "Electric drive for vehicles",
+      "Electric system for vehicles",
+      "Power-transmitting apparatus",
+      "Motor-vehicle",
+      "Electric power system",
+      "Means of control for petrol electric vehicles",
+      "Electromagnetic change-speed system",
+      "Electric power system",
+      "Motor vehicle",
+      "Electric-power table"
+    ]
+  },
+  {
+    "cluster_id": 2,
+    "size": 2694,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        109
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        67
+      ],
+      [
+        "MATSUSHITA ELECTRIC INDUSTRIAL CO LTD",
+        50
+      ],
+      [
+        "SONY CORP",
+        43
+      ],
+      [
+        "CUTLER HAMMER INC",
+        42
+      ],
+      [
+        "HITACHI LTD",
+        42
+      ],
+      [
+        "PHILIPS CORP",
+        40
+      ],
+      [
+        "SIEMENS AG",
+        39
+      ],
+      [
+        "AMPEX",
+        39
+      ],
+      [
+        "GEN MOTORS CORP",
+        33
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P23/00",
+        333
+      ],
+      [
+        "H02P29/00",
+        324
+      ],
+      [
+        "H02P7/29",
+        281
+      ],
+      [
+        "H02P7/292",
+        211
+      ],
+      [
+        "H02P7/288",
+        205
+      ],
+      [
+        "H02P7/06",
+        175
+      ],
+      [
+        "H02P7/00",
+        156
+      ],
+      [
+        "H02P25/14",
+        145
+      ],
+      [
+        "H02P7/295",
+        124
+      ],
+      [
+        "G05D13/62",
+        89
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2600
+      ],
+      [
+        "WO",
+        94
+      ]
+    ],
+    "sample_titles": [
+      "Poration osi new yokk",
+      "williams",
+      "Motor speed control system",
+      "Electric motor controllers",
+      "gaudet",
+      "freiberg",
+      "Variable width fulse-fed micromotor control system",
+      "Electric motor starter circuit",
+      "Motor control system",
+      "Device for regulating and maintaining constant the speed of motors"
+    ]
+  },
+  {
+    "cluster_id": 3,
+    "size": 2514,
+    "top_assignees": [
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        156
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        60
+      ],
+      [
+        "HITACHI LTD",
+        55
+      ],
+      [
+        "DENSO CORP",
+        53
+      ],
+      [
+        "HYUNDAI MOTOR CO LTD",
+        49
+      ],
+      [
+        "STEERING SOLUTIONS IP HOLDING",
+        47
+      ],
+      [
+        "TOSHIBA KK",
+        41
+      ],
+      [
+        "GM GLOBAL TECH OPERATIONS INC",
+        39
+      ],
+      [
+        "NISSAN MOTOR",
+        38
+      ],
+      [
+        "HITACHI ASTEMO LTD",
+        36
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P21/00",
+        693
+      ],
+      [
+        "H02P21/22",
+        630
+      ],
+      [
+        "H02P21/14",
+        445
+      ],
+      [
+        "H02P21/18",
+        442
+      ],
+      [
+        "H02P27/04",
+        378
+      ],
+      [
+        "H02P27/08",
+        374
+      ],
+      [
+        "H02P6/08",
+        368
+      ],
+      [
+        "H02P6/18",
+        356
+      ],
+      [
+        "H02P6/06",
+        285
+      ],
+      [
+        "H02P6/28",
+        229
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1903
+      ],
+      [
+        "WO",
+        611
+      ]
+    ],
+    "sample_titles": [
+      "Current-control system",
+      "Method and means for starting synchronous motors",
+      "Compensator for induction motors",
+      "Compensator for brush-resistance voltage drop in motor-control systems",
+      "Synchronous motor and method and means for operating same",
+      "Method and means for starting synchronous motors",
+      "Method of and apparatus for pulling synchronous motors into step",
+      "Method of and apparatus for pulling synchronous machines into step",
+      "Control system for and method of controlling synchronous machines",
+      "Locked rotor protector"
+    ]
+  },
+  {
+    "cluster_id": 4,
+    "size": 2458,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        176
+      ],
+      [
+        "HAMILTON SUNDSTRAND CORP",
+        151
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        76
+      ],
+      [
+        "SUNDSTRAND CORP",
+        68
+      ],
+      [
+        "SIEMENS AG",
+        54
+      ],
+      [
+        "HONDA MOTOR CO LTD",
+        54
+      ],
+      [
+        "HITACHI LTD",
+        44
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        41
+      ],
+      [
+        "ROLLS ROYCE PLC",
+        26
+      ],
+      [
+        "ROZMAN GREGORY I",
+        26
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/04",
+        428
+      ],
+      [
+        "H02P9/00",
+        411
+      ],
+      [
+        "H02P9/30",
+        338
+      ],
+      [
+        "H02P9/10",
+        241
+      ],
+      [
+        "H02P9/14",
+        181
+      ],
+      [
+        "H02P9/08",
+        166
+      ],
+      [
+        "H02K7/18",
+        151
+      ],
+      [
+        "H02P9/02",
+        139
+      ],
+      [
+        "F02N11/04",
+        122
+      ],
+      [
+        "F01D15/10",
+        121
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2145
+      ],
+      [
+        "WO",
+        313
+      ]
+    ],
+    "sample_titles": [
+      "h rosenthal",
+      "Transistorized gating circuit for controlled rectifiers",
+      "Ments",
+      "Automatic power transmission",
+      "Automatic power transmission",
+      "Device for regulating power generating",
+      "System for providing a range of determinate\nfrequencies from a variable speed source",
+      "Variable-frequency dynamo-electric machine",
+      "Power system",
+      "Dynamo-electric machine"
+    ]
+  },
+  {
+    "cluster_id": 5,
+    "size": 2446,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        277
+      ],
+      [
+        "VESTAS WIND SYS AS",
+        180
+      ],
+      [
+        "MITSUBISHI HEAVY IND LTD",
+        87
+      ],
+      [
+        "SIEMENS AG",
+        58
+      ],
+      [
+        "WOBBEN PROPERTIES GMBH",
+        49
+      ],
+      [
+        "HITACHI LTD",
+        38
+      ],
+      [
+        "NORDEX ENERGY GMBH",
+        35
+      ],
+      [
+        "REPOWER SYSTEMS AG",
+        35
+      ],
+      [
+        "SIEMENS GAMESA RENEWABLE ENERGY AS",
+        29
+      ],
+      [
+        "GENERAL ELECTRIC RENOVABLES ESPANA SL",
+        28
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/04",
+        1331
+      ],
+      [
+        "F03D9/00",
+        849
+      ],
+      [
+        "H02P9/00",
+        565
+      ],
+      [
+        "F03D7/02",
+        338
+      ],
+      [
+        "H02J3/38",
+        249
+      ],
+      [
+        "F03D9/25",
+        230
+      ],
+      [
+        "F03D7/04",
+        230
+      ],
+      [
+        "H02P9/10",
+        195
+      ],
+      [
+        "H02K7/18",
+        172
+      ],
+      [
+        "H02P101/15",
+        165
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2149
+      ],
+      [
+        "WO",
+        297
+      ]
+    ],
+    "sample_titles": [
+      "Assighstor to indus",
+      "Assigjrob to -the s",
+      "Asbionob to westinohotrse",
+      "Electrical control mechanism for automobiles and other vehicles and machines",
+      "Electromagnetic transmission",
+      "Variable-power regulation",
+      "Motor controller",
+      "Air-motor-driven generator",
+      "Power installation",
+      "Electric vehicle transmission"
+    ]
+  },
+  {
+    "cluster_id": 6,
+    "size": 2382,
+    "top_assignees": [
+      [
+        "DENSO CORP",
+        179
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        168
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        99
+      ],
+      [
+        "GEN ELECTRIC",
+        72
+      ],
+      [
+        "VALEO EQUIP ELECTR MOTEUR",
+        69
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        54
+      ],
+      [
+        "HONDA MOTOR CO LTD",
+        54
+      ],
+      [
+        "HITACHI LTD",
+        49
+      ],
+      [
+        "NIPPON DENSO CO",
+        44
+      ],
+      [
+        "CATERPILLAR INC",
+        32
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/04",
+        600
+      ],
+      [
+        "H02P9/30",
+        513
+      ],
+      [
+        "H02P9/00",
+        465
+      ],
+      [
+        "H02J7/14",
+        373
+      ],
+      [
+        "H02J7/24",
+        231
+      ],
+      [
+        "H02P9/48",
+        211
+      ],
+      [
+        "H02H7/06",
+        210
+      ],
+      [
+        "H02J7/16",
+        191
+      ],
+      [
+        "H02P9/10",
+        188
+      ],
+      [
+        "H02P9/14",
+        188
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2083
+      ],
+      [
+        "WO",
+        299
+      ]
+    ],
+    "sample_titles": [
+      "Turbine control system",
+      "Controlling generator",
+      "offner",
+      "Storage-battery-charging system",
+      "Electric system for generating units",
+      "Controlling and regulating apparatus and system",
+      "Battery-charging system",
+      "Battery-charging system",
+      "Controlling alternator for supplying tube transmitters",
+      "Voltage regulator with thermostatic compensator"
+    ]
+  },
+  {
+    "cluster_id": 7,
+    "size": 2289,
+    "top_assignees": [
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        297
+      ],
+      [
+        "DENSO CORP",
+        242
+      ],
+      [
+        "JTEKT CORP",
+        113
+      ],
+      [
+        "NSK LTD",
+        102
+      ],
+      [
+        "NIDEC CORP",
+        82
+      ],
+      [
+        "HITACHI AUTOMOTIVE SYSTEMS LTD",
+        70
+      ],
+      [
+        "TOYOTA MOTOR CO LTD",
+        69
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        50
+      ],
+      [
+        "HONDA MOTOR CO LTD",
+        37
+      ],
+      [
+        "HITACHI LTD",
+        34
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B62D5/04",
+        803
+      ],
+      [
+        "H02P27/06",
+        496
+      ],
+      [
+        "H02P27/08",
+        401
+      ],
+      [
+        "B62D6/00",
+        303
+      ],
+      [
+        "H02P29/024",
+        301
+      ],
+      [
+        "H02P21/22",
+        272
+      ],
+      [
+        "H02P25/22",
+        229
+      ],
+      [
+        "H02P21/00",
+        221
+      ],
+      [
+        "H02P6/08",
+        195
+      ],
+      [
+        "B62D119/00",
+        182
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1832
+      ],
+      [
+        "WO",
+        457
+      ]
+    ],
+    "sample_titles": [
+      "Control system and apparatus",
+      "Control system and apparatus",
+      "Control system and apparatus",
+      "System and apparatus for controlling motors",
+      "System and apparatus for motor control",
+      "Apparatus for and system of motor control",
+      "Control of electrically-driven reciprocatory apparatus",
+      "Control device and system",
+      "Control system and apparatus therefor",
+      "Motor control system for coiling apparatus"
+    ]
+  },
+  {
+    "cluster_id": 8,
+    "size": 2244,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        123
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        65
+      ],
+      [
+        "HITACHI LTD",
+        51
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        50
+      ],
+      [
+        "SIEMENS AG",
+        33
+      ],
+      [
+        "GEN MOTORS CORP",
+        28
+      ],
+      [
+        "LUCAS INDUSTRIES LTD",
+        27
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        27
+      ],
+      [
+        "CUTLER HAMMER INC",
+        22
+      ],
+      [
+        "CATERPILLAR INC",
+        21
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/29",
+        252
+      ],
+      [
+        "H02P3/12",
+        221
+      ],
+      [
+        "H02P3/14",
+        212
+      ],
+      [
+        "H02P3/22",
+        162
+      ],
+      [
+        "H02P3/18",
+        132
+      ],
+      [
+        "H02P7/00",
+        119
+      ],
+      [
+        "H02P3/24",
+        111
+      ],
+      [
+        "H02P3/04",
+        108
+      ],
+      [
+        "H02P3/06",
+        98
+      ],
+      [
+        "B60L11/18",
+        98
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2047
+      ],
+      [
+        "WO",
+        197
+      ]
+    ],
+    "sample_titles": [
+      "Electric switch",
+      "Albert l",
+      "Benjamin w",
+      "Dynamic braking op ship-propulsion motors",
+      "Electric motor",
+      "Electrical switch",
+      "Reese t",
+      "Braking system for electric",
+      "thomas",
+      "Hook-up for alternating current commutator"
+    ]
+  },
+  {
+    "cluster_id": 9,
+    "size": 2243,
+    "top_assignees": [
+      [
+        "MATSUSHITA ELECTRIC INDUSTRIAL CO LTD",
+        63
+      ],
+      [
+        "TEXAS INSTRUMENTS INC",
+        56
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        48
+      ],
+      [
+        "ANPEC ELECTRONICS CORP",
+        48
+      ],
+      [
+        "SGS THOMSON MICROELECTRONICS",
+        42
+      ],
+      [
+        "SAMSUNG ELECTRONICS CO LTD",
+        40
+      ],
+      [
+        "DYSON TECHNOLOGY LTD",
+        40
+      ],
+      [
+        "SAMSUNG ELECTRO MECH",
+        38
+      ],
+      [
+        "ROHM CO LTD",
+        36
+      ],
+      [
+        "TOSHIBA KK",
+        35
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P6/18",
+        689
+      ],
+      [
+        "H02P6/08",
+        572
+      ],
+      [
+        "H02P6/06",
+        400
+      ],
+      [
+        "H02P6/182",
+        355
+      ],
+      [
+        "H02P6/16",
+        302
+      ],
+      [
+        "H02P6/20",
+        189
+      ],
+      [
+        "H02P6/14",
+        137
+      ],
+      [
+        "H02P6/00",
+        134
+      ],
+      [
+        "H02P6/28",
+        114
+      ],
+      [
+        "H02P27/08",
+        112
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1916
+      ],
+      [
+        "WO",
+        327
+      ]
+    ],
+    "sample_titles": [
+      "System and method for determining reversal time for twin-type magnetic clutches",
+      "Frequency deviation detector",
+      "Miniature magnetic tape recorder with removable tape cartridge",
+      "Motor operated control drive",
+      "Drive device for battery energized sound recording apparatus",
+      "Device for measuring angular position of the rotor of a synchronous electric motor and a thyratron electric motor",
+      "Motor driven surface measuring apparatus",
+      "Measurement of the elapsed time during one rotation of the rotor of a brushless DC motor",
+      "Method and apparatus for determining the initial rotor angle in a rotating field machine",
+      "Circuit for applying starting voltage to load"
+    ]
+  },
+  {
+    "cluster_id": 10,
+    "size": 2020,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        123
+      ],
+      [
+        "HITACHI LTD",
+        103
+      ],
+      [
+        "SIEMENS AG",
+        92
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        81
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        46
+      ],
+      [
+        "FANUC LTD",
+        38
+      ],
+      [
+        "TOSHIBA KK",
+        38
+      ],
+      [
+        "LSIS CO LTD",
+        37
+      ],
+      [
+        "OTIS ELEVATOR CO",
+        33
+      ],
+      [
+        "GEN MOTORS CORP",
+        27
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        559
+      ],
+      [
+        "H02P27/04",
+        386
+      ],
+      [
+        "H02P27/08",
+        369
+      ],
+      [
+        "H02P21/00",
+        347
+      ],
+      [
+        "H02P21/14",
+        215
+      ],
+      [
+        "H02P21/22",
+        201
+      ],
+      [
+        "H02P23/00",
+        187
+      ],
+      [
+        "H02P23/07",
+        183
+      ],
+      [
+        "H02P23/08",
+        153
+      ],
+      [
+        "H02P23/14",
+        122
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1820
+      ],
+      [
+        "WO",
+        200
+      ]
+    ],
+    "sample_titles": [
+      "Means for and method of accelerating induction motors",
+      "Means for and method of accelerating induction motors",
+      "Starting device",
+      "Starting induction-motors",
+      "Converter polarizing system",
+      "Method of starting an induction motor",
+      "Control system for asynchronous machines",
+      "Slip frequency relay",
+      "Electrical machine inserted in a series network and operating at an adjustable constant speed",
+      "Electric motor drive"
+    ]
+  },
+  {
+    "cluster_id": 11,
+    "size": 1900,
+    "top_assignees": [
+      [
+        "CANON KK",
+        96
+      ],
+      [
+        "IBM",
+        58
+      ],
+      [
+        "SEIKO EPSON CORP",
+        48
+      ],
+      [
+        "SEIKO INSTR & ELECTRONICS",
+        28
+      ],
+      [
+        "OGASAWARA KENJI",
+        26
+      ],
+      [
+        "SUPERIOR ELECTRIC CO",
+        25
+      ],
+      [
+        "BROTHER IND LTD",
+        25
+      ],
+      [
+        "MANAKA SABURO",
+        25
+      ],
+      [
+        "CITIZEN WATCH CO LTD",
+        24
+      ],
+      [
+        "TEXAS INSTRUMENTS INC",
+        24
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P8/14",
+        335
+      ],
+      [
+        "H02P8/00",
+        331
+      ],
+      [
+        "H02P8/12",
+        265
+      ],
+      [
+        "H02P8/22",
+        195
+      ],
+      [
+        "H02P8/32",
+        184
+      ],
+      [
+        "G04C3/14",
+        182
+      ],
+      [
+        "H02P8/02",
+        162
+      ],
+      [
+        "H02P8/38",
+        157
+      ],
+      [
+        "H02P8/34",
+        115
+      ],
+      [
+        "H02P8/18",
+        109
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1774
+      ],
+      [
+        "WO",
+        126
+      ]
+    ],
+    "sample_titles": [
+      "Reversible step motor switching circuit",
+      "Equalizing speeds of motor drives",
+      "Step-back motor-control system",
+      "Electrical control system for mining machinery",
+      "Constant current transformer actuated control system",
+      "Electrical sequencing control",
+      "Control circuits for motion picture apparatus",
+      "Motor control mechanism for filling devices",
+      "Electroresponsive system",
+      "Self-synchronous remote-control system"
+    ]
+  },
+  {
+    "cluster_id": 12,
+    "size": 1815,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        272
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC & MFG CO",
+        244
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        177
+      ],
+      [
+        "BENDIX AVIAT CORP",
+        48
+      ],
+      [
+        "ALLIS CHALMERS MFG CO",
+        30
+      ],
+      [
+        "GEN MOTORS CORP",
+        24
+      ],
+      [
+        "BELL TELEPHONE LABOR INC",
+        23
+      ],
+      [
+        "STONE J & CO LTD",
+        22
+      ],
+      [
+        "CUTLER HAMMER INC",
+        22
+      ],
+      [
+        "WESTERN ELECTRIC CO",
+        21
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/22",
+        151
+      ],
+      [
+        "H02P9/00",
+        131
+      ],
+      [
+        "H02P9/24",
+        124
+      ],
+      [
+        "H02P7/34",
+        118
+      ],
+      [
+        "H02P9/18",
+        103
+      ],
+      [
+        "H02P7/06",
+        96
+      ],
+      [
+        "H02P9/32",
+        81
+      ],
+      [
+        "H02P9/26",
+        78
+      ],
+      [
+        "H02P9/42",
+        68
+      ],
+      [
+        "H02P23/00",
+        62
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1784
+      ],
+      [
+        "WO",
+        31
+      ]
+    ],
+    "sample_titles": [
+      "System op electrical generation",
+      "Automatic regulating system",
+      "Electrical system",
+      "X d driving system por automobiles",
+      "bossu",
+      "Chakles w",
+      "House electric",
+      "Inghouse electric",
+      "Hottse electric",
+      "House electric"
+    ]
+  },
+  {
+    "cluster_id": 13,
+    "size": 1618,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        87
+      ],
+      [
+        "PAPST MOTOREN GMBH & CO KG",
+        51
+      ],
+      [
+        "MATSUSHITA ELECTRIC INDUSTRIAL CO LTD",
+        42
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        42
+      ],
+      [
+        "SIEMENS AG",
+        38
+      ],
+      [
+        "HITACHI LTD",
+        32
+      ],
+      [
+        "GEN MOTORS CORP",
+        21
+      ],
+      [
+        "SONY CORP",
+        18
+      ],
+      [
+        "PAPST MOTOREN KG",
+        17
+      ],
+      [
+        "EBM PAPST ST GEORGEN GMBH & CO",
+        17
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P6/08",
+        459
+      ],
+      [
+        "H02P6/06",
+        316
+      ],
+      [
+        "H02P6/14",
+        231
+      ],
+      [
+        "H02P6/00",
+        193
+      ],
+      [
+        "H02P6/16",
+        188
+      ],
+      [
+        "H02K29/08",
+        149
+      ],
+      [
+        "H02P6/10",
+        99
+      ],
+      [
+        "H02P6/20",
+        84
+      ],
+      [
+        "H02P6/18",
+        82
+      ],
+      [
+        "H02K29/00",
+        77
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1472
+      ],
+      [
+        "WO",
+        146
+      ]
+    ],
+    "sample_titles": [
+      "Circuitry for operating a multi-phase",
+      "Sampiftro ctai",
+      "Speed control circuit for a synchronous motor",
+      "Starting apparatus for d. c. motors",
+      "Rotatable electrical apparatus",
+      "Controlling apparatus for electric motors",
+      "Apparatus for controlling electric motors",
+      "Apparatus for controlling electric motors",
+      "Electric circuit for controlling motors",
+      "Electrical control circuit for folding machines"
+    ]
+  },
+  {
+    "cluster_id": 14,
+    "size": 1513,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        271
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC & MFG CO",
+        176
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        106
+      ],
+      [
+        "CUTLER HAMMER INC",
+        76
+      ],
+      [
+        "GEN MOTORS CORP",
+        24
+      ],
+      [
+        "ALLIS CHALMERS MFG CO",
+        14
+      ],
+      [
+        "EATON MFG CO",
+        14
+      ],
+      [
+        "CUTLER HAMMER MFG CO",
+        12
+      ],
+      [
+        "ELECTRIC MACHINERY MFG CO",
+        11
+      ],
+      [
+        "CLINE ELECTRIC MFG CO",
+        9
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/34",
+        117
+      ],
+      [
+        "H02P23/00",
+        110
+      ],
+      [
+        "H02P29/00",
+        102
+      ],
+      [
+        "H02P7/00",
+        86
+      ],
+      [
+        "H02P25/26",
+        50
+      ],
+      [
+        "H02P7/26",
+        50
+      ],
+      [
+        "H02P9/00",
+        46
+      ],
+      [
+        "H02P25/32",
+        44
+      ],
+      [
+        "H02P1/46",
+        42
+      ],
+      [
+        "H02P1/20",
+        41
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1482
+      ],
+      [
+        "WO",
+        31
+      ]
+    ],
+    "sample_titles": [
+      "Starting synchronous motors",
+      "Power transmission and control",
+      "Power transmission and control",
+      "A cobpobation of delax",
+      "Controller for electric motors",
+      "Mechanism tog electric control of mechanical movements",
+      "Motor control system",
+      "Alternating current motor control",
+      "Dual voltage motor protector circuit",
+      "brown"
+    ]
+  },
+  {
+    "cluster_id": 15,
+    "size": 1392,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        79
+      ],
+      [
+        "LG ELECTRONICS INC",
+        34
+      ],
+      [
+        "REGAL BELOIT AMERICA INC",
+        34
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC & MFG CO",
+        28
+      ],
+      [
+        "TEXAS INSTRUMENTS INC",
+        28
+      ],
+      [
+        "GEN MOTORS CORP",
+        27
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        26
+      ],
+      [
+        "EMERSON ELECTRIC CO",
+        24
+      ],
+      [
+        "FRANKLIN ELECTRIC CO INC",
+        14
+      ],
+      [
+        "DANFOSS AS",
+        14
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P1/44",
+        298
+      ],
+      [
+        "H02P1/42",
+        265
+      ],
+      [
+        "H02P25/04",
+        150
+      ],
+      [
+        "H02P23/00",
+        105
+      ],
+      [
+        "H02P1/26",
+        74
+      ],
+      [
+        "H02P27/06",
+        51
+      ],
+      [
+        "H02P1/02",
+        49
+      ],
+      [
+        "H02K17/08",
+        48
+      ],
+      [
+        "H02K17/30",
+        42
+      ],
+      [
+        "H02P1/12",
+        39
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1248
+      ],
+      [
+        "WO",
+        144
+      ]
+    ],
+    "sample_titles": [
+      "Starting device for electric motors",
+      "Starting mechanism for electric motors",
+      "Safety starting-switch",
+      "Starting device fob etecteic motors",
+      "Motor-starting system",
+      "Starting system for electric motors",
+      "Condenser motor",
+      "Protective arrangement for dual-",
+      "Motor starter circuit",
+      "Cnloader valve"
+    ]
+  },
+  {
+    "cluster_id": 16,
+    "size": 1348,
+    "top_assignees": [
+      [
+        "DENSO CORP",
+        37
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        35
+      ],
+      [
+        "AISIN SEIKI",
+        29
+      ],
+      [
+        "BROSE FAHRZEUGTEILE",
+        29
+      ],
+      [
+        "ASMO CO LTD",
+        28
+      ],
+      [
+        "SAMSUNG ELECTRONICS CO LTD",
+        28
+      ],
+      [
+        "CHAMBERLAIN GROUP INC",
+        28
+      ],
+      [
+        "MITSUBA CORP",
+        20
+      ],
+      [
+        "KOSTAL LEOPOLD GMBH & CO KG",
+        16
+      ],
+      [
+        "SOMFY SAS",
+        16
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/00",
+        258
+      ],
+      [
+        "H02P3/00",
+        153
+      ],
+      [
+        "H02P1/00",
+        139
+      ],
+      [
+        "H02P1/04",
+        118
+      ],
+      [
+        "B60S1/08",
+        114
+      ],
+      [
+        "H02H7/085",
+        90
+      ],
+      [
+        "E05F15/00",
+        90
+      ],
+      [
+        "H02P29/00",
+        87
+      ],
+      [
+        "H02P7/06",
+        81
+      ],
+      [
+        "E05F15/16",
+        76
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1191
+      ],
+      [
+        "WO",
+        157
+      ]
+    ],
+    "sample_titles": [
+      "Bbake mechanism",
+      "Current-controlling device",
+      "Control mechanism for motor-actuated doors",
+      "Automatic substation control equipment",
+      "Automatic regulator for energy transformers",
+      "Automatic control equipment",
+      "Automatic control equipment",
+      "Automatic electric regulator",
+      "Automatic control equipment",
+      "Automatic control equipment"
+    ]
+  },
+  {
+    "cluster_id": 17,
+    "size": 1278,
+    "top_assignees": [
+      [
+        "DENSO CORP",
+        108
+      ],
+      [
+        "CANON KK",
+        99
+      ],
+      [
+        "FANUC LTD",
+        65
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        48
+      ],
+      [
+        "FANUC CORP",
+        35
+      ],
+      [
+        "YASKAWA DENKI SEISAKUSHO KK",
+        27
+      ],
+      [
+        "SAMSUNG ELECTRONICS CO LTD",
+        26
+      ],
+      [
+        "TOYOTA MOTOR CO LTD",
+        25
+      ],
+      [
+        "NISSAN MOTOR",
+        23
+      ],
+      [
+        "BROTHER IND LTD",
+        20
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P29/00",
+        344
+      ],
+      [
+        "G05D3/12",
+        96
+      ],
+      [
+        "H02P6/16",
+        90
+      ],
+      [
+        "G05B13/02",
+        87
+      ],
+      [
+        "H02P6/08",
+        76
+      ],
+      [
+        "G03G15/00",
+        70
+      ],
+      [
+        "H02P23/00",
+        69
+      ],
+      [
+        "F16H61/32",
+        67
+      ],
+      [
+        "H02P23/14",
+        61
+      ],
+      [
+        "H02P27/08",
+        56
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1037
+      ],
+      [
+        "WO",
+        241
+      ]
+    ],
+    "sample_titles": [
+      "Appabatus for maintaining a plural",
+      "Motor control apparatus adapted for",
+      "Angle switching device fob syn",
+      "Control apparatus",
+      "Electrical device for the control of mechanical movements",
+      "Control device",
+      "Control device",
+      "Control device",
+      "Motor control apparatus",
+      "Motor control apparatus"
+    ]
+  },
+  {
+    "cluster_id": 18,
+    "size": 1097,
+    "top_assignees": [
+      [
+        "MAKITA CORP",
+        98
+      ],
+      [
+        "MILWAUKEE ELECTRIC TOOL CORP",
+        81
+      ],
+      [
+        "NANJING CHERVON IND CO LTD",
+        77
+      ],
+      [
+        "BLACK & DECKER INC",
+        74
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        43
+      ],
+      [
+        "HITACHI KOKI KK",
+        41
+      ],
+      [
+        "KOKI HOLDINGS CO LTD",
+        28
+      ],
+      [
+        "PANASONIC IP MAN CO LTD",
+        22
+      ],
+      [
+        "HILTI AG",
+        21
+      ],
+      [
+        "ETHICON LLC",
+        13
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B25F5/00",
+        255
+      ],
+      [
+        "H02K7/14",
+        119
+      ],
+      [
+        "H02P6/08",
+        108
+      ],
+      [
+        "H02J7/00",
+        83
+      ],
+      [
+        "H02P7/00",
+        76
+      ],
+      [
+        "H02P29/00",
+        75
+      ],
+      [
+        "B25F5/02",
+        72
+      ],
+      [
+        "B25B23/147",
+        63
+      ],
+      [
+        "H02P27/08",
+        63
+      ],
+      [
+        "B25B21/00",
+        59
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        873
+      ],
+      [
+        "WO",
+        224
+      ]
+    ],
+    "sample_titles": [
+      "Control system fob bynamoelectric",
+      "Electrical driving",
+      "Control of electric motors",
+      "Electrical driving means",
+      "Control of electric motors",
+      "Method of and means for controlling electric motors",
+      "Selective switch",
+      "Electric apparatus",
+      "Control of electric motors",
+      "Method and means for controlling electric motors"
+    ]
+  },
+  {
+    "cluster_id": 19,
+    "size": 1073,
+    "top_assignees": [
+      [
+        "SWITCHED RELUCTANCE DRIVES LTD",
+        82
+      ],
+      [
+        "GEN ELECTRIC",
+        37
+      ],
+      [
+        "EMERSON ELECTRIC CO",
+        27
+      ],
+      [
+        "CATERPILLAR INC",
+        26
+      ],
+      [
+        "SEKOH GIKEN KK",
+        22
+      ],
+      [
+        "DANA CORP",
+        22
+      ],
+      [
+        "SUNDSTRAND CORP",
+        17
+      ],
+      [
+        "TOYOTA MOTOR CO LTD",
+        17
+      ],
+      [
+        "SAMSUNG ELECTRO MECH",
+        17
+      ],
+      [
+        "AISIN SEIKI",
+        16
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P25/08",
+        520
+      ],
+      [
+        "H02K19/10",
+        114
+      ],
+      [
+        "H02P6/18",
+        86
+      ],
+      [
+        "H02P6/08",
+        83
+      ],
+      [
+        "H02P6/16",
+        67
+      ],
+      [
+        "H02K3/28",
+        58
+      ],
+      [
+        "H02P25/092",
+        51
+      ],
+      [
+        "H02P9/40",
+        49
+      ],
+      [
+        "H02P25/098",
+        46
+      ],
+      [
+        "H02P27/06",
+        39
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        916
+      ],
+      [
+        "WO",
+        157
+      ]
+    ],
+    "sample_titles": [
+      "Electrical power-transmission device",
+      "Electric step-by-step motor",
+      "Power-transmission device",
+      "Combination step-by-step and induction motor",
+      "Electromagnetic device",
+      "Step-by-step electric motor",
+      "Reversing control for food waste disposer",
+      "Generator control by adjustable magnetic shunt",
+      "Electrodynamic machine and control switch therefor",
+      "Selective electric motor control system"
+    ]
+  },
+  {
+    "cluster_id": 20,
+    "size": 1067,
+    "top_assignees": [
+      [
+        "ROHM CO LTD",
+        46
+      ],
+      [
+        "ST MICROELECTRONICS SRL",
+        31
+      ],
+      [
+        "TEXAS INSTRUMENTS INC",
+        29
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        27
+      ],
+      [
+        "SGS THOMSON MICROELECTRONICS",
+        18
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        17
+      ],
+      [
+        "DENSO CORP",
+        17
+      ],
+      [
+        "FUJIKOKI CORP",
+        16
+      ],
+      [
+        "TOSHIBA KK",
+        14
+      ],
+      [
+        "WESTERN DIGITAL TECH INC",
+        14
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/00",
+        170
+      ],
+      [
+        "H02P7/29",
+        113
+      ],
+      [
+        "H02P6/08",
+        71
+      ],
+      [
+        "H02P7/03",
+        66
+      ],
+      [
+        "H02P25/06",
+        61
+      ],
+      [
+        "H02P29/00",
+        57
+      ],
+      [
+        "H02P25/02",
+        54
+      ],
+      [
+        "H03K17/687",
+        51
+      ],
+      [
+        "H02P7/06",
+        50
+      ],
+      [
+        "H02M7/5387",
+        46
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        950
+      ],
+      [
+        "WO",
+        117
+      ]
+    ],
+    "sample_titles": [
+      "Electric motor-driven intermittent-driving gear",
+      "Electric switch and operating means therefor",
+      "Inductive time-limit acceleration",
+      "Arrangement for driving vehicles by means of internal combustion machines",
+      "Motor control and signal circuit",
+      "Classifier control system",
+      "Photocell system to control spacing of traveling articles",
+      "Variable-speed control system",
+      "Control apparatus for motor operated device",
+      "Limit stop apparatus"
+    ]
+  },
+  {
+    "cluster_id": 21,
+    "size": 1059,
+    "top_assignees": [
+      [
+        "CANON KK",
+        50
+      ],
+      [
+        "LG ELECTRONICS INC",
+        36
+      ],
+      [
+        "AAC TECHNOLOGIES PTE LTD",
+        36
+      ],
+      [
+        "SIEMENS AG",
+        31
+      ],
+      [
+        "AAC ACOUSTIC TECH SHENZHEN CO LTD",
+        29
+      ],
+      [
+        "BECKHOFF AUTOMATION GMBH",
+        28
+      ],
+      [
+        "THK CO LTD",
+        22
+      ],
+      [
+        "ROCKWELL AUTOMATION TECH INC",
+        21
+      ],
+      [
+        "B & R IND AUTOMATION GMBH",
+        21
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        19
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P25/06",
+        333
+      ],
+      [
+        "H02K41/03",
+        175
+      ],
+      [
+        "H02P25/064",
+        130
+      ],
+      [
+        "H02P25/02",
+        100
+      ],
+      [
+        "H02P6/00",
+        93
+      ],
+      [
+        "H02P25/032",
+        89
+      ],
+      [
+        "H02K41/02",
+        85
+      ],
+      [
+        "H02P1/00",
+        69
+      ],
+      [
+        "B65G54/02",
+        68
+      ],
+      [
+        "F04B35/04",
+        56
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        799
+      ],
+      [
+        "WO",
+        260
+      ]
+    ],
+    "sample_titles": [
+      "Vibratory feeder controls",
+      "Reciprocating electric motor",
+      "Lever controlled system",
+      "Electric valve motor control system",
+      "Vibration control apparatus",
+      "Duty cycle circuit",
+      "Reciprocating motor control system",
+      "Vibration generator controls",
+      "Pulse modulator",
+      "Electric vehicle driving and controlling apparatus"
+    ]
+  },
+  {
+    "cluster_id": 22,
+    "size": 1048,
+    "top_assignees": [
+      [
+        "DENSO CORP",
+        256
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        80
+      ],
+      [
+        "TOYOTA MOTOR CO LTD",
+        80
+      ],
+      [
+        "LG ELECTRONICS INC",
+        50
+      ],
+      [
+        "AISIN AW CO",
+        35
+      ],
+      [
+        "TOYOTA JIDOSHOKKI KK",
+        21
+      ],
+      [
+        "SAMSUNG ELECTRONICS CO LTD",
+        20
+      ],
+      [
+        "HITACHI AUTOMOTIVE SYSTEMS LTD",
+        20
+      ],
+      [
+        "HITACHI LTD",
+        19
+      ],
+      [
+        "NISSAN MOTOR",
+        17
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/08",
+        338
+      ],
+      [
+        "H02P27/06",
+        257
+      ],
+      [
+        "H02P21/22",
+        214
+      ],
+      [
+        "H02P21/00",
+        174
+      ],
+      [
+        "H02M7/48",
+        125
+      ],
+      [
+        "H02P27/04",
+        119
+      ],
+      [
+        "H02P6/08",
+        102
+      ],
+      [
+        "H02M7/5387",
+        79
+      ],
+      [
+        "H02P21/14",
+        77
+      ],
+      [
+        "H02P6/06",
+        76
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        711
+      ],
+      [
+        "WO",
+        337
+      ]
+    ],
+    "sample_titles": [
+      "Dynamo-electric system",
+      "Control system for electric motor operated rotary devices",
+      "Electric motor system",
+      "Electric motor controlling apparatus",
+      "Alternating-current motor control apparatus",
+      "Control of alternating current electric motor equipment",
+      "Semi-conductor apparatus",
+      "Measuring and control servo-system",
+      "Drive unit control system",
+      "Switching type regulator"
+    ]
+  },
+  {
+    "cluster_id": 23,
+    "size": 987,
+    "top_assignees": [
+      [
+        "HON HAI PREC IND CO LTD",
+        57
+      ],
+      [
+        "DELTA ELECTRONICS INC",
+        44
+      ],
+      [
+        "HONGFUJIN PREC IND SHENZHEN",
+        32
+      ],
+      [
+        "ROHM CO LTD",
+        31
+      ],
+      [
+        "NIDEC CORP",
+        20
+      ],
+      [
+        "IBM",
+        18
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        14
+      ],
+      [
+        "SANYO ELECTRIC CO",
+        12
+      ],
+      [
+        "ASIA VITAL COMPONENTS CO LTD",
+        12
+      ],
+      [
+        "DELL PRODUCTS LP",
+        12
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/29",
+        132
+      ],
+      [
+        "F04D27/00",
+        129
+      ],
+      [
+        "H02P6/08",
+        127
+      ],
+      [
+        "H02P7/00",
+        84
+      ],
+      [
+        "H02P6/06",
+        72
+      ],
+      [
+        "H05K7/20",
+        69
+      ],
+      [
+        "H02P29/00",
+        62
+      ],
+      [
+        "H02P7/06",
+        51
+      ],
+      [
+        "G06F1/20",
+        51
+      ],
+      [
+        "H02P27/08",
+        50
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        877
+      ],
+      [
+        "WO",
+        110
+      ]
+    ],
+    "sample_titles": [
+      "Electric motor",
+      "Electric control system for power boats",
+      "Motor control system",
+      "Control apparatus for reversible locomotives",
+      "Altitude compensated control system and apparatus for aircraft engines",
+      "Fan motor control",
+      "Apparatus for monitoring vibrations of a fan",
+      "Electronic control system",
+      "Multiple-switch relay",
+      "Electronic head pressure control for condensing units"
+    ]
+  },
+  {
+    "cluster_id": 24,
+    "size": 944,
+    "top_assignees": [
+      [
+        "HITACHI LTD",
+        25
+      ],
+      [
+        "GEN ELECTRIC",
+        21
+      ],
+      [
+        "REINHAUSEN MASCHF SCHEUBECK",
+        21
+      ],
+      [
+        "HITACHI MITSUBISHI HYDRO CORPORATION",
+        12
+      ],
+      [
+        "DAIKIN IND LTD",
+        9
+      ],
+      [
+        "SEABASED AB",
+        7
+      ],
+      [
+        "LEIJON MATS",
+        6
+      ],
+      [
+        "MITSUBISHI HEAVY IND LTD",
+        6
+      ],
+      [
+        "SIEMENS AG",
+        5
+      ],
+      [
+        "US NAVY",
+        5
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/04",
+        611
+      ],
+      [
+        "F03B13/10",
+        247
+      ],
+      [
+        "F03B13/00",
+        200
+      ],
+      [
+        "F03B13/12",
+        157
+      ],
+      [
+        "H02K7/18",
+        126
+      ],
+      [
+        "H02P13/06",
+        82
+      ],
+      [
+        "H02P9/00",
+        75
+      ],
+      [
+        "F03D9/00",
+        65
+      ],
+      [
+        "F03B13/18",
+        58
+      ],
+      [
+        "F03B17/06",
+        50
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        803
+      ],
+      [
+        "WO",
+        141
+      ]
+    ],
+    "sample_titles": [
+      "Current motors",
+      "System of distribution",
+      "System of distribution",
+      "System of distribution",
+      "System of distribution",
+      "System of distribution",
+      "System of distribution",
+      "System of distribution",
+      "Variable speed device",
+      "Electric motor control for refrigerated cars"
+    ]
+  },
+  {
+    "cluster_id": 25,
+    "size": 912,
+    "top_assignees": [
+      [
+        "BOSCH GMBH ROBERT",
+        40
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        37
+      ],
+      [
+        "GM GLOBAL TECH OPERATIONS LLC",
+        30
+      ],
+      [
+        "HYUNDAI MOTOR CO LTD",
+        25
+      ],
+      [
+        "TOYOTA MOTOR CO LTD",
+        24
+      ],
+      [
+        "FANUC CORP",
+        24
+      ],
+      [
+        "SIEMENS AG",
+        20
+      ],
+      [
+        "NISSAN MOTOR",
+        19
+      ],
+      [
+        "KIA MOTORS CORP",
+        14
+      ],
+      [
+        "GEN ELECTRIC",
+        13
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P29/00",
+        91
+      ],
+      [
+        "H02P27/06",
+        89
+      ],
+      [
+        "H02P29/60",
+        85
+      ],
+      [
+        "H02P23/14",
+        68
+      ],
+      [
+        "H02P29/64",
+        62
+      ],
+      [
+        "H02P27/08",
+        61
+      ],
+      [
+        "H02P29/68",
+        61
+      ],
+      [
+        "H02P21/14",
+        58
+      ],
+      [
+        "H02P29/66",
+        57
+      ],
+      [
+        "H02H7/08",
+        49
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        689
+      ],
+      [
+        "WO",
+        223
+      ]
+    ],
+    "sample_titles": [
+      "Motor-vehicle control.",
+      "Overload-relay",
+      "Control for motor vehicles",
+      "Protective means for railway vehicle motors",
+      "Control apparatus for an electric motor",
+      "Speed-controlling device for d-c motors",
+      "Electronic time delay motor stop",
+      "Over-current protection for an alternating current circuit including automatic reset",
+      "Method for regulating the material supply to a processing machine having an electric drive motor",
+      "Magnetizing device for permanent magnet motor for electric vehicle"
+    ]
+  },
+  {
+    "cluster_id": 26,
+    "size": 793,
+    "top_assignees": [
+      [
+        "ROCKWELL AUTOMATION TECH INC",
+        68
+      ],
+      [
+        "HAMILTON SUNDSTRAND CORP",
+        27
+      ],
+      [
+        "JOHNSON CONTROLS TECH CO",
+        17
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        15
+      ],
+      [
+        "GEN ELECTRIC",
+        13
+      ],
+      [
+        "CARRIER CORP",
+        12
+      ],
+      [
+        "SIEMENS AG",
+        12
+      ],
+      [
+        "YASKAWA DENKI SEISAKUSHO KK",
+        12
+      ],
+      [
+        "BOEING CO",
+        12
+      ],
+      [
+        "SCHNEIDER TOSHIBA INVERTER",
+        12
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        159
+      ],
+      [
+        "H02P27/08",
+        159
+      ],
+      [
+        "H02P27/04",
+        69
+      ],
+      [
+        "H02M5/458",
+        60
+      ],
+      [
+        "H02M1/12",
+        60
+      ],
+      [
+        "H02M7/5387",
+        57
+      ],
+      [
+        "H02M1/00",
+        55
+      ],
+      [
+        "H02P6/08",
+        38
+      ],
+      [
+        "H02M7/48",
+        38
+      ],
+      [
+        "H02P21/22",
+        36
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        696
+      ],
+      [
+        "WO",
+        97
+      ]
+    ],
+    "sample_titles": [
+      "Polyphase induction-motor",
+      "Controlling mechanism for compressors",
+      "Electrical system and apparatus",
+      "Electrical remote control system",
+      "Control mechanism",
+      "Electrical remote control device",
+      "Electric speed control and motor protector",
+      "Variable frequency motor control system",
+      "Frequency-matching system",
+      "Bus transfer apparatus"
+    ]
+  },
+  {
+    "cluster_id": 27,
+    "size": 742,
+    "top_assignees": [
+      [
+        "SIEMENS AG",
+        45
+      ],
+      [
+        "EATON CORP",
+        27
+      ],
+      [
+        "GEN ELECTRIC",
+        26
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        17
+      ],
+      [
+        "EATON INTELLIGENT POWER LTD",
+        17
+      ],
+      [
+        "ROCKWELL AUTOMATION TECH INC",
+        16
+      ],
+      [
+        "ALLEN BRADLEY CO",
+        15
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        13
+      ],
+      [
+        "CUTLER HAMMER INC",
+        10
+      ],
+      [
+        "NASA",
+        10
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/02",
+        95
+      ],
+      [
+        "H02P23/00",
+        93
+      ],
+      [
+        "H02P1/28",
+        70
+      ],
+      [
+        "H02P1/26",
+        59
+      ],
+      [
+        "H02H7/08",
+        44
+      ],
+      [
+        "H02P27/06",
+        42
+      ],
+      [
+        "H02J3/18",
+        40
+      ],
+      [
+        "H02P1/02",
+        32
+      ],
+      [
+        "H02P1/04",
+        29
+      ],
+      [
+        "H02P1/16",
+        29
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        624
+      ],
+      [
+        "WO",
+        118
+      ]
+    ],
+    "sample_titles": [
+      "R smith",
+      "Control system for power units such as\nelectric motors and the like",
+      "Power-factor regulator",
+      "Motor starter",
+      "Motor starter and circuit controller",
+      "Electric power system",
+      "Motor starter",
+      "Motor-controlling apparatus",
+      "Power-factor-regulating system",
+      "Motor-control apparatus"
+    ]
+  },
+  {
+    "cluster_id": 28,
+    "size": 731,
+    "top_assignees": [
+      [
+        "WESTINGHOUSE ELECTRIC & MFG CO",
+        57
+      ],
+      [
+        "GEN ELECTRIC",
+        33
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        22
+      ],
+      [
+        "BENDIX AVIAT CORP",
+        17
+      ],
+      [
+        "UNITED AIRCRAFT CORP",
+        16
+      ],
+      [
+        "BENDIX CORP",
+        12
+      ],
+      [
+        "WOODWARD GOVERNOR CO",
+        11
+      ],
+      [
+        "CURTISS WRIGHT CORP",
+        11
+      ],
+      [
+        "RCA CORP",
+        9
+      ],
+      [
+        "SIEMENS AG",
+        8
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P5/50",
+        131
+      ],
+      [
+        "H02P5/52",
+        83
+      ],
+      [
+        "H02P23/00",
+        72
+      ],
+      [
+        "H02P5/46",
+        71
+      ],
+      [
+        "H02P5/48",
+        46
+      ],
+      [
+        "H02P5/74",
+        35
+      ],
+      [
+        "H02P29/00",
+        34
+      ],
+      [
+        "B64C11/50",
+        26
+      ],
+      [
+        "H02P5/00",
+        22
+      ],
+      [
+        "H02P9/00",
+        20
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        700
+      ],
+      [
+        "WO",
+        31
+      ]
+    ],
+    "sample_titles": [
+      "Best available gop",
+      "Machine synchronizing",
+      "Bhst available cop",
+      "Best available",
+      "Best available cop",
+      "Best available cop",
+      "Best available cop -",
+      "Canada",
+      "Best available cop",
+      "Best available copx"
+    ]
+  },
+  {
+    "cluster_id": 29,
+    "size": 713,
+    "top_assignees": [
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        43
+      ],
+      [
+        "HYUNDAI MOTOR CO LTD",
+        42
+      ],
+      [
+        "KIA CORP",
+        37
+      ],
+      [
+        "FANUC CORP",
+        35
+      ],
+      [
+        "LG ELECTRONICS INC",
+        18
+      ],
+      [
+        "SAMSUNG ELECTRO MECH",
+        16
+      ],
+      [
+        "DENSO CORP",
+        15
+      ],
+      [
+        "FANUC LTD",
+        14
+      ],
+      [
+        "SAMSUNG ELECTRONICS CO LTD",
+        14
+      ],
+      [
+        "TOYOTA MOTOR CO LTD",
+        11
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        129
+      ],
+      [
+        "H02P27/08",
+        123
+      ],
+      [
+        "H02P6/08",
+        54
+      ],
+      [
+        "H02M7/5387",
+        51
+      ],
+      [
+        "H02P21/22",
+        41
+      ],
+      [
+        "H02P25/22",
+        38
+      ],
+      [
+        "H02P29/00",
+        37
+      ],
+      [
+        "H02P6/06",
+        35
+      ],
+      [
+        "H02P29/024",
+        34
+      ],
+      [
+        "H02P5/74",
+        32
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        601
+      ],
+      [
+        "WO",
+        112
+      ]
+    ],
+    "sample_titles": [
+      "Submarine motor-control system and apparatus",
+      "Control for motor-driven apparatus",
+      "Control system for a plurality of motors",
+      "Power system for a plurality of motors",
+      "Control system for, and a method of, controlling a plurality of direct current motors",
+      "Control systems for power devices",
+      "Motor control apparatus for cutting traveling workpiece",
+      "Synchronous drive arrangement for record carriers",
+      "Industrial process control system for operations with long time constants",
+      "Record medium driving arrangement for sound transducing apparatus"
+    ]
+  },
+  {
+    "cluster_id": 30,
+    "size": 675,
+    "top_assignees": [
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        24
+      ],
+      [
+        "AUTONETWORKS TECHNOLOGIES LTD",
+        20
+      ],
+      [
+        "SUMITOMO WIRING SYSTEMS",
+        20
+      ],
+      [
+        "SUMITOMO ELECTRIC INDUSTRIES",
+        20
+      ],
+      [
+        "GEN ELECTRIC",
+        17
+      ],
+      [
+        "NISSAN MOTOR",
+        13
+      ],
+      [
+        "ROCKWELL AUTOMATION TECH INC",
+        13
+      ],
+      [
+        "SIEMENS AG",
+        12
+      ],
+      [
+        "IBM",
+        12
+      ],
+      [
+        "FANUC LTD",
+        10
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P25/18",
+        102
+      ],
+      [
+        "H02K3/28",
+        82
+      ],
+      [
+        "H02P27/06",
+        68
+      ],
+      [
+        "H02P1/32",
+        56
+      ],
+      [
+        "H02P6/08",
+        55
+      ],
+      [
+        "H02P23/00",
+        40
+      ],
+      [
+        "H02K11/00",
+        40
+      ],
+      [
+        "A47L9/28",
+        36
+      ],
+      [
+        "H02P1/26",
+        31
+      ],
+      [
+        "H02P25/22",
+        31
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        538
+      ],
+      [
+        "WO",
+        137
+      ]
+    ],
+    "sample_titles": [
+      "Switch",
+      "Method of starting electric motors",
+      "Rolling-mill drive",
+      "Automatic load-control device for electric motors",
+      "Switch",
+      "Asynchronous motor",
+      "Switch",
+      "Motor load-controlling device",
+      "Electric-motor load-controlling device",
+      "Method and device for the automatic starting of continuous or alternating current motors by means of contact devices"
+    ]
+  },
+  {
+    "cluster_id": 31,
+    "size": 651,
+    "top_assignees": [
+      [
+        "BOSCH GMBH ROBERT",
+        108
+      ],
+      [
+        "TULA TECHNOLOGY INC",
+        38
+      ],
+      [
+        "SCHAEFFLER TECHNOLOGIES AG",
+        18
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        16
+      ],
+      [
+        "TOYOTA MOTOR CO LTD",
+        16
+      ],
+      [
+        "AUDI AG",
+        16
+      ],
+      [
+        "SIEMENS AG",
+        15
+      ],
+      [
+        "FORD GLOBAL TECH LLC",
+        15
+      ],
+      [
+        "ZAHNRADFABRIK FRIEDRICHSHAFEN",
+        13
+      ],
+      [
+        "GM GLOBAL TECH OPERATIONS LLC",
+        13
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/08",
+        135
+      ],
+      [
+        "H02P27/06",
+        72
+      ],
+      [
+        "B60L15/20",
+        57
+      ],
+      [
+        "H02P21/00",
+        55
+      ],
+      [
+        "H02P6/08",
+        50
+      ],
+      [
+        "H02P21/22",
+        42
+      ],
+      [
+        "B60L3/00",
+        41
+      ],
+      [
+        "H02M7/5387",
+        41
+      ],
+      [
+        "H02P23/00",
+        35
+      ],
+      [
+        "H02P23/14",
+        32
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        446
+      ],
+      [
+        "WO",
+        205
+      ]
+    ],
+    "sample_titles": [
+      "Method and means for operating electric motors",
+      "Regulating device of electric machines",
+      "Model train electrical motor control system",
+      "Model train control",
+      "Speed control system for model railroads",
+      "Deceleration apparatus for motor and drive circuit for use in motor deceleration apparatus or control apparatus for use in sewing machine",
+      "Process and device for imitating the speed in incremental measuring systems",
+      "Method and apparatus for controlling refrigerator cycle",
+      "Controller apparatus for electric vehicle",
+      "Brushless dc motor unit and method of driving the unit"
+    ]
+  },
+  {
+    "cluster_id": 32,
+    "size": 641,
+    "top_assignees": [
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        189
+      ],
+      [
+        "LG ELECTRONICS INC",
+        35
+      ],
+      [
+        "DAIKIN IND LTD",
+        32
+      ],
+      [
+        "TOYOTA JIDOSHOKKI KK",
+        18
+      ],
+      [
+        "MATSUSHITA ELECTRIC INDUSTRIAL CO LTD",
+        13
+      ],
+      [
+        "HATAKEYAMA KAZUNORI",
+        13
+      ],
+      [
+        "MATSUSHITA SHINYA",
+        10
+      ],
+      [
+        "SAMSUNG ELECTRONICS CO LTD",
+        9
+      ],
+      [
+        "SHINOMOTO YOSUKE",
+        9
+      ],
+      [
+        "DENSO CORP",
+        9
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        207
+      ],
+      [
+        "H02P27/08",
+        146
+      ],
+      [
+        "F25B49/02",
+        74
+      ],
+      [
+        "H02M5/458",
+        65
+      ],
+      [
+        "H02M7/48",
+        62
+      ],
+      [
+        "H02M1/00",
+        60
+      ],
+      [
+        "H02M7/5387",
+        56
+      ],
+      [
+        "F04B49/06",
+        41
+      ],
+      [
+        "H02M7/06",
+        36
+      ],
+      [
+        "H02P21/22",
+        36
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        469
+      ],
+      [
+        "WO",
+        172
+      ]
+    ],
+    "sample_titles": [
+      "Metadyne drive arrangement",
+      "Air-compressor drive means for gas-electric locomotives",
+      "Control system for electric translating devices",
+      "Air conditioner compressor and air fan speed controller",
+      "Transmitting unit for meter extension system",
+      "Power conversion control system",
+      "Generator, synchronous motor and phase converter",
+      "Apparatus for controlling an alternating current power supply",
+      "AC rectifier circuit with means for limiting the rectified voltage",
+      "Scroll compressor with reverse rotation speed limiter"
+    ]
+  },
+  {
+    "cluster_id": 33,
+    "size": 571,
+    "top_assignees": [
+      [
+        "BOSCH GMBH ROBERT",
+        31
+      ],
+      [
+        "SIEMENS AG",
+        16
+      ],
+      [
+        "GEN ELECTRIC",
+        14
+      ],
+      [
+        "STEERING SOLUTIONS IP HOLDING",
+        14
+      ],
+      [
+        "DELPHI TECH INC",
+        12
+      ],
+      [
+        "SCHWEITZER ENGINEERING LAB INC",
+        12
+      ],
+      [
+        "GM GLOBAL TECH OPERATIONS INC",
+        9
+      ],
+      [
+        "ABB SCHWEIZ AG",
+        9
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        7
+      ],
+      [
+        "TRW INC",
+        7
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G01R31/34",
+        97
+      ],
+      [
+        "H02P6/10",
+        79
+      ],
+      [
+        "H02P29/024",
+        69
+      ],
+      [
+        "H02P29/00",
+        53
+      ],
+      [
+        "H02P23/14",
+        43
+      ],
+      [
+        "H02P21/00",
+        41
+      ],
+      [
+        "H02P29/02",
+        35
+      ],
+      [
+        "B62D5/04",
+        35
+      ],
+      [
+        "H02P27/06",
+        34
+      ],
+      [
+        "H02P21/22",
+        33
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        434
+      ],
+      [
+        "WO",
+        137
+      ]
+    ],
+    "sample_titles": [
+      "Controlling mechanism for motor-vehicles",
+      "Electric motor-control system and apparatus",
+      "Driving mechanism for motor vehicles",
+      "Synchronizing device for synchronous motors",
+      "Controlled screw feed device",
+      "Synchronizing system for synchronous motor utilizing a frequency divider",
+      "Automatic plastic mixing apparatus",
+      "Method and apparatus for detecting and indicating malfunction of a tableting machine",
+      "In-phase monitor for determining in-phase condition of two separate alternating current sources",
+      "Testing system for motor driven apparatus"
+    ]
+  },
+  {
+    "cluster_id": 34,
+    "size": 534,
+    "top_assignees": [
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        92
+      ],
+      [
+        "OTIS ELEVATOR CO",
+        37
+      ],
+      [
+        "KONE CORP",
+        27
+      ],
+      [
+        "HITACHI LTD",
+        18
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        18
+      ],
+      [
+        "FANUC CORP",
+        14
+      ],
+      [
+        "SIEMENS AG",
+        12
+      ],
+      [
+        "ROCKWELL AUTOMATION TECH INC",
+        11
+      ],
+      [
+        "FANUC LTD",
+        9
+      ],
+      [
+        "SEW EURODRIVE GMBH & CO",
+        9
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B66B1/30",
+        147
+      ],
+      [
+        "H02P27/06",
+        134
+      ],
+      [
+        "B66B1/28",
+        82
+      ],
+      [
+        "H02P3/18",
+        56
+      ],
+      [
+        "H02P27/08",
+        55
+      ],
+      [
+        "H02M5/458",
+        50
+      ],
+      [
+        "B66B1/24",
+        47
+      ],
+      [
+        "B66B5/02",
+        47
+      ],
+      [
+        "H02P23/06",
+        36
+      ],
+      [
+        "H02P3/22",
+        32
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        449
+      ],
+      [
+        "WO",
+        85
+      ]
+    ],
+    "sample_titles": [
+      "Elevator control",
+      "Elevator control system",
+      "Stopping mechanism for electrically-driven spindles",
+      "Elevator control system",
+      "Elevator control system",
+      "Speed control for elevators",
+      "Elevator control system",
+      "Controlling rate of acceleration and retardation of elevator equipment",
+      "Elevator control system",
+      "Universal induction regulator"
+    ]
+  },
+  {
+    "cluster_id": 35,
+    "size": 457,
+    "top_assignees": [
+      [
+        "ZHONGSHAN BROAD OCEAN MOTOR CO",
+        29
+      ],
+      [
+        "REGAL BELOIT AMERICA INC",
+        28
+      ],
+      [
+        "LIAO JIANHANG",
+        13
+      ],
+      [
+        "GEN ELECTRIC",
+        11
+      ],
+      [
+        "EMERSON ELECTRIC CO",
+        9
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        7
+      ],
+      [
+        "AISIN SEIKI",
+        6
+      ],
+      [
+        "EATON INTELLIGENT POWER LTD",
+        6
+      ],
+      [
+        "NIDEC CORP",
+        6
+      ],
+      [
+        "DAIKIN IND LTD",
+        5
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        46
+      ],
+      [
+        "H02P29/00",
+        45
+      ],
+      [
+        "F04B49/06",
+        43
+      ],
+      [
+        "H02P6/08",
+        34
+      ],
+      [
+        "H02P27/08",
+        30
+      ],
+      [
+        "F04D15/00",
+        27
+      ],
+      [
+        "H02P23/00",
+        25
+      ],
+      [
+        "E21B43/12",
+        22
+      ],
+      [
+        "H02P27/04",
+        16
+      ],
+      [
+        "H02P6/00",
+        16
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        352
+      ],
+      [
+        "WO",
+        105
+      ]
+    ],
+    "sample_titles": [
+      "Speed control",
+      "Controller for power-driven pumps",
+      "Method of and apparatus for differentially applying power",
+      "Controller for power-driven pumps",
+      "Electromagnetic operating means and motor controller employing the same",
+      "Speed control",
+      "Synchronous variable-speed electric machine drive",
+      "Speed control",
+      "Speed control",
+      "Starting apparatus"
+    ]
+  },
+  {
+    "cluster_id": 36,
+    "size": 329,
+    "top_assignees": [
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        73
+      ],
+      [
+        "DENSO CORP",
+        46
+      ],
+      [
+        "TOSHIBA KK",
+        30
+      ],
+      [
+        "ROHM CO LTD",
+        23
+      ],
+      [
+        "RENESAS ELECTRONICS CORP",
+        15
+      ],
+      [
+        "FUJI ELECTRIC CO LTD",
+        12
+      ],
+      [
+        "HITACHI LTD",
+        9
+      ],
+      [
+        "HYUNDAI MOTOR CO LTD",
+        6
+      ],
+      [
+        "ZAHNRADFABRIK FRIEDRICHSHAFEN",
+        6
+      ],
+      [
+        "AISIN AW CO",
+        5
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        168
+      ],
+      [
+        "H02M7/5387",
+        83
+      ],
+      [
+        "H02P27/08",
+        79
+      ],
+      [
+        "H01L23/00",
+        69
+      ],
+      [
+        "H02M7/00",
+        53
+      ],
+      [
+        "H01L23/31",
+        53
+      ],
+      [
+        "H02M1/08",
+        44
+      ],
+      [
+        "H01L23/495",
+        38
+      ],
+      [
+        "H01L25/07",
+        37
+      ],
+      [
+        "H02M7/537",
+        35
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        304
+      ],
+      [
+        "WO",
+        25
+      ]
+    ],
+    "sample_titles": [
+      "Means of power transmission",
+      "Means of power transmission",
+      "Means of power transmission",
+      "Semiconductor device",
+      "Controller for power device and drive controller for motor",
+      "Semiconductor device having planar junction",
+      "Circuit board unit for driving and controlling motor that drives compressor for air-conditioner",
+      "Power train partition for 10 horsepower motor controller",
+      "Servo amplifier unit",
+      "Resistor for a servo amplifier and servo amplifier provided thereof"
+    ]
+  },
+  {
+    "cluster_id": 37,
+    "size": 301,
+    "top_assignees": [
+      [
+        "NTN TOYO BEARING CO LTD",
+        29
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        16
+      ],
+      [
+        "ADVICS CO LTD",
+        16
+      ],
+      [
+        "SUMITOMO HEAVY INDUSTRIES",
+        15
+      ],
+      [
+        "KOBELCO CONSTR MACHINERY LTD",
+        11
+      ],
+      [
+        "HITACHI ASTEMO LTD",
+        11
+      ],
+      [
+        "HL MANDO CORP",
+        10
+      ],
+      [
+        "KOMATSU MFG CO LTD",
+        7
+      ],
+      [
+        "MORINAGA JUN",
+        6
+      ],
+      [
+        "ZF CV SYSTEMS EUROPE BV",
+        6
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B60T13/74",
+        94
+      ],
+      [
+        "E02F9/20",
+        48
+      ],
+      [
+        "H02P29/00",
+        39
+      ],
+      [
+        "F16D65/18",
+        34
+      ],
+      [
+        "B60T8/17",
+        33
+      ],
+      [
+        "F16D121/24",
+        30
+      ],
+      [
+        "H02P9/04",
+        27
+      ],
+      [
+        "B60T8/00",
+        24
+      ],
+      [
+        "H02P27/06",
+        22
+      ],
+      [
+        "B60T17/22",
+        22
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        198
+      ],
+      [
+        "WO",
+        103
+      ]
+    ],
+    "sample_titles": [
+      "System of differential magnetic transmission",
+      "Electrical synchronous braking device",
+      "Helmet",
+      "Hydraulically controlled brake",
+      "Motor control system",
+      "Adjustable voltage drive generator control system",
+      "Voltage equalizer for unbalanced loads",
+      "Gage-control system for multi-stand strip mill",
+      "Speed control for rocking mill stands",
+      "Control system for excavating machinery"
+    ]
+  },
+  {
+    "cluster_id": 38,
+    "size": 253,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        20
+      ],
+      [
+        "SZ DJI TECHNOLOGY CO LTD",
+        14
+      ],
+      [
+        "AUTEL ROBOTICS CO LTD",
+        11
+      ],
+      [
+        "PRATT & WHITNEY CANADA",
+        10
+      ],
+      [
+        "SAFRAN ELECTRICAL & POWER",
+        9
+      ],
+      [
+        "ROLLS ROYCE NAM TECH INC",
+        8
+      ],
+      [
+        "HAMILTON SUNDSTRAND CORP",
+        7
+      ],
+      [
+        "PANASONIC IP MAN CO LTD",
+        7
+      ],
+      [
+        "HONEYWELL INT INC",
+        5
+      ],
+      [
+        "SIEMENS AG",
+        5
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B64D27/24",
+        51
+      ],
+      [
+        "H02P9/00",
+        24
+      ],
+      [
+        "H02P5/74",
+        24
+      ],
+      [
+        "H02P27/06",
+        19
+      ],
+      [
+        "B64D27/02",
+        19
+      ],
+      [
+        "H02P29/028",
+        18
+      ],
+      [
+        "H02P29/024",
+        17
+      ],
+      [
+        "B64D31/00",
+        15
+      ],
+      [
+        "B64C39/02",
+        15
+      ],
+      [
+        "H02K41/03",
+        14
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        186
+      ],
+      [
+        "WO",
+        67
+      ]
+    ],
+    "sample_titles": [
+      "Electric ship propulsion",
+      "Electrical propulsion of ships",
+      "Electric ship propulsion",
+      "Electric ship propulsion",
+      "Electric ship propulsion",
+      "Electric ship propulsion",
+      "Electric ship propulsion",
+      "Electric ship propulsion",
+      "Electric ship propulsion",
+      "Electric ship propulsion"
+    ]
+  },
+  {
+    "cluster_id": 39,
+    "size": 231,
+    "top_assignees": [
+      [
+        "DELCO LIGHT CO",
+        25
+      ],
+      [
+        "GEN ELECTRIC",
+        17
+      ],
+      [
+        "CUTLER HAMMER INC",
+        16
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC & MFG CO",
+        15
+      ],
+      [
+        "CUTLER HAMMER MFG CO",
+        10
+      ],
+      [
+        "CUTLERHAMMER MFG CO",
+        9
+      ],
+      [
+        "GEN MOTORS CORP",
+        8
+      ],
+      [
+        "ECLIPSE AVIAT CORP",
+        7
+      ],
+      [
+        "KOHLER CO",
+        5
+      ],
+      [
+        "SULLIVAN MACHINERY CO",
+        5
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/00",
+        76
+      ],
+      [
+        "H02P9/04",
+        14
+      ],
+      [
+        "H02P7/00",
+        12
+      ],
+      [
+        "H02P9/24",
+        10
+      ],
+      [
+        "H02P1/20",
+        9
+      ],
+      [
+        "H02P9/08",
+        8
+      ],
+      [
+        "H02P9/02",
+        7
+      ],
+      [
+        "H02P1/16",
+        6
+      ],
+      [
+        "H02J3/38",
+        5
+      ],
+      [
+        "H02P9/06",
+        4
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        227
+      ],
+      [
+        "WO",
+        4
+      ]
+    ],
+    "sample_titles": [
+      "Electbical generating system",
+      "Electric system",
+      "Ship propulsion",
+      "arendt",
+      "Electrical apparatus",
+      "Automatic switch",
+      "Motor-controller",
+      "Electric system",
+      "System for the generation and distribution of electrical energy",
+      "Motor-controller"
+    ]
+  },
+  {
+    "cluster_id": 40,
+    "size": 182,
+    "top_assignees": [
+      [
+        "MATSUSHITA ELECTRIC INDUSTRIAL CO LTD",
+        12
+      ],
+      [
+        "SINGER CO",
+        11
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        9
+      ],
+      [
+        "JANOME SEWING MACHINE CO LTD",
+        9
+      ],
+      [
+        "BROTHER IND LTD",
+        7
+      ],
+      [
+        "HITACHI LTD",
+        5
+      ],
+      [
+        "AISIN SEIKI",
+        5
+      ],
+      [
+        "TSUDAKOMA IND CO LTD",
+        4
+      ],
+      [
+        "FRANKL & KIRCHNER",
+        3
+      ],
+      [
+        "PFAFF HAUSHALTMASCH",
+        3
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "D05B69/18",
+        47
+      ],
+      [
+        "H02P29/00",
+        27
+      ],
+      [
+        "D05B69/22",
+        19
+      ],
+      [
+        "D05B69/26",
+        16
+      ],
+      [
+        "H02P7/00",
+        10
+      ],
+      [
+        "H02P23/00",
+        10
+      ],
+      [
+        "H02P25/04",
+        10
+      ],
+      [
+        "H02P3/04",
+        9
+      ],
+      [
+        "H02P7/292",
+        9
+      ],
+      [
+        "H02P5/46",
+        8
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        167
+      ],
+      [
+        "WO",
+        15
+      ]
+    ],
+    "sample_titles": [
+      "Motor control for sewing-machines",
+      "Controller for electrically-driven sewing machines",
+      "Preventing commutator noises in radio",
+      "Electrical control and regulating circuits",
+      "Sewing machine motor controller",
+      "Wire drawing apparatus",
+      "Motor switch protective means",
+      "Method of controlling textile machines",
+      "Sewing machine drive system",
+      "Speed control systems for electric sewing motors"
+    ]
+  },
+  {
+    "cluster_id": 41,
+    "size": 125,
+    "top_assignees": [
+      [
+        "JOHNSON ELECTRIC SA",
+        26
+      ],
+      [
+        "JOHNSON ELECTRIC INT AG",
+        11
+      ],
+      [
+        "ARCELIK AS",
+        9
+      ],
+      [
+        "DYSON TECHNOLOGY LTD",
+        9
+      ],
+      [
+        "ASKOLL HOLDING SRL",
+        6
+      ],
+      [
+        "QM POWER INC",
+        5
+      ],
+      [
+        "PLASET SPA",
+        3
+      ],
+      [
+        "MARIONI ELIO",
+        3
+      ],
+      [
+        "THOMSON BRANDT GMBH",
+        2
+      ],
+      [
+        "ASKOLL HOLDINGS S R L",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P6/16",
+        29
+      ],
+      [
+        "H02K11/215",
+        26
+      ],
+      [
+        "H02P6/08",
+        24
+      ],
+      [
+        "H02P6/26",
+        23
+      ],
+      [
+        "H02P6/20",
+        20
+      ],
+      [
+        "H02P1/46",
+        13
+      ],
+      [
+        "H02P6/22",
+        12
+      ],
+      [
+        "H02P27/06",
+        10
+      ],
+      [
+        "H02P6/06",
+        10
+      ],
+      [
+        "H02P6/30",
+        10
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        100
+      ],
+      [
+        "WO",
+        25
+      ]
+    ],
+    "sample_titles": [
+      "Circuit for controlling a brushless electric motor",
+      "Inversion process and apparatus",
+      "Circuit for controlling a brushless electric motor",
+      "Electrically switched synchronous motor drive",
+      "Synchronous motor having selectable rotation direction",
+      "Electronic device for starting a synchronous motor with permanent-magnet rotor",
+      "Differential torque motor",
+      "Circuit and method for alternating current motor constructions",
+      "Control circuit for an synchronous electric motor of the brushless type",
+      "Electronic control for a single-phase synchronous motor, single-phase synchronous motor and process for operating it"
+    ]
+  },
+  {
+    "cluster_id": 42,
+    "size": 123,
+    "top_assignees": [
+      [
+        "WESTINGHOUSE ELECTRIC & MFG CO",
+        54
+      ],
+      [
+        "GEN ELECTRIC",
+        15
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC CORP",
+        5
+      ],
+      [
+        "ELECTRIC CONTROLLER & MFG CO",
+        3
+      ],
+      [
+        "ALLEN BRADLEY CO",
+        3
+      ],
+      [
+        "GEORGE B BURRAGE",
+        2
+      ],
+      [
+        "LEIGH J STEPHENSON",
+        2
+      ],
+      [
+        "LYNN A WILLIAMS",
+        2
+      ],
+      [
+        "WILLIAM T FENTON",
+        2
+      ],
+      [
+        "ALLIS CHALMERS MFG CO",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P1/20",
+        15
+      ],
+      [
+        "H02P7/34",
+        12
+      ],
+      [
+        "H02P7/00",
+        11
+      ],
+      [
+        "H02P29/00",
+        7
+      ],
+      [
+        "H02P1/04",
+        5
+      ],
+      [
+        "F04D27/02",
+        5
+      ],
+      [
+        "H02P1/34",
+        4
+      ],
+      [
+        "H02P1/26",
+        4
+      ],
+      [
+        "H02P1/18",
+        4
+      ],
+      [
+        "H02P1/02",
+        4
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        121
+      ],
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Switch-operating mechanism",
+      "Motor-control system",
+      "Motor-control system",
+      "Motor-control system",
+      "Motor-control system",
+      "Motor-control system",
+      "Motor-control system",
+      "Motor-control system",
+      "Motor-control system",
+      "Motor-control system"
+    ]
+  },
+  {
+    "cluster_id": 43,
+    "size": 118,
+    "top_assignees": [
+      [
+        "NIDEC CORP",
+        21
+      ],
+      [
+        "RICOH CO LTD",
+        20
+      ],
+      [
+        "HITACHI HIGH TECH CORP",
+        15
+      ],
+      [
+        "SAFETY CAR HEATING & LIGHTING",
+        10
+      ],
+      [
+        "KAMATANI TOMOHIKO",
+        10
+      ],
+      [
+        "FURUSE KATSUHISA",
+        6
+      ],
+      [
+        "SHIMIZU FUMIHIRO",
+        6
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        5
+      ],
+      [
+        "SUZUKI HARUYUKI",
+        4
+      ],
+      [
+        "NIDEC SANKYO CORP",
+        3
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P6/16",
+        42
+      ],
+      [
+        "H02P29/00",
+        13
+      ],
+      [
+        "G01D5/244",
+        13
+      ],
+      [
+        "B65G54/02",
+        12
+      ],
+      [
+        "H02P25/064",
+        12
+      ],
+      [
+        "H02P9/00",
+        11
+      ],
+      [
+        "H02P6/08",
+        10
+      ],
+      [
+        "H02K11/215",
+        9
+      ],
+      [
+        "G01B7/30",
+        8
+      ],
+      [
+        "H02P6/06",
+        8
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        77
+      ],
+      [
+        "WO",
+        41
+      ]
+    ],
+    "sample_titles": [
+      "Vehicle driving apparatus and system",
+      "Vehicle driving apparatus and system",
+      "Vehicle driving apparatus and system",
+      "Vehicle driving apparatus and system",
+      "Vehicle driving apparatus and system",
+      "Vehicle driving apparatus and system",
+      "Vehicle driving apparatus and system",
+      "Vehicle driving apparatus and system",
+      "Vehicle driving apparatus and system",
+      "Vehicle driving apparatus and system"
+    ]
+  },
+  {
+    "cluster_id": 44,
+    "size": 102,
+    "top_assignees": [
+      [
+        "FANUC CORP",
+        28
+      ],
+      [
+        "PANASONIC IP MAN CO LTD",
+        21
+      ],
+      [
+        "OMRON TATEISI ELECTRONICS CO",
+        13
+      ],
+      [
+        "YASKAWA DENKI SEISAKUSHO KK",
+        11
+      ],
+      [
+        "MITSUBISHI ELECTRIC CORP",
+        8
+      ],
+      [
+        "ANDO AMANE",
+        2
+      ],
+      [
+        "MUTA YOSHIHISA",
+        2
+      ],
+      [
+        "KOMIYA TAKEHIKO",
+        2
+      ],
+      [
+        "PANASONIC CORP",
+        2
+      ],
+      [
+        "MATSUMURA ISAMU",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P29/00",
+        62
+      ],
+      [
+        "G05B13/02",
+        12
+      ],
+      [
+        "G05B11/36",
+        11
+      ],
+      [
+        "H02P23/14",
+        9
+      ],
+      [
+        "H02P31/00",
+        8
+      ],
+      [
+        "G05B23/02",
+        8
+      ],
+      [
+        "H02P5/00",
+        6
+      ],
+      [
+        "H02P5/46",
+        6
+      ],
+      [
+        "H02P23/00",
+        6
+      ],
+      [
+        "H02P5/74",
+        5
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        75
+      ],
+      [
+        "US",
+        27
+      ]
+    ],
+    "sample_titles": [
+      "Method and unit for controlling the synchronization of complex machines in case of electric power failure",
+      "Method for selecting drive motor and decelerator which constitute actuator",
+      "Device for selecting motor controller, method for selecting motor controller, computer program implementing that method, and its storage method",
+      "Linear actuator motor selection method and devices",
+      "Selection device and ordering device for motor controller, selection method and ordering method for motor controller, computer program having selection function and ordering fuction, and recording medium therefor",
+      "System clock monitoring device and motor control system",
+      "Multi-axis motor driving system and multi-axis motor driving apparatus",
+      "Multiaxial motor drive system and multiaxial motor drive device",
+      "Multi-shaft motor drive device and multi-axis motor drive system",
+      "Motion controller and motor control system"
+    ]
+  },
+  {
+    "cluster_id": 45,
+    "size": 79,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        33
+      ],
+      [
+        "CUTLER HAMMER INC",
+        6
+      ],
+      [
+        "WESTINGHOUSE ELECTRIC & MFG CO",
+        5
+      ],
+      [
+        "ASEA AB",
+        3
+      ],
+      [
+        "TROY LAUNDRY MACHINERY CO",
+        1
+      ],
+      [
+        "IND CONTROLLER COMPANY",
+        1
+      ],
+      [
+        "NILES BEMENTPOND CO",
+        1
+      ],
+      [
+        "GEORGE LAMBERTON",
+        1
+      ],
+      [
+        "HANSEN KLAUS L",
+        1
+      ],
+      [
+        "IDEAL ELECTRIC & MFG COMPANY",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/34",
+        7
+      ],
+      [
+        "H02P5/48",
+        6
+      ],
+      [
+        "H02P5/46",
+        6
+      ],
+      [
+        "H02P23/00",
+        5
+      ],
+      [
+        "H02P5/50",
+        4
+      ],
+      [
+        "H02P29/00",
+        4
+      ],
+      [
+        "H02P1/04",
+        3
+      ],
+      [
+        "H02P1/54",
+        3
+      ],
+      [
+        "H02P1/20",
+        3
+      ],
+      [
+        "H02P1/18",
+        3
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        79
+      ]
+    ],
+    "sample_titles": [
+      "System of motor contbol",
+      "System of motor control",
+      "System of motor control",
+      "Segregated drive for paper machines and the like",
+      "System of motor control",
+      "System of motor control",
+      "Segregated drive for paper-machines and the like",
+      "System of motor control",
+      "Segregated drive for paper machines and the like",
+      "System of motor control"
+    ]
+  },
+  {
+    "cluster_id": 46,
+    "size": 70,
+    "top_assignees": [
+      [
+        "ALLEGRO MICROSYSTEMS LLC",
+        24
+      ],
+      [
+        "ANPEC ELECTRONICS CORP",
+        4
+      ],
+      [
+        "ALLEGRO MICROSYSTEMS INC",
+        3
+      ],
+      [
+        "AAC TECHNOLOGIES PTE LTD",
+        3
+      ],
+      [
+        "WANG YAO",
+        3
+      ],
+      [
+        "HU XIAOFEI",
+        3
+      ],
+      [
+        "WANG HONGXING",
+        3
+      ],
+      [
+        "NIDEC CORP",
+        3
+      ],
+      [
+        "KRAUS RICHARD A",
+        2
+      ],
+      [
+        "NG CHEE-KIONG",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/08",
+        18
+      ],
+      [
+        "H02P6/16",
+        9
+      ],
+      [
+        "H02P7/29",
+        6
+      ],
+      [
+        "H02P21/22",
+        6
+      ],
+      [
+        "H02P6/06",
+        5
+      ],
+      [
+        "H02P7/00",
+        4
+      ],
+      [
+        "H02P21/00",
+        4
+      ],
+      [
+        "H02P6/14",
+        4
+      ],
+      [
+        "H02P6/18",
+        4
+      ],
+      [
+        "H02P6/08",
+        3
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        59
+      ],
+      [
+        "WO",
+        11
+      ]
+    ],
+    "sample_titles": [
+      "Motor controller",
+      "General purpose motor controller",
+      "Reduction of emi through switching frequency dithering",
+      "Systems and methods for driving a motor",
+      "Antenna assembly",
+      "Systems and methods for driving a load",
+      "Method and circuit arrangement for controlling operation of an electric motor of an electrical appliance, particularly an electrical household appliance, and interface circuit arrangement used therein",
+      "Inverter",
+      "Device for safely operating a flight control actuator of an aircraft",
+      "Motor controller having a multifunction port"
+    ]
+  },
+  {
+    "cluster_id": 47,
+    "size": 22,
+    "top_assignees": [
+      [
+        "CUTLER HAMMER INC",
+        8
+      ],
+      [
+        "CUTLER HAMMER MFG CO",
+        4
+      ],
+      [
+        "GEN ELECTRIC",
+        4
+      ],
+      [
+        "HORTON ALBERT J",
+        1
+      ],
+      [
+        "MORSE WILLIS S",
+        1
+      ],
+      [
+        "EVANS CLARENCE T",
+        1
+      ],
+      [
+        "CUTLERHAMMER MFG CO",
+        1
+      ],
+      [
+        "US AUTOMATIC FIRE ALARM COMPAN",
+        1
+      ],
+      [
+        "BURKE ALFRED W",
+        1
+      ],
+      [
+        "OHIO BRASS CO",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P1/20",
+        4
+      ],
+      [
+        "H02P1/04",
+        2
+      ],
+      [
+        "H02P7/00",
+        2
+      ],
+      [
+        "H02P9/00",
+        2
+      ],
+      [
+        "H02P1/34",
+        1
+      ],
+      [
+        "H02P7/20",
+        1
+      ],
+      [
+        "H02P7/14",
+        1
+      ],
+      [
+        "H02P1/26",
+        1
+      ],
+      [
+        "H02P1/06",
+        1
+      ],
+      [
+        "H02P1/12",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        22
+      ]
+    ],
+    "sample_titles": [
+      "Circuit-controller",
+      "Circuit-controller",
+      "Circuit-controller",
+      "Circuit controller",
+      "Circuit controller",
+      "Circuit-controller",
+      "Circuit controller",
+      "Circuit controller",
+      "Circuit controller",
+      "Circuit controller"
+    ]
+  },
+  {
+    "cluster_id": 48,
+    "size": 11,
+    "top_assignees": [
+      [
+        "KYOCERA CORP",
+        10
+      ],
+      [
+        "MURATA MANUFACTURING CO",
+        1
+      ],
+      [
+        "UNIV SHINSHU",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        10
+      ],
+      [
+        "H01G4/38",
+        10
+      ],
+      [
+        "H01G4/33",
+        8
+      ],
+      [
+        "H02M7/5387",
+        6
+      ],
+      [
+        "H01G4/18",
+        5
+      ],
+      [
+        "H01G4/32",
+        5
+      ],
+      [
+        "H01G4/14",
+        5
+      ],
+      [
+        "H01G4/30",
+        4
+      ],
+      [
+        "H01G4/005",
+        3
+      ],
+      [
+        "C08J5/18",
+        3
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        11
+      ]
+    ],
+    "sample_titles": [
+      "Laminated film capacitor, capacitor module, and power conversion system",
+      "Film capacitor and connection type capacitor, inverter, and electric-powered vehicle",
+      "Dielectric film, film capacitor and combination type capacitor employing the dielectric film, and inverter and electric vehicle",
+      "Film capacitor, combination type capacitor, inverter, and electric vehicle",
+      "Composite resin material, dielectric film, and film capacitor and combination type capacitor employing same, inverter, and electric vehicle",
+      "Film capacitor, combination type capacitor, inverter, and electric vehicle",
+      "Film capacitor, combination type capacitor, inverter, and electric vehicle",
+      "Stacked capacitor, connected capacitor, inverter, and electric vehicle",
+      "Dielectric film for film capacitor, film capacitor and connected capacitor including dielectric film, inverter, and electric vehicle",
+      "Dielectric film, film capacitor and connected capacitor including dielectric film, inverter, and electric vehicle"
+    ]
+  },
+  {
+    "cluster_id": 49,
+    "size": 7,
+    "top_assignees": [
+      [
+        "VANDERZYDEN HENRY R",
+        3
+      ],
+      [
+        "DELL JONATHAN C",
+        3
+      ],
+      [
+        "HAMILTON SUNDSTRAND CORP",
+        3
+      ],
+      [
+        "VESTAS WIND SYS AS",
+        1
+      ],
+      [
+        "DEMTR\u00d6DER JENS",
+        1
+      ],
+      [
+        "COOPER TIMOTHY RICHARD",
+        1
+      ],
+      [
+        "STECKEL JOHN PAUL",
+        1
+      ],
+      [
+        "ALBERT GREGORY PAUL",
+        1
+      ],
+      [
+        "INGERSOLL RAND CO",
+        1
+      ],
+      [
+        "BECKER DANIEL JAY",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/06",
+        3
+      ],
+      [
+        "F16H55/17",
+        1
+      ],
+      [
+        "B21K1/30",
+        1
+      ],
+      [
+        "H02P9/04",
+        1
+      ],
+      [
+        "B23P15/14",
+        1
+      ],
+      [
+        "F03D9/00",
+        1
+      ],
+      [
+        "B21D53/28",
+        1
+      ],
+      [
+        "F03D11/02",
+        1
+      ],
+      [
+        "B23P11/02",
+        1
+      ],
+      [
+        "F16H55/12",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        6
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Composite gear part for a gear arrangement and a method of forming a composite gear part",
+      "Ring gears configured to encase in-line torque transducers for power tools",
+      "Integrated drive generator housing",
+      "Integrated drive generator pump plate",
+      "Integrated drive generator gear alignment",
+      "Variable wobbler plate for integrated drive generator",
+      "Differential unit gear shrouds"
+    ]
+  },
+  {
+    "cluster_id": 51,
+    "size": 4,
+    "top_assignees": [
+      [
+        "OZARK MAHONING CO",
+        1
+      ],
+      [
+        "DAVY MCKEE LTD",
+        1
+      ],
+      [
+        "AJINOMOTO KK",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "C01B25/10",
+        1
+      ],
+      [
+        "H02P9/38",
+        1
+      ],
+      [
+        "C07C29/132",
+        1
+      ],
+      [
+        "C07C29/17",
+        1
+      ],
+      [
+        "C07D315/00",
+        1
+      ],
+      [
+        "C07D317/08",
+        1
+      ],
+      [
+        "C07C27/00",
+        1
+      ],
+      [
+        "C07C29/149",
+        1
+      ],
+      [
+        "C07B61/00",
+        1
+      ],
+      [
+        "H02P25/06",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        4
+      ]
+    ],
+    "sample_titles": [
+      "Method of producing hexafluorophosphoric acid",
+      "Process for the production of butane-1,4-diol",
+      "Process for producing N-long-chain acyl acidic amino acids or salts thereof",
+      "Method for the production of nitric acid"
+    ]
+  },
+  {
+    "cluster_id": 50,
+    "size": 4,
+    "top_assignees": [
+      [
+        "RENESAS ELECTRONICS CORP",
+        2
+      ],
+      [
+        "TOYODA AUTOMATIC LOOM WORKS",
+        1
+      ],
+      [
+        "SCHMIDHAUSER AG",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        2
+      ],
+      [
+        "H01L29/739",
+        1
+      ],
+      [
+        "H01L29/74",
+        1
+      ],
+      [
+        "H01L27/06",
+        1
+      ],
+      [
+        "H02P7/00",
+        1
+      ],
+      [
+        "H03K19/0185",
+        1
+      ],
+      [
+        "H03K17/687",
+        1
+      ],
+      [
+        "H03K17/567",
+        1
+      ],
+      [
+        "H03K5/24",
+        1
+      ],
+      [
+        "G06F1/3203",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        4
+      ]
+    ],
+    "sample_titles": [
+      "Semiconductor device for controlling electric power",
+      "Semiconductor device, power control device and electronic system",
+      "Semiconductor device, electric power control system, and electric power control method",
+      "Frequency converter with drivable switch preventing undesired current flow"
+    ]
+  },
+  {
+    "cluster_id": 55,
+    "size": 4,
+    "top_assignees": [
+      [
+        "UNIV CHINA MINING & TECHNOLOGY",
+        2
+      ],
+      [
+        "UNIV CHINA MINING",
+        2
+      ],
+      [
+        "UNIV CHINA MINING & TECH",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P25/08",
+        3
+      ],
+      [
+        "H02P6/34",
+        2
+      ],
+      [
+        "H02P23/14",
+        1
+      ],
+      [
+        "G06F17/11",
+        1
+      ],
+      [
+        "G06F7/60",
+        1
+      ],
+      [
+        "G06F17/50",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        3
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Memristor linear modeling method for switched reluctance motor",
+      "Method for creating switch reluctance motor memory sensor model",
+      "Electromechanical energy conversion switched reluctance motor simulation method",
+      "Switched reluctance motor modeling method"
+    ]
+  },
+  {
+    "cluster_id": 52,
+    "size": 4,
+    "top_assignees": [
+      [
+        "ZHONGSHAN BROAD OCEAN MOTOR CO",
+        1
+      ],
+      [
+        "GUANGZHOU XIAOPENG MOTORS TECH CO LTD",
+        1
+      ],
+      [
+        "CONTEMPORARY AMPEREX TECHNOLOGY CO LTD",
+        1
+      ],
+      [
+        "GUANGDONG HUITIAN AEROSPACE TECH CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P6/08",
+        2
+      ],
+      [
+        "G01D18/00",
+        1
+      ],
+      [
+        "H02P7/00",
+        1
+      ],
+      [
+        "H02P6/18",
+        1
+      ],
+      [
+        "H02P6/00",
+        1
+      ],
+      [
+        "H02P23/14",
+        1
+      ],
+      [
+        "H02P21/13",
+        1
+      ],
+      [
+        "H02P21/14",
+        1
+      ],
+      [
+        "H02P21/06",
+        1
+      ],
+      [
+        "H02P21/18",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        4
+      ]
+    ],
+    "sample_titles": [
+      "Fault state feedback method for bldc motor and application of bldc motor and air-conditioning system",
+      "Electric vehicle, method and device for diagnosing rotary transformer initial position",
+      "Method and apparatus for updating calibration data of motor, electronic device, and storage medium",
+      "Fault-tolerant control method for electric motor position sensor, and flying car and storage medium"
+    ]
+  },
+  {
+    "cluster_id": 53,
+    "size": 4,
+    "top_assignees": [
+      [
+        "NIDEC COPAL CORP",
+        4
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P25/032",
+        4
+      ],
+      [
+        "B06B1/04",
+        3
+      ],
+      [
+        "H02K33/16",
+        3
+      ],
+      [
+        "H02K33/02",
+        3
+      ],
+      [
+        "H02K33/18",
+        2
+      ],
+      [
+        "H02K5/00",
+        1
+      ],
+      [
+        "H02K5/04",
+        1
+      ],
+      [
+        "H02P7/025",
+        1
+      ],
+      [
+        "H04M19/04",
+        1
+      ],
+      [
+        "G08B6/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        4
+      ]
+    ],
+    "sample_titles": [
+      "Linear vibration motor",
+      "Linear vibration motor",
+      "Linear vibration motor",
+      "Linear vibration motor"
+    ]
+  },
+  {
+    "cluster_id": 54,
+    "size": 4,
+    "top_assignees": [
+      [
+        "KOBE STEEL LTD",
+        4
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "F02C6/16",
+        3
+      ],
+      [
+        "H02P9/04",
+        2
+      ],
+      [
+        "F28F27/02",
+        2
+      ],
+      [
+        "F02C1/05",
+        2
+      ],
+      [
+        "F28D20/00",
+        2
+      ],
+      [
+        "F03D9/17",
+        1
+      ],
+      [
+        "F28F27/00",
+        1
+      ],
+      [
+        "H02P9/08",
+        1
+      ],
+      [
+        "H02P9/00",
+        1
+      ],
+      [
+        "F02C1/02",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        3
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Container-type compressed air storage power generation device",
+      "Compressed air energy storage power generation device and compressed air energy storage power generation method",
+      "Compressed-air-storing power generation device and compressed-air-storing power generation method",
+      "Compressed air energy storage power generation device and compressed air energy storage power generation method"
+    ]
+  },
+  {
+    "cluster_id": 64,
+    "size": 3,
+    "top_assignees": [
+      [
+        "GRIMM SR FRANK C",
+        1
+      ],
+      [
+        "STEELE FLOYD G",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P25/32",
+        1
+      ],
+      [
+        "H02P1/58",
+        1
+      ],
+      [
+        "H02P29/00",
+        1
+      ],
+      [
+        "H10N35/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        3
+      ]
+    ],
+    "sample_titles": [
+      "Electronic control for alternating",
+      "Device for alternating electric circuits",
+      "Alternating energy control system"
+    ]
+  },
+  {
+    "cluster_id": 67,
+    "size": 3,
+    "top_assignees": [
+      [
+        "MICHAEL KOSTENKO",
+        1
+      ],
+      [
+        "NICOLAS JAPOLSKY",
+        1
+      ],
+      [
+        "FINLEY WILLIAM",
+        1
+      ],
+      [
+        "BECKMAN DAVID",
+        1
+      ],
+      [
+        "FLICK BENJAMIN",
+        1
+      ],
+      [
+        "LAUBENTHAL MICHAEL",
+        1
+      ],
+      [
+        "DAUSE KEVIN",
+        1
+      ],
+      [
+        "WIEST MATTHIAS",
+        1
+      ],
+      [
+        "SEW EURODRIVE GMBH & CO",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P23/00",
+        1
+      ],
+      [
+        "H05K5/02",
+        1
+      ],
+      [
+        "H02P5/00",
+        1
+      ],
+      [
+        "H02P5/46",
+        1
+      ],
+      [
+        "H02K11/04",
+        1
+      ],
+      [
+        "H02P5/50",
+        1
+      ],
+      [
+        "G05B19/418",
+        1
+      ],
+      [
+        "H05K7/14",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Installation for operating reciprocating electric motors",
+      "Devices, systems, and/or methods for electrically coupling a high voltage electric motor",
+      "Electric motor and installation comprising electric motors"
+    ]
+  },
+  {
+    "cluster_id": 59,
+    "size": 3,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        1
+      ],
+      [
+        "WESTON ELECTRICAL INSTR CORP",
+        1
+      ],
+      [
+        "SERVO CORP OF AMERICA",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P23/00",
+        1
+      ],
+      [
+        "G05F1/648",
+        1
+      ],
+      [
+        "H02P9/18",
+        1
+      ],
+      [
+        "H02P7/292",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        3
+      ]
+    ],
+    "sample_titles": [
+      "Remote-control system",
+      "Control device",
+      "Relay-operated amplifier"
+    ]
+  },
+  {
+    "cluster_id": 61,
+    "size": 3,
+    "top_assignees": [
+      [
+        "CHEM IND BASEL",
+        1
+      ],
+      [
+        "UPJOHN CO",
+        1
+      ],
+      [
+        "SCHWARZ BIORES INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/26",
+        1
+      ],
+      [
+        "C01C1/04",
+        1
+      ],
+      [
+        "H02P9/42",
+        1
+      ],
+      [
+        "C07D475/04",
+        1
+      ],
+      [
+        "A61K9/20",
+        1
+      ],
+      [
+        "H02K19/38",
+        1
+      ],
+      [
+        "H02P9/10",
+        1
+      ],
+      [
+        "A61K9/48",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        3
+      ]
+    ],
+    "sample_titles": [
+      "Synthesis of ammonia",
+      "Folic acid intermediates",
+      "Thiolation of proteins by reaction with homocysteine thiolactone in the presence of tertiary amine"
+    ]
+  },
+  {
+    "cluster_id": 60,
+    "size": 3,
+    "top_assignees": [
+      [
+        "GEN ELECTRIC",
+        2
+      ],
+      [
+        "ROBINETTE WILLARD C",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02M5/00",
+        2
+      ],
+      [
+        "H02M5/27",
+        2
+      ],
+      [
+        "H02P27/06",
+        1
+      ],
+      [
+        "H02P27/04",
+        1
+      ],
+      [
+        "H02P27/02",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        3
+      ]
+    ],
+    "sample_titles": [
+      "Electric valve frequency converting system",
+      "Electric valve converting system",
+      "High-speed motor"
+    ]
+  },
+  {
+    "cluster_id": 68,
+    "size": 3,
+    "top_assignees": [
+      [
+        "TYLER CO W S",
+        2
+      ],
+      [
+        "FLORENCE KLINGEL",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P5/68",
+        3
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        3
+      ]
+    ],
+    "sample_titles": [
+      "Control system for industrial vibrating machinery",
+      "Control system for industrial vibrating machinery",
+      "Control system for industrial vibrating machinery"
+    ]
+  },
+  {
+    "cluster_id": 62,
+    "size": 3,
+    "top_assignees": [
+      [
+        "GLOBERIDE INC",
+        2
+      ],
+      [
+        "INTERN RADIO & ELECTRONICS COR",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "A01K89/0155",
+        2
+      ],
+      [
+        "A01K89/02",
+        2
+      ],
+      [
+        "A01K89/015",
+        2
+      ],
+      [
+        "H02P3/24",
+        1
+      ],
+      [
+        "H02P3/00",
+        1
+      ],
+      [
+        "H02P3/22",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Differential braking system for reeling apparatus",
+      "Fishing reel comprising braking unit",
+      "Fishing reel equipped with braking unit"
+    ]
+  },
+  {
+    "cluster_id": 56,
+    "size": 3,
+    "top_assignees": [
+      [
+        "SCIENTIFIC ATLANTA",
+        1
+      ],
+      [
+        "DALIN ERIK",
+        1
+      ],
+      [
+        "C2SAT COMM AB",
+        1
+      ],
+      [
+        "GTL CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H01Q3/08",
+        2
+      ],
+      [
+        "H02P8/18",
+        1
+      ],
+      [
+        "G01S5/00",
+        1
+      ],
+      [
+        "H02P8/12",
+        1
+      ],
+      [
+        "G01S3/44",
+        1
+      ],
+      [
+        "H02P27/08",
+        1
+      ],
+      [
+        "H01Q3/02",
+        1
+      ],
+      [
+        "H02P5/68",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Satellite tracking antenna system",
+      "Method for obtaining a predetermined position of an antenna",
+      "Satellite antenna positioner having satellite tracking function"
+    ]
+  },
+  {
+    "cluster_id": 69,
+    "size": 3,
+    "top_assignees": [
+      [
+        "BIRDI BALWINDER S",
+        2
+      ],
+      [
+        "BURKE DAVID W",
+        2
+      ],
+      [
+        "MACEDA ARTURO",
+        2
+      ],
+      [
+        "SCHERZINGER WILLIAM M",
+        1
+      ],
+      [
+        "WADDELL SIMON L",
+        1
+      ],
+      [
+        "DUDDECK MICHAEL W",
+        1
+      ],
+      [
+        "GUZMAN LOPEZ MIGUEL A",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/06",
+        2
+      ],
+      [
+        "H02P3/00",
+        1
+      ],
+      [
+        "F16H29/20",
+        1
+      ],
+      [
+        "F16D11/10",
+        1
+      ],
+      [
+        "H02P15/00",
+        1
+      ],
+      [
+        "F16D27/09",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        3
+      ]
+    ],
+    "sample_titles": [
+      "Dual purpose permanent magnet exciter",
+      "Mechanical disconnect dual-sided interlocking teeth",
+      "Application of eddy current braking system for use in a gearbox/generator mechanical disconnect"
+    ]
+  },
+  {
+    "cluster_id": 58,
+    "size": 3,
+    "top_assignees": [
+      [
+        "CANDELA GARCIA JOSE IGNACIO",
+        3
+      ],
+      [
+        "TEODORESCU REMUS",
+        3
+      ],
+      [
+        "RODRIGUEZ CORTES PEDRO",
+        2
+      ],
+      [
+        "ABENGOA SOLAR NEW TECH SA",
+        2
+      ],
+      [
+        "ROCABERT DELGADO JOAN",
+        2
+      ],
+      [
+        "DELGADO JOAN ROCABERT",
+        1
+      ],
+      [
+        "RODRIGUEZ CORTES PATIRO",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P23/14",
+        2
+      ],
+      [
+        "G05F1/66",
+        2
+      ],
+      [
+        "H02M7/48",
+        2
+      ],
+      [
+        "H02P9/02",
+        2
+      ],
+      [
+        "H02P9/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Synchronous power controller for a generating system based on static power converters",
+      "Virtual controller of electromechanical characteristics for static power converters",
+      "Virtual admittance controller based on static power converters"
+    ]
+  },
+  {
+    "cluster_id": 65,
+    "size": 3,
+    "top_assignees": [
+      [
+        "NUCURRENT INC",
+        3
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P13/00",
+        3
+      ],
+      [
+        "H04B5/00",
+        2
+      ],
+      [
+        "H01F17/00",
+        2
+      ],
+      [
+        "H01F41/04",
+        2
+      ],
+      [
+        "H01F38/14",
+        2
+      ],
+      [
+        "H05B6/06",
+        2
+      ],
+      [
+        "A61N1/36",
+        2
+      ],
+      [
+        "H05K1/16",
+        2
+      ],
+      [
+        "H05B6/12",
+        2
+      ],
+      [
+        "A61N1/372",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        3
+      ]
+    ],
+    "sample_titles": [
+      "Method for operation of multi-layer-multi-turn high efficiency inductors",
+      "Method for manufacture of multi-layer-multi-turn high efficiency inductors",
+      "Multi-layer-multi-turn structure for high efficiency wireless communication"
+    ]
+  },
+  {
+    "cluster_id": 63,
+    "size": 3,
+    "top_assignees": [
+      [
+        "TOKYO ELECTRIC MFG CO LTD",
+        1
+      ],
+      [
+        "TOYO ELECTRIC MFG CO LTD",
+        1
+      ],
+      [
+        "NSK LTD",
+        1
+      ],
+      [
+        "UNIV TOKYO",
+        1
+      ],
+      [
+        "JO HEE DUK",
+        1
+      ],
+      [
+        "UNIV CITY HONG KONG",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B60K7/00",
+        3
+      ],
+      [
+        "B60L15/00",
+        2
+      ],
+      [
+        "H02J50/12",
+        2
+      ],
+      [
+        "H02P27/08",
+        1
+      ],
+      [
+        "B60L58/21",
+        1
+      ],
+      [
+        "B60L15/20",
+        1
+      ],
+      [
+        "B60L50/60",
+        1
+      ],
+      [
+        "H02J50/80",
+        1
+      ],
+      [
+        "H02K7/14",
+        1
+      ],
+      [
+        "H02P6/14",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "In-wheel motor system",
+      "In-wheel hexa motor system",
+      "Wireless in-wheel motor drive and method for optimizing the same"
+    ]
+  },
+  {
+    "cluster_id": 66,
+    "size": 3,
+    "top_assignees": [
+      [
+        "NIKKISO CO LTD",
+        3
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "F04D13/06",
+        2
+      ],
+      [
+        "H02K11/225",
+        2
+      ],
+      [
+        "F16C41/00",
+        1
+      ],
+      [
+        "F04D29/00",
+        1
+      ],
+      [
+        "H02P29/024",
+        1
+      ],
+      [
+        "H02P31/00",
+        1
+      ],
+      [
+        "H02K11/20",
+        1
+      ],
+      [
+        "H02P23/00",
+        1
+      ],
+      [
+        "G05B5/00",
+        1
+      ],
+      [
+        "H02P23/14",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Motor bearing wear monitoring device, adjustment method for motor bearing wear monitoring device, and program",
+      "Motor bearing wear monitoring device, setting method for motor bearing wear monitoring device, and setting program",
+      "Motor bearing wear state estimation device, bearing wear state estimation method, bearing wear state estimation program, and canned motor pump"
+    ]
+  },
+  {
+    "cluster_id": 57,
+    "size": 3,
+    "top_assignees": [
+      [
+        "SAMSUNG ELECTRONICS CO LTD",
+        2
+      ],
+      [
+        "APPLE INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02K41/035",
+        3
+      ],
+      [
+        "G03B13/36",
+        2
+      ],
+      [
+        "H02P7/025",
+        2
+      ],
+      [
+        "G03B3/10",
+        1
+      ],
+      [
+        "G03B5/00",
+        1
+      ],
+      [
+        "H02K33/18",
+        1
+      ],
+      [
+        "H02K33/02",
+        1
+      ],
+      [
+        "H02P25/034",
+        1
+      ],
+      [
+        "H02K11/33",
+        1
+      ],
+      [
+        "G02B7/28",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Camera module and mobile electronic device comprising same",
+      "Camera module and electronic device having same",
+      "Fluid-filled tunable lens"
+    ]
+  },
+  {
+    "cluster_id": 111,
+    "size": 2,
+    "top_assignees": [],
+    "top_ipc_groups": [
+      [
+        "H02P23/16",
+        1
+      ],
+      [
+        "H02P1/58",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Ler-hammer mfg",
+      "Hammer mfg"
+    ]
+  },
+  {
+    "cluster_id": 84,
+    "size": 2,
+    "top_assignees": [],
+    "top_ipc_groups": [
+      [
+        "H02P1/20",
+        1
+      ],
+      [
+        "H02P1/46",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "op baltimore",
+      "op minneapolis"
+    ]
+  },
+  {
+    "cluster_id": 85,
+    "size": 2,
+    "top_assignees": [
+      [
+        "CUTLERHAMMER MFG CO",
+        1
+      ],
+      [
+        "GEN ELECTRIC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/18",
+        1
+      ],
+      [
+        "H02P9/24",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Electromagnetically-operated device",
+      "Electromagnetically-actuated apparatus"
+    ]
+  },
+  {
+    "cluster_id": 97,
+    "size": 2,
+    "top_assignees": [
+      [
+        "WESTERN ELECTRIC CO",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/26",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Thermionic regulator",
+      "Thermionic regulator"
+    ]
+  },
+  {
+    "cluster_id": 112,
+    "size": 2,
+    "top_assignees": [
+      [
+        "SPERRY DEV CO",
+        1
+      ],
+      [
+        "PETERSON ADOLPHE C",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/06",
+        1
+      ],
+      [
+        "H02P23/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Accelerating means for automotive vehicles",
+      "Automotive speed-controlling means"
+    ]
+  },
+  {
+    "cluster_id": 113,
+    "size": 2,
+    "top_assignees": [
+      [
+        "WESTERN ELECTRIC CO",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/00",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Control regulator",
+      "Control regulator"
+    ]
+  },
+  {
+    "cluster_id": 158,
+    "size": 2,
+    "top_assignees": [
+      [
+        "INT MOTOR CO",
+        1
+      ],
+      [
+        "CATTRON NORTH AMERICA INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/00",
+        1
+      ],
+      [
+        "G05B15/02",
+        1
+      ],
+      [
+        "G01L25/00",
+        1
+      ],
+      [
+        "F04D27/00",
+        1
+      ],
+      [
+        "G01L27/00",
+        1
+      ],
+      [
+        "H02P23/14",
+        1
+      ],
+      [
+        "G01R22/06",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Automatic control for field resistance",
+      "Controllers with Auto-Adjustable In-Field Reconfigurable Sensors"
+    ]
+  },
+  {
+    "cluster_id": 114,
+    "size": 2,
+    "top_assignees": [
+      [
+        "BRISTOL COMPANY",
+        1
+      ],
+      [
+        "AKE SALLOW KARL",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P5/68",
+        1
+      ],
+      [
+        "B66C13/24",
+        1
+      ],
+      [
+        "B66C13/26",
+        1
+      ],
+      [
+        "H02P7/34",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Automatic control for tire molds and the like",
+      "Automatic electrical controls for a winch, capstan or the like"
+    ]
+  },
+  {
+    "cluster_id": 115,
+    "size": 2,
+    "top_assignees": [
+      [
+        "CALIFORNIA PROCESS COMPANY",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P5/68",
+        1
+      ],
+      [
+        "H02P5/46",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Controlling means for batch operating machines",
+      "Controlling means for batch operating machines"
+    ]
+  },
+  {
+    "cluster_id": 120,
+    "size": 2,
+    "top_assignees": [
+      [
+        "TAYLOR INSTRUMENT CO",
+        1
+      ],
+      [
+        "WOODALL HARRY M",
+        1
+      ],
+      [
+        "WOODALL ELIZABETH R",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G01R13/08",
+        1
+      ],
+      [
+        "H02P7/00",
+        1
+      ],
+      [
+        "H02P9/18",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Recording galvanometer",
+      "Galvanometer"
+    ]
+  },
+  {
+    "cluster_id": 86,
+    "size": 2,
+    "top_assignees": [
+      [
+        "WESTINGHOUSE ELEC ELEVATOR CO",
+        1
+      ],
+      [
+        "HAMILTON SUNDSTRAND CORP",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/34",
+        1
+      ],
+      [
+        "H02K3/02",
+        1
+      ],
+      [
+        "H02K3/50",
+        1
+      ],
+      [
+        "H02P9/10",
+        1
+      ],
+      [
+        "H02K11/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Generator demagnetizing connection",
+      "Generator main field connection"
+    ]
+  },
+  {
+    "cluster_id": 87,
+    "size": 2,
+    "top_assignees": [
+      [
+        "HOBART BROS COMPANY",
+        1
+      ],
+      [
+        "AMADA MIYACHI AMERICA INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B23K9/10",
+        1
+      ],
+      [
+        "H02P1/32",
+        1
+      ],
+      [
+        "B23K11/31",
+        1
+      ],
+      [
+        "H02P29/60",
+        1
+      ],
+      [
+        "B23K11/11",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Welder",
+      "Weld head"
+    ]
+  },
+  {
+    "cluster_id": 116,
+    "size": 2,
+    "top_assignees": [
+      [
+        "WESTINGHOUSE ELECTRIC & MFG CO",
+        1
+      ],
+      [
+        "TOKAI RIKA CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P1/46",
+        1
+      ],
+      [
+        "H02H11/00",
+        1
+      ],
+      [
+        "H02P7/06",
+        1
+      ],
+      [
+        "H01H47/00",
+        1
+      ],
+      [
+        "H03K17/26",
+        1
+      ],
+      [
+        "H02H7/085",
+        1
+      ],
+      [
+        "H03K17/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Relay circuit",
+      "Relay control circuit"
+    ]
+  },
+  {
+    "cluster_id": 117,
+    "size": 2,
+    "top_assignees": [
+      [
+        "JACK & HEINTZ INC",
+        1
+      ],
+      [
+        "MARION MALLORY",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "F02N11/08",
+        1
+      ],
+      [
+        "H02P1/12",
+        1
+      ],
+      [
+        "H02P9/18",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Governor",
+      "Governor"
+    ]
+  },
+  {
+    "cluster_id": 118,
+    "size": 2,
+    "top_assignees": [
+      [
+        "HEWLETT PACKARD CO",
+        1
+      ],
+      [
+        "UECKER JAMES L",
+        1
+      ],
+      [
+        "OVERESCH JEREMY D",
+        1
+      ],
+      [
+        "ILLINOIS TOOL WORKS",
+        1
+      ],
+      [
+        "HOLVERSON TODD E",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B23K9/10",
+        2
+      ],
+      [
+        "H02P9/00",
+        1
+      ],
+      [
+        "F02B63/04",
+        1
+      ],
+      [
+        "H02P9/04",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Welding system",
+      "Cooperative welding system"
+    ]
+  },
+  {
+    "cluster_id": 119,
+    "size": 2,
+    "top_assignees": [
+      [
+        "CUTLER HAMMER INC",
+        1
+      ],
+      [
+        "IBM",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P1/02",
+        1
+      ],
+      [
+        "B41F13/004",
+        1
+      ],
+      [
+        "H02P5/50",
+        1
+      ],
+      [
+        "B23Q16/00",
+        1
+      ],
+      [
+        "G05B19/12",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Positioning system for motor driven devices",
+      "Motor driven precision positioning device"
+    ]
+  },
+  {
+    "cluster_id": 121,
+    "size": 2,
+    "top_assignees": [
+      [
+        "BELL & HOWELL CO",
+        1
+      ],
+      [
+        "CLEVELAND TWIST DRILL CO",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P5/52",
+        1
+      ],
+      [
+        "H03K3/037",
+        1
+      ],
+      [
+        "G05B19/42",
+        1
+      ],
+      [
+        "G05B19/18",
+        1
+      ],
+      [
+        "H02P5/50",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Numerical control system",
+      "Machine tool control system"
+    ]
+  },
+  {
+    "cluster_id": 123,
+    "size": 2,
+    "top_assignees": [
+      [
+        "RICHMOND MOSCOW K",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/00",
+        2
+      ],
+      [
+        "G05D13/00",
+        2
+      ],
+      [
+        "H02P5/48",
+        1
+      ],
+      [
+        "H01H35/06",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Rotary speed-change-sensing mechanism",
+      "Rotary speed-change-sensing mechanism"
+    ]
+  },
+  {
+    "cluster_id": 122,
+    "size": 2,
+    "top_assignees": [
+      [
+        "AJINOMOTO KK",
+        1
+      ],
+      [
+        "RICHARD T FUJIOKA",
+        1
+      ],
+      [
+        "GERALD A WOOLDRIDGE",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P29/00",
+        2
+      ],
+      [
+        "B01D19/02",
+        1
+      ],
+      [
+        "B01J4/00",
+        1
+      ],
+      [
+        "B01F15/00",
+        1
+      ],
+      [
+        "E04B1/76",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Method for feeding an anti-foaming agent to a reaction vessel",
+      "Foaming apparatus and method"
+    ]
+  },
+  {
+    "cluster_id": 95,
+    "size": 2,
+    "top_assignees": [
+      [
+        "MARATHON OIL CO",
+        1
+      ],
+      [
+        "PHILIPS CORP",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/00",
+        2
+      ],
+      [
+        "G05B19/12",
+        1
+      ],
+      [
+        "G06K11/02",
+        1
+      ],
+      [
+        "H01L27/092",
+        1
+      ],
+      [
+        "H01L27/08",
+        1
+      ],
+      [
+        "H01L29/78",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Edge following device employing servosystem having bridge with complementary transistors",
+      "Integrated circuit with complementary MOS transistors"
+    ]
+  },
+  {
+    "cluster_id": 128,
+    "size": 2,
+    "top_assignees": [
+      [
+        "PHILIPS CORP",
+        1
+      ],
+      [
+        "BABICO JOHN",
+        1
+      ],
+      [
+        "MORRELL MICHAEL",
+        1
+      ],
+      [
+        "JIANG JIAN-PING",
+        1
+      ],
+      [
+        "BIOVIGILANT SYSTEMS INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H01J43/16",
+        1
+      ],
+      [
+        "H01J31/50",
+        1
+      ],
+      [
+        "H01J43/12",
+        1
+      ],
+      [
+        "H02P5/52",
+        1
+      ],
+      [
+        "H02P8/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Image intensifier including matrix of elongated electrodes for locating output signals geometrically",
+      "Pathogen and particle detector system and method"
+    ]
+  },
+  {
+    "cluster_id": 126,
+    "size": 2,
+    "top_assignees": [
+      [
+        "SIEMENS AG",
+        1
+      ],
+      [
+        "HITACHI LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        2
+      ],
+      [
+        "H02M7/00",
+        2
+      ],
+      [
+        "H01L23/40",
+        1
+      ],
+      [
+        "H01L25/03",
+        1
+      ],
+      [
+        "H05K7/20",
+        1
+      ],
+      [
+        "H02B1/56",
+        1
+      ],
+      [
+        "H02M7/04",
+        1
+      ],
+      [
+        "H05K7/14",
+        1
+      ],
+      [
+        "H02M7/48",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Support for mounting the electronic components of a single phase unit for an inverter",
+      "Electric apparatus having heat radiating fin"
+    ]
+  },
+  {
+    "cluster_id": 153,
+    "size": 2,
+    "top_assignees": [
+      [
+        "TSNIITMASH",
+        1
+      ],
+      [
+        "UNIV JIANGSU SCIENCE & TECH",
+        1
+      ],
+      [
+        "NANTONG DONGDE STEEL CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B23K9/16",
+        2
+      ],
+      [
+        "H02P3/12",
+        1
+      ],
+      [
+        "H02P7/28",
+        1
+      ],
+      [
+        "H02P3/14",
+        1
+      ],
+      [
+        "B23K9/173",
+        1
+      ],
+      [
+        "H02P3/08",
+        1
+      ],
+      [
+        "B23K9/02",
+        1
+      ],
+      [
+        "B23K9/29",
+        1
+      ],
+      [
+        "B23K9/26",
+        1
+      ],
+      [
+        "B60L7/04",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Torch for gas-shield arc welding in deep narrow groove",
+      "Swing/rotating gas metal arc welding torch and use method therefor"
+    ]
+  },
+  {
+    "cluster_id": 98,
+    "size": 2,
+    "top_assignees": [
+      [
+        "ITT",
+        1
+      ],
+      [
+        "ENPHASE ENERGY INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H01P5/20",
+        1
+      ],
+      [
+        "H02P7/34",
+        1
+      ],
+      [
+        "H01P5/19",
+        1
+      ],
+      [
+        "H01P3/08",
+        1
+      ],
+      [
+        "H02P13/06",
+        1
+      ],
+      [
+        "H02M5/10",
+        1
+      ],
+      [
+        "H02M5/16",
+        1
+      ],
+      [
+        "H01L29/20",
+        1
+      ],
+      [
+        "H01L29/778",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Broadband four-port TEM mode 180\u00b0 printed circuit microwave hybrid",
+      "Gallium nitride bi-directional high electron mobility transistor in switched-mode neutral forming device applications"
+    ]
+  },
+  {
+    "cluster_id": 124,
+    "size": 2,
+    "top_assignees": [
+      [
+        "ALLIED SIGNAL INC",
+        1
+      ],
+      [
+        "LINTEC CORP",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G05B5/01",
+        1
+      ],
+      [
+        "B01D71/56",
+        1
+      ],
+      [
+        "H02P29/00",
+        1
+      ],
+      [
+        "B01D71/58",
+        1
+      ],
+      [
+        "B01D/",
+        1
+      ],
+      [
+        "B01D69/12",
+        1
+      ],
+      [
+        "B01D67/00",
+        1
+      ],
+      [
+        "G05D17/02",
+        1
+      ],
+      [
+        "G05B13/02",
+        1
+      ],
+      [
+        "G01B7/30",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Chlorine-resistant semipermeable membranes",
+      "Solid electrolyte membrane with film and method for producing same"
+    ]
+  },
+  {
+    "cluster_id": 99,
+    "size": 2,
+    "top_assignees": [
+      [
+        "FANUC LTD",
+        2
+      ],
+      [
+        "ISOHATA SHIGERU",
+        1
+      ],
+      [
+        "YAMAZAKI OSAMU",
+        1
+      ],
+      [
+        "YUKUTOMO MASASHI",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P29/00",
+        2
+      ],
+      [
+        "G05B19/4069",
+        1
+      ],
+      [
+        "G01R13/04",
+        1
+      ],
+      [
+        "H02H1/00",
+        1
+      ],
+      [
+        "G05B23/02",
+        1
+      ],
+      [
+        "G05B19/19",
+        1
+      ],
+      [
+        "H02P23/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Servomotor controller having internal data display function",
+      "Servo waveform display system"
+    ]
+  },
+  {
+    "cluster_id": 74,
+    "size": 2,
+    "top_assignees": [
+      [
+        "BRAUN AG",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02M3/28",
+        2
+      ],
+      [
+        "H02M3/335",
+        2
+      ],
+      [
+        "H02P1/18",
+        1
+      ],
+      [
+        "H04M3/28",
+        1
+      ],
+      [
+        "H02P4/00",
+        1
+      ],
+      [
+        "H02M3/156",
+        1
+      ],
+      [
+        "H02J7/02",
+        1
+      ],
+      [
+        "H02P7/29",
+        1
+      ],
+      [
+        "H02J7/10",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        1
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Electronic switch supply unit",
+      "Switched-mode power supply"
+    ]
+  },
+  {
+    "cluster_id": 125,
+    "size": 2,
+    "top_assignees": [
+      [
+        "VICKERS INC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P29/00",
+        2
+      ],
+      [
+        "F04B17/03",
+        2
+      ],
+      [
+        "F04C14/08",
+        2
+      ],
+      [
+        "F04B1/20",
+        2
+      ],
+      [
+        "H02K7/14",
+        2
+      ],
+      [
+        "H02K5/12",
+        2
+      ],
+      [
+        "H02K9/19",
+        2
+      ],
+      [
+        "F04C15/00",
+        2
+      ],
+      [
+        "F04C11/00",
+        2
+      ],
+      [
+        "H02K11/30",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Electric motor driven inline hydraulic apparatus",
+      "Electric motor driven hydraulic apparatus with an integrated pump"
+    ]
+  },
+  {
+    "cluster_id": 78,
+    "size": 2,
+    "top_assignees": [
+      [
+        "DESERET LAB INC",
+        2
+      ],
+      [
+        "JOSMAN LAB INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "A61K9/00",
+        2
+      ],
+      [
+        "A23G4/04",
+        2
+      ],
+      [
+        "A23G4/02",
+        2
+      ],
+      [
+        "A23G4/06",
+        2
+      ],
+      [
+        "H02P5/00",
+        2
+      ],
+      [
+        "A23G4/18",
+        2
+      ],
+      [
+        "A23G4/12",
+        2
+      ],
+      [
+        "A23G4/00",
+        2
+      ],
+      [
+        "A23G7/02",
+        2
+      ],
+      [
+        "A61K9/20",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Process for manufacturing a pharmaceutical chewing gum",
+      "Process for preparing chewing gum containing a nutritional supplemental"
+    ]
+  },
+  {
+    "cluster_id": 100,
+    "size": 2,
+    "top_assignees": [
+      [
+        "VALEO CLIMATISATION",
+        1
+      ],
+      [
+        "ADEMCO INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B60H1/32",
+        1
+      ],
+      [
+        "B60H1/00",
+        1
+      ],
+      [
+        "H02P8/14",
+        1
+      ],
+      [
+        "H02P5/68",
+        1
+      ],
+      [
+        "H02P31/00",
+        1
+      ],
+      [
+        "H02P29/00",
+        1
+      ],
+      [
+        "G05D23/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Heating, ventilating and/or air conditioning device with at least one mobile element controlled by a single-pole motor",
+      "Determining rotation using sensor displaced from magnet"
+    ]
+  },
+  {
+    "cluster_id": 133,
+    "size": 2,
+    "top_assignees": [
+      [
+        "HITACHI LTD",
+        1
+      ],
+      [
+        "IWAJI YOSHITAKA",
+        1
+      ],
+      [
+        "AOYAMA YASUAKI",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P25/06",
+        2
+      ],
+      [
+        "H02K41/03",
+        2
+      ],
+      [
+        "H01L21/68",
+        1
+      ],
+      [
+        "H02K41/02",
+        1
+      ],
+      [
+        "G12B5/00",
+        1
+      ],
+      [
+        "B23Q5/28",
+        1
+      ],
+      [
+        "H02P5/00",
+        1
+      ],
+      [
+        "B23Q1/62",
+        1
+      ],
+      [
+        "H02P23/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "XYZ-axes table",
+      "Thrust generation mechanism, drive device, XY stage and XYZ stage"
+    ]
+  },
+  {
+    "cluster_id": 101,
+    "size": 2,
+    "top_assignees": [
+      [
+        "SILICON WORKS CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P25/02",
+        1
+      ],
+      [
+        "G11B5/012",
+        1
+      ],
+      [
+        "G05F1/46",
+        1
+      ],
+      [
+        "H02M3/07",
+        1
+      ],
+      [
+        "G11B5/55",
+        1
+      ],
+      [
+        "G11B5/596",
+        1
+      ],
+      [
+        "G11B5/00",
+        1
+      ],
+      [
+        "H03K17/16",
+        1
+      ],
+      [
+        "H02H3/20",
+        1
+      ],
+      [
+        "G05F1/10",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Charge pump based negative regulator with adjustable output current to allow reduction of switching noise",
+      "Heat dissipation circuit and regulator control circuit including the same"
+    ]
+  },
+  {
+    "cluster_id": 73,
+    "size": 2,
+    "top_assignees": [],
+    "top_ipc_groups": [
+      [
+        "H02K5/24",
+        2
+      ],
+      [
+        "H02K29/00",
+        2
+      ],
+      [
+        "H02P/",
+        2
+      ],
+      [
+        "H02K1/14",
+        2
+      ],
+      [
+        "H02K1/12",
+        1
+      ],
+      [
+        "H02K5/00",
+        1
+      ],
+      [
+        "H02K3/32",
+        1
+      ],
+      [
+        "H02K21/22",
+        1
+      ],
+      [
+        "H02K1/00",
+        1
+      ],
+      [
+        "H02K3/30",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Bldc motor for washing machine",
+      "Bldc motor for washing machine"
+    ]
+  },
+  {
+    "cluster_id": 79,
+    "size": 2,
+    "top_assignees": [
+      [
+        "CADEX ELECTRONICS",
+        1
+      ],
+      [
+        "BOSCH GMBH ROBERT",
+        1
+      ],
+      [
+        "SAMSUNG SDI CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G01R31/36",
+        2
+      ],
+      [
+        "G01R27/08",
+        1
+      ],
+      [
+        "H02P11/00",
+        1
+      ],
+      [
+        "H02H7/06",
+        1
+      ],
+      [
+        "G01R27/04",
+        1
+      ],
+      [
+        "H02P9/00",
+        1
+      ],
+      [
+        "B60L58/12",
+        1
+      ],
+      [
+        "G01D9/00",
+        1
+      ],
+      [
+        "B60L3/12",
+        1
+      ],
+      [
+        "H02P1/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Method and apparatus for battery testing",
+      "Method and apparatuses for authenticating measurement data for a battery"
+    ]
+  },
+  {
+    "cluster_id": 127,
+    "size": 2,
+    "top_assignees": [
+      [
+        "CRIBBS DANIEL F",
+        2
+      ],
+      [
+        "NOGGLE THOMAS L",
+        2
+      ],
+      [
+        "RUST THOMAS F",
+        2
+      ],
+      [
+        "STARK ROBERT N",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P7/06",
+        2
+      ],
+      [
+        "G11B9/04",
+        1
+      ],
+      [
+        "G11B9/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Methods for erasing bit cells in a high density data storage device",
+      "Systems for writing and reading highly resolved domains for high density data storage"
+    ]
+  },
+  {
+    "cluster_id": 88,
+    "size": 2,
+    "top_assignees": [
+      [
+        "ERCHONIA MEDICAL INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "E03C1/00",
+        2
+      ],
+      [
+        "F03B1/00",
+        2
+      ],
+      [
+        "A61N1/00",
+        2
+      ],
+      [
+        "C02F1/00",
+        2
+      ],
+      [
+        "H02K7/18",
+        2
+      ],
+      [
+        "F03B13/10",
+        2
+      ],
+      [
+        "F03B13/00",
+        2
+      ],
+      [
+        "H02P9/04",
+        2
+      ],
+      [
+        "C02F1/32",
+        2
+      ],
+      [
+        "A61N5/06",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Noninvasive method for site-specific fat reduction",
+      "Fat reduction using external laser radiation and niacin"
+    ]
+  },
+  {
+    "cluster_id": 81,
+    "size": 2,
+    "top_assignees": [
+      [
+        "NOJI TAKAYOSHI",
+        2
+      ],
+      [
+        "AKUTSU TOSHINORI",
+        1
+      ],
+      [
+        "OTSUKA HIROSHI",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G03B5/00",
+        2
+      ],
+      [
+        "H02P25/06",
+        2
+      ],
+      [
+        "H04N23/40",
+        1
+      ],
+      [
+        "H02K41/03",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Actuator, and lens unit and camera with the same",
+      "Actuator, and lens unit camera with the same"
+    ]
+  },
+  {
+    "cluster_id": 129,
+    "size": 2,
+    "top_assignees": [
+      [
+        "ELECTRICA S R L",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P1/24",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Voltmeter relay with improved terminal coupling",
+      "Voltmeter relay with built-in terminal board"
+    ]
+  },
+  {
+    "cluster_id": 103,
+    "size": 2,
+    "top_assignees": [
+      [
+        "LEWICKI JOHN",
+        1
+      ],
+      [
+        "SATYAL SANJEEV",
+        1
+      ],
+      [
+        "GURNEY AUSTIN",
+        1
+      ],
+      [
+        "HOEY TIMOTHY",
+        1
+      ],
+      [
+        "BOVA DAVID J",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "F02N11/06",
+        1
+      ],
+      [
+        "H02P9/04",
+        1
+      ],
+      [
+        "A61K31/455",
+        1
+      ],
+      [
+        "H01F30/12",
+        1
+      ],
+      [
+        "A61P3/06",
+        1
+      ],
+      [
+        "A61K9/20",
+        1
+      ],
+      [
+        "A61K31/44",
+        1
+      ],
+      [
+        "H02P27/02",
+        1
+      ],
+      [
+        "A61K9/22",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        1
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Compositions and methods for diagnosing and treating cancer",
+      "Nicotinic acid compositions for treating hyperlipidemia and related methods therefor"
+    ]
+  },
+  {
+    "cluster_id": 130,
+    "size": 2,
+    "top_assignees": [
+      [
+        "FLESSAS ANDY",
+        1
+      ],
+      [
+        "FLESSAS ANDREW",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P1/54",
+        2
+      ],
+      [
+        "G06F3/01",
+        1
+      ],
+      [
+        "H04N9/31",
+        1
+      ],
+      [
+        "G06F1/16",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Robotically controlled display",
+      "Robotically controlled entertainment elements"
+    ]
+  },
+  {
+    "cluster_id": 131,
+    "size": 2,
+    "top_assignees": [
+      [
+        "LIEBERMAN PAUL",
+        2
+      ],
+      [
+        "ENIS BEN M",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "F03B13/00",
+        2
+      ],
+      [
+        "H02P9/04",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Method of transporting and storing wind generated energy using a pipeline",
+      "An improved method of transporting and storing wind generated energy using a pipeline"
+    ]
+  },
+  {
+    "cluster_id": 102,
+    "size": 2,
+    "top_assignees": [
+      [
+        "SYMBOL TECHNOLOGIES INC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P1/00",
+        2
+      ],
+      [
+        "G06V30/224",
+        1
+      ],
+      [
+        "G06K7/14",
+        1
+      ],
+      [
+        "G06K7/10",
+        1
+      ],
+      [
+        "G08C21/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Dual camera assembly for an imaging-based bar code reader",
+      "Scanner and method for eliminating specular reflection"
+    ]
+  },
+  {
+    "cluster_id": 132,
+    "size": 2,
+    "top_assignees": [
+      [
+        "HARTMANN WERNER",
+        2
+      ],
+      [
+        "SIEMENS AG",
+        2
+      ],
+      [
+        "AHLF GERD",
+        2
+      ],
+      [
+        "VOGEL REINHARD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H01H33/66",
+        2
+      ],
+      [
+        "H02P6/00",
+        2
+      ],
+      [
+        "B63G8/08",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Electric direct current network for water vessels and for offshore units having increased shut-off security",
+      "Electric direct current network for water vessels and for offshore units"
+    ]
+  },
+  {
+    "cluster_id": 75,
+    "size": 2,
+    "top_assignees": [
+      [
+        "ZAHNRADFABRIK FRIEDRICHSHAFEN",
+        1
+      ],
+      [
+        "LATELEC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H04B1/10",
+        1
+      ],
+      [
+        "H02P6/16",
+        1
+      ],
+      [
+        "G01R23/02",
+        1
+      ],
+      [
+        "G06F17/13",
+        1
+      ],
+      [
+        "H02P23/14",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Method of detecting a useful signal",
+      "Method and system for processing a signal to extract a useful signal from a disturbed signal"
+    ]
+  },
+  {
+    "cluster_id": 104,
+    "size": 2,
+    "top_assignees": [
+      [
+        "ZOU XIANGUO",
+        1
+      ],
+      [
+        "CHEN JIANMIN",
+        1
+      ],
+      [
+        "XIAMEN SOLEX HIGH TECH INDUSTIRES CO LTD",
+        1
+      ],
+      [
+        "ZHOU HUASONG",
+        1
+      ],
+      [
+        "WU CHIEN-MING",
+        1
+      ],
+      [
+        "CHEN CHEN-CHIA",
+        1
+      ],
+      [
+        "HUANG CHUN-MING",
+        1
+      ],
+      [
+        "NAT APPLIED RES LABORATORIES",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B05B15/00",
+        1
+      ],
+      [
+        "G04B47/00",
+        1
+      ],
+      [
+        "B60Q1/00",
+        1
+      ],
+      [
+        "H02P9/00",
+        1
+      ],
+      [
+        "G01F1/00",
+        1
+      ],
+      [
+        "B05B12/00",
+        1
+      ],
+      [
+        "H02P9/02",
+        1
+      ],
+      [
+        "G01N25/00",
+        1
+      ],
+      [
+        "B05B1/18",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Clock shower head",
+      "Self-Powered Showerhead"
+    ]
+  },
+  {
+    "cluster_id": 134,
+    "size": 2,
+    "top_assignees": [
+      [
+        "HA YOUNG YOUL",
+        2
+      ],
+      [
+        "SAMSUNG HEAVY IND",
+        2
+      ],
+      [
+        "PARK YOUNG JUN",
+        2
+      ],
+      [
+        "KIM MIN SOO",
+        2
+      ],
+      [
+        "CHOI SEONG HUN",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P5/46",
+        2
+      ],
+      [
+        "G06F13/12",
+        1
+      ],
+      [
+        "H03K19/177",
+        1
+      ],
+      [
+        "G05B15/02",
+        1
+      ],
+      [
+        "G06F17/50",
+        1
+      ],
+      [
+        "H02P5/00",
+        1
+      ],
+      [
+        "H03K19/173",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Reconfigurable control system for controlling a target apparatus, and method for reconfiguration during operation of the control system",
+      "Control system that is reconfigurable during operation, and method therefor"
+    ]
+  },
+  {
+    "cluster_id": 136,
+    "size": 2,
+    "top_assignees": [
+      [
+        "SIEMENS AG",
+        2
+      ],
+      [
+        "HUETTEN VOLKER",
+        1
+      ],
+      [
+        "WAGNER NORBERT",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P23/04",
+        2
+      ],
+      [
+        "F16F15/18",
+        1
+      ],
+      [
+        "F16F15/10",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Avoidance of torsional excitations in converter-controlled compressor runs",
+      "Avoidance of continuous operation in frequency converter-stimulated torsion resonances of a compressor train"
+    ]
+  },
+  {
+    "cluster_id": 76,
+    "size": 2,
+    "top_assignees": [
+      [
+        "VRIJBURG FOLKERT",
+        1
+      ],
+      [
+        "BAX PIETER JOHANNES",
+        1
+      ],
+      [
+        "DE VRIES JOHANNES HOTZE BERNHARD",
+        1
+      ],
+      [
+        "KONINKL PHILIPS ELECTRONICS NV",
+        1
+      ],
+      [
+        "WESTRUP GERT",
+        1
+      ],
+      [
+        "SETAYESH SEPAS",
+        1
+      ],
+      [
+        "LEVELING JURRIAAN BERNHARD RUDOLF",
+        1
+      ],
+      [
+        "WATER PIK INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02K33/18",
+        2
+      ],
+      [
+        "H02P25/02",
+        1
+      ],
+      [
+        "H02K33/10",
+        1
+      ],
+      [
+        "H02K33/16",
+        1
+      ],
+      [
+        "A61C17/40",
+        1
+      ],
+      [
+        "A61C17/02",
+        1
+      ],
+      [
+        "A61C17/36",
+        1
+      ],
+      [
+        "H02P25/032",
+        1
+      ],
+      [
+        "A46B9/04",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Resonant actuator using magnetic action for a power toothbrush",
+      "Electric toothbrush with fluid streaming capability"
+    ]
+  },
+  {
+    "cluster_id": 135,
+    "size": 2,
+    "top_assignees": [
+      [
+        "TURNER LARRY A",
+        2
+      ],
+      [
+        "SCHNEIDER ELECTRIC USA INC",
+        2
+      ],
+      [
+        "GAO ZHI",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P23/14",
+        1
+      ],
+      [
+        "H02P3/14",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Complex adaptive phase estimation",
+      "Complex adaptive phase discriminator"
+    ]
+  },
+  {
+    "cluster_id": 96,
+    "size": 2,
+    "top_assignees": [
+      [
+        "OSWALD ELEKTROMOTOREN GMBH",
+        1
+      ],
+      [
+        "EBARA CORP",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02K55/00",
+        1
+      ],
+      [
+        "H02P27/08",
+        1
+      ],
+      [
+        "H02K55/04",
+        1
+      ],
+      [
+        "H02K1/02",
+        1
+      ],
+      [
+        "H02P25/22",
+        1
+      ],
+      [
+        "H02K19/12",
+        1
+      ],
+      [
+        "H02K1/24",
+        1
+      ],
+      [
+        "H02P27/06",
+        1
+      ],
+      [
+        "H02K19/36",
+        1
+      ],
+      [
+        "H02K1/14",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Current curve for a superconducting electrical machine",
+      "Superconducting motor and motor system"
+    ]
+  },
+  {
+    "cluster_id": 147,
+    "size": 2,
+    "top_assignees": [
+      [
+        "SIKORSKY AIRCRAFT CORP",
+        1
+      ],
+      [
+        "MOOG INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "F01D5/02",
+        1
+      ],
+      [
+        "H02K7/04",
+        1
+      ],
+      [
+        "H02P5/52",
+        1
+      ],
+      [
+        "F16F7/10",
+        1
+      ],
+      [
+        "H02P5/51",
+        1
+      ],
+      [
+        "B64D27/24",
+        1
+      ],
+      [
+        "F16F15/22",
+        1
+      ],
+      [
+        "B64C27/00",
+        1
+      ],
+      [
+        "B64D31/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Dual frequency hub mounted vibration suppressor system",
+      "Variable rotary pendulous mass vibration suppression system"
+    ]
+  },
+  {
+    "cluster_id": 82,
+    "size": 2,
+    "top_assignees": [
+      [
+        "TRIDONIC GMBH & CO KG",
+        1
+      ],
+      [
+        "SIGNIFY HOLDING BV",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P21/14",
+        2
+      ],
+      [
+        "H05B41/282",
+        1
+      ],
+      [
+        "H05B41/28",
+        1
+      ],
+      [
+        "H05B37/02",
+        1
+      ],
+      [
+        "H02M1/42",
+        1
+      ],
+      [
+        "H05B44/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        1
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Method for controlling a power factor correction circuit, power factor correction circuit and operating device for a lamp",
+      "Converter with control loop"
+    ]
+  },
+  {
+    "cluster_id": 139,
+    "size": 2,
+    "top_assignees": [
+      [
+        "LAB CORP AMERICA HOLDINGS",
+        1
+      ],
+      [
+        "EINSTEIN COLL MED",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        1
+      ],
+      [
+        "H02K11/00",
+        1
+      ],
+      [
+        "H02P9/02",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Methods for determining viral sensitivity to viral inhibitors",
+      "Recombinant herpes simplex virus 2 (hsv-2) vaccine vectors"
+    ]
+  },
+  {
+    "cluster_id": 137,
+    "size": 2,
+    "top_assignees": [
+      [
+        "HITACHI IND EQUIPMENT SYS",
+        1
+      ],
+      [
+        "HITACHI INDUSTRY EQUIPMENT SYSTEMS CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02K9/04",
+        1
+      ],
+      [
+        "H02K11/00",
+        1
+      ],
+      [
+        "H02K5/20",
+        1
+      ],
+      [
+        "H02K9/06",
+        1
+      ],
+      [
+        "H02P27/06",
+        1
+      ],
+      [
+        "H02H7/085",
+        1
+      ],
+      [
+        "H02P29/64",
+        1
+      ],
+      [
+        "H02K5/22",
+        1
+      ],
+      [
+        "H02K11/25",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Rotating electric machine assembly body",
+      "Rotary electric machine and rotary electric machine assembly"
+    ]
+  },
+  {
+    "cluster_id": 138,
+    "size": 2,
+    "top_assignees": [
+      [
+        "YASKAWA DENKI SEISAKUSHO KK",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G01D5/347",
+        2
+      ],
+      [
+        "H02P29/00",
+        2
+      ],
+      [
+        "G05B1/04",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Encoder, motor with encoder, and servo system",
+      "Encoder, motor with encoder, and servo system"
+    ]
+  },
+  {
+    "cluster_id": 70,
+    "size": 2,
+    "top_assignees": [
+      [
+        "JOHNSON ELECTRIC SA",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02M7/48",
+        2
+      ],
+      [
+        "H02M7/217",
+        2
+      ],
+      [
+        "H02M7/219",
+        2
+      ],
+      [
+        "H02M1/00",
+        1
+      ],
+      [
+        "H02P6/08",
+        1
+      ],
+      [
+        "H02P6/06",
+        1
+      ],
+      [
+        "H02M7/12",
+        1
+      ],
+      [
+        "H02P27/04",
+        1
+      ],
+      [
+        "H02M5/44",
+        1
+      ],
+      [
+        "H02P27/06",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Power converting circuit",
+      "Power converting circuit"
+    ]
+  },
+  {
+    "cluster_id": 90,
+    "size": 2,
+    "top_assignees": [
+      [
+        "BOOKLEAF PTY LTD",
+        1
+      ],
+      [
+        "HITACHI CONSTRUCTION MACH CO",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G05D7/06",
+        1
+      ],
+      [
+        "H01H47/22",
+        1
+      ],
+      [
+        "H02P13/00",
+        1
+      ],
+      [
+        "G05D11/02",
+        1
+      ],
+      [
+        "B60L50/60",
+        1
+      ],
+      [
+        "H02J7/00",
+        1
+      ],
+      [
+        "E02F9/20",
+        1
+      ],
+      [
+        "B60L58/22",
+        1
+      ],
+      [
+        "H02P27/06",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        1
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Battery management system and method and battery powered appliance incorporating the same",
+      "Construction machine"
+    ]
+  },
+  {
+    "cluster_id": 140,
+    "size": 2,
+    "top_assignees": [
+      [
+        "OREAL",
+        1
+      ],
+      [
+        "WONG SUK PING",
+        1
+      ],
+      [
+        "SKIDMORE JOSEPH ERIC",
+        1
+      ],
+      [
+        "LATTANZI ELISABETH KATHRYN",
+        1
+      ],
+      [
+        "CROCBIRD INNOVATION",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02K1/14",
+        1
+      ],
+      [
+        "H02K1/34",
+        1
+      ],
+      [
+        "H02P7/00",
+        1
+      ],
+      [
+        "H02K33/16",
+        1
+      ],
+      [
+        "A46B13/02",
+        1
+      ],
+      [
+        "H02P25/032",
+        1
+      ],
+      [
+        "H02K33/00",
+        1
+      ],
+      [
+        "B26B19/28",
+        1
+      ],
+      [
+        "A61C17/34",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Oscillating motor for a personal care appliance",
+      "A planar oscillation motor for handheld appliances and handheld appliances comprising the same"
+    ]
+  },
+  {
+    "cluster_id": 150,
+    "size": 2,
+    "top_assignees": [
+      [
+        "UNIVERSAL CITY STUDIOS LLC",
+        1
+      ],
+      [
+        "B & R IND AUTOMATION GMBH",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P6/00",
+        2
+      ],
+      [
+        "H02K41/03",
+        2
+      ],
+      [
+        "H02K7/09",
+        1
+      ],
+      [
+        "B60L15/00",
+        1
+      ],
+      [
+        "B60L13/03",
+        1
+      ],
+      [
+        "H02K11/215",
+        1
+      ],
+      [
+        "H02P25/064",
+        1
+      ],
+      [
+        "B65G23/19",
+        1
+      ],
+      [
+        "H02P6/16",
+        1
+      ],
+      [
+        "H02K41/02",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        1
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Systems and methods for braking or launching a ride vehicle",
+      "Transport unit for a long stator linear motor"
+    ]
+  },
+  {
+    "cluster_id": 83,
+    "size": 2,
+    "top_assignees": [
+      [
+        "ST MICROELECTRONICS INC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G02B27/64",
+        2
+      ],
+      [
+        "H02K41/035",
+        2
+      ],
+      [
+        "H02P7/025",
+        2
+      ],
+      [
+        "H04N5/225",
+        1
+      ],
+      [
+        "G03B5/00",
+        1
+      ],
+      [
+        "H04N5/232",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Optical image stabilization actuator driver power distribution control",
+      "Optical image stabilization actuator driver power distribution control"
+    ]
+  },
+  {
+    "cluster_id": 141,
+    "size": 2,
+    "top_assignees": [
+      [
+        "MITSUBISHI HEAVY IND THERMAL SYSTEMS LTD",
+        1
+      ],
+      [
+        "MITSUBISHI HEAVY IND AUTOMOTIVE THERMAL SYS CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        2
+      ],
+      [
+        "F04B35/04",
+        1
+      ],
+      [
+        "H05K1/02",
+        1
+      ],
+      [
+        "H02M3/335",
+        1
+      ],
+      [
+        "H02M7/48",
+        1
+      ],
+      [
+        "H02K11/33",
+        1
+      ],
+      [
+        "F04B39/12",
+        1
+      ],
+      [
+        "F04B39/00",
+        1
+      ],
+      [
+        "H02M7/00",
+        1
+      ],
+      [
+        "H02M1/44",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Power conversion circuit board, and electric compressor",
+      "Power conversion circuit board and electric compressor"
+    ]
+  },
+  {
+    "cluster_id": 110,
+    "size": 2,
+    "top_assignees": [
+      [
+        "SYSTEMS MACHINES AUTOMATION COMPONENTS CORP",
+        1
+      ],
+      [
+        "EHANG INTELLIGENT EQUIPMENT GUANGZHOU CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02K11/33",
+        2
+      ],
+      [
+        "H02K41/03",
+        1
+      ],
+      [
+        "H02K11/22",
+        1
+      ],
+      [
+        "G01D5/347",
+        1
+      ],
+      [
+        "H02P7/02",
+        1
+      ],
+      [
+        "B64C13/50",
+        1
+      ],
+      [
+        "H02P6/08",
+        1
+      ],
+      [
+        "H02P6/17",
+        1
+      ],
+      [
+        "H02K7/06",
+        1
+      ],
+      [
+        "H02K11/215",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Apparatus and methods for linear actuator with piston assembly having an integrated controller and encoder",
+      "Linear actuator integrated with gear nonius encoder and control method therefor"
+    ]
+  },
+  {
+    "cluster_id": 148,
+    "size": 2,
+    "top_assignees": [
+      [
+        "YASKAWA ELECTRIC CORP",
+        1
+      ],
+      [
+        "TOYOTA MOTOR CO LTD",
+        1
+      ],
+      [
+        "YAZAKI CORP",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        1
+      ],
+      [
+        "H02M1/14",
+        1
+      ],
+      [
+        "H01F27/06",
+        1
+      ],
+      [
+        "H02M7/00",
+        1
+      ],
+      [
+        "H02M1/12",
+        1
+      ],
+      [
+        "H05K1/02",
+        1
+      ],
+      [
+        "H01F27/28",
+        1
+      ],
+      [
+        "H01F17/04",
+        1
+      ],
+      [
+        "B60R16/02",
+        1
+      ],
+      [
+        "H03H1/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Noise filter, circuit substrate, and power converter",
+      "Noise filter and noise reduction unit"
+    ]
+  },
+  {
+    "cluster_id": 77,
+    "size": 2,
+    "top_assignees": [
+      [
+        "HYUNDAI MOBIS CO LTD",
+        1
+      ],
+      [
+        "CHONGQING JINKANG NEW ENERGY VEHICLE CO LTD",
+        1
+      ],
+      [
+        "SF MOTORS INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B60K6/22",
+        1
+      ],
+      [
+        "H02P27/08",
+        1
+      ],
+      [
+        "B60L11/18",
+        1
+      ],
+      [
+        "H02P27/06",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Converter for hybrid electric vehicle system",
+      "Power converter for electric vehicle drive systems"
+    ]
+  },
+  {
+    "cluster_id": 142,
+    "size": 2,
+    "top_assignees": [
+      [
+        "WRIGHTSPEED INC",
+        1
+      ],
+      [
+        "CAMERON INT CORP",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "F16H63/04",
+        1
+      ],
+      [
+        "F16H61/02",
+        1
+      ],
+      [
+        "F16H3/66",
+        1
+      ],
+      [
+        "F16H63/50",
+        1
+      ],
+      [
+        "F15B15/14",
+        1
+      ],
+      [
+        "F16H63/30",
+        1
+      ],
+      [
+        "H02P17/00",
+        1
+      ],
+      [
+        "H02P29/024",
+        1
+      ],
+      [
+        "F16H3/54",
+        1
+      ],
+      [
+        "E21B19/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Gearboxes with compound planet gears and methods of operating thereof",
+      "Motor assembly for drawworks systems and methods"
+    ]
+  },
+  {
+    "cluster_id": 146,
+    "size": 2,
+    "top_assignees": [
+      [
+        "BROSE FAHRZUEGTEILE GMBH & CO KG WUERZBURG",
+        1
+      ],
+      [
+        "BROSE FAHRZEUGTEILE",
+        1
+      ],
+      [
+        "EATON INTELLIGENT POWER LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02K11/25",
+        2
+      ],
+      [
+        "H01H85/02",
+        1
+      ],
+      [
+        "H01H85/36",
+        1
+      ],
+      [
+        "H02K11/33",
+        1
+      ],
+      [
+        "H02K1/27",
+        1
+      ],
+      [
+        "H02P6/16",
+        1
+      ],
+      [
+        "H02K7/14",
+        1
+      ],
+      [
+        "H02P27/06",
+        1
+      ],
+      [
+        "H02H7/085",
+        1
+      ],
+      [
+        "H02P3/06",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Electric motor comprising a thermal fuse",
+      "Thermal limiter fuse system for electric motor protection"
+    ]
+  },
+  {
+    "cluster_id": 143,
+    "size": 2,
+    "top_assignees": [
+      [
+        "SZ DJI OSMO TECHNOLOGY CO LTD",
+        1
+      ],
+      [
+        "SZ DJI TECHNOLOGY CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G03B17/56",
+        2
+      ],
+      [
+        "H02P6/28",
+        1
+      ],
+      [
+        "F16M13/04",
+        1
+      ],
+      [
+        "G03B17/00",
+        1
+      ],
+      [
+        "G05D17/02",
+        1
+      ],
+      [
+        "H02P6/08",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Method, device, and apparatus for gimbal parameter adjustment",
+      "Gimbal control method and device"
+    ]
+  },
+  {
+    "cluster_id": 89,
+    "size": 2,
+    "top_assignees": [
+      [
+        "KEIHIN CORP",
+        1
+      ],
+      [
+        "DENSO CORP",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02M7/00",
+        2
+      ],
+      [
+        "H05K1/18",
+        2
+      ],
+      [
+        "H05K3/34",
+        1
+      ],
+      [
+        "H02P27/06",
+        1
+      ],
+      [
+        "H01L23/495",
+        1
+      ],
+      [
+        "H01L23/373",
+        1
+      ],
+      [
+        "H01L23/00",
+        1
+      ],
+      [
+        "H02M7/537",
+        1
+      ],
+      [
+        "H01L21/48",
+        1
+      ],
+      [
+        "H02K11/33",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Power conversion apparatus and method for manufacturing the same",
+      "Power conversion apparatus and method of producing the same"
+    ]
+  },
+  {
+    "cluster_id": 144,
+    "size": 2,
+    "top_assignees": [
+      [
+        "TOYOTA MOTOR CO LTD",
+        1
+      ],
+      [
+        "DENSO CORP",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/06",
+        2
+      ],
+      [
+        "H02M7/00",
+        2
+      ],
+      [
+        "H02M1/32",
+        1
+      ],
+      [
+        "H05K7/14",
+        1
+      ],
+      [
+        "H05K7/20",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Electric power conversion device for providing a stabilized potential to a cooler",
+      "Electric power conversion device"
+    ]
+  },
+  {
+    "cluster_id": 92,
+    "size": 2,
+    "top_assignees": [
+      [
+        "INTELESOL LLC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G01R19/25",
+        2
+      ],
+      [
+        "H05B47/10",
+        2
+      ],
+      [
+        "H02J3/00",
+        2
+      ],
+      [
+        "G05F1/66",
+        2
+      ],
+      [
+        "H02P27/04",
+        2
+      ],
+      [
+        "H02J13/00",
+        2
+      ],
+      [
+        "H02M7/217",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Load identifying AC power supply with control and methods",
+      "Load identifying AC power supply with control and methods"
+    ]
+  },
+  {
+    "cluster_id": 145,
+    "size": 2,
+    "top_assignees": [
+      [
+        "VERB SURGICAL INC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G01L1/14",
+        1
+      ],
+      [
+        "A61B34/30",
+        1
+      ],
+      [
+        "H02K7/116",
+        1
+      ],
+      [
+        "A61B90/00",
+        1
+      ],
+      [
+        "A61B34/00",
+        1
+      ],
+      [
+        "H02K11/24",
+        1
+      ],
+      [
+        "B25J15/00",
+        1
+      ],
+      [
+        "H02P6/16",
+        1
+      ],
+      [
+        "A61B17/00",
+        1
+      ],
+      [
+        "H02K29/08",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Tool driver with linear drives for use in robotic surgery",
+      "Engagement, homing, and control of robotics surgical instrument"
+    ]
+  },
+  {
+    "cluster_id": 80,
+    "size": 2,
+    "top_assignees": [
+      [
+        "MCI MIRROR CONTROLS INT NETHERLANDS B V",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B60K11/08",
+        2
+      ],
+      [
+        "H02P7/00",
+        2
+      ],
+      [
+        "B60R16/023",
+        1
+      ],
+      [
+        "B62D35/00",
+        1
+      ],
+      [
+        "H02P5/68",
+        1
+      ],
+      [
+        "B60R16/03",
+        1
+      ],
+      [
+        "B60W10/30",
+        1
+      ],
+      [
+        "B60W50/04",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Control module for adjusting flaps of a vehicle",
+      "Control module for adjusting flaps of a vehicle"
+    ]
+  },
+  {
+    "cluster_id": 149,
+    "size": 2,
+    "top_assignees": [
+      [
+        "INTELESOL LLC",
+        1
+      ],
+      [
+        "AMBER SOLUTIONS INC",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02M1/08",
+        2
+      ],
+      [
+        "H05B45/10",
+        2
+      ],
+      [
+        "H03K17/687",
+        1
+      ],
+      [
+        "H05B45/325",
+        1
+      ],
+      [
+        "H02P27/04",
+        1
+      ],
+      [
+        "H05B45/37",
+        1
+      ],
+      [
+        "H05B45/50",
+        1
+      ],
+      [
+        "H02P29/00",
+        1
+      ],
+      [
+        "H02M7/06",
+        1
+      ],
+      [
+        "H02M3/335",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Electronic switch and dimmer",
+      "Two-wire electronic switch and dimmer"
+    ]
+  },
+  {
+    "cluster_id": 105,
+    "size": 2,
+    "top_assignees": [
+      [
+        "TOYOTA MOTOR CO LTD",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P27/08",
+        2
+      ],
+      [
+        "H02M1/00",
+        2
+      ],
+      [
+        "H02M3/158",
+        2
+      ],
+      [
+        "H02M1/32",
+        1
+      ],
+      [
+        "H02J1/10",
+        1
+      ],
+      [
+        "H02M3/155",
+        1
+      ],
+      [
+        "H02M7/48",
+        1
+      ],
+      [
+        "H02M1/08",
+        1
+      ],
+      [
+        "H02M7/5395",
+        1
+      ],
+      [
+        "B60L50/60",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Power converter with trench and planar transistors to improve efficiency",
+      "Bidirectional power converter, electric vehicle, and control method for bidirectional power converter"
+    ]
+  },
+  {
+    "cluster_id": 71,
+    "size": 2,
+    "top_assignees": [
+      [
+        "FORD GLOBAL TECH LLC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B60H1/00",
+        2
+      ],
+      [
+        "G06K9/46",
+        2
+      ],
+      [
+        "H02P1/04",
+        2
+      ],
+      [
+        "B60S1/08",
+        2
+      ],
+      [
+        "G06K9/52",
+        1
+      ],
+      [
+        "G06K9/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Imaging system",
+      "Imaging system"
+    ]
+  },
+  {
+    "cluster_id": 106,
+    "size": 2,
+    "top_assignees": [
+      [
+        "NTN TOYO BEARING CO LTD",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02J1/00",
+        2
+      ],
+      [
+        "H02H9/04",
+        2
+      ],
+      [
+        "H02J3/38",
+        1
+      ],
+      [
+        "H02P9/00",
+        1
+      ],
+      [
+        "H02P101/15",
+        1
+      ],
+      [
+        "H02P3/12",
+        1
+      ],
+      [
+        "H02H7/06",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Electric power consuming device and direct-current power feeding system equipped with same",
+      "Power consumption device, and dc power supply system comprising same"
+    ]
+  },
+  {
+    "cluster_id": 91,
+    "size": 2,
+    "top_assignees": [
+      [
+        "BOSCH GMBH ROBERT",
+        1
+      ],
+      [
+        "NUVOTON TECHNOLOGY CORP",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P29/68",
+        2
+      ],
+      [
+        "H02P27/08",
+        1
+      ],
+      [
+        "H02P29/60",
+        1
+      ],
+      [
+        "H02P29/032",
+        1
+      ],
+      [
+        "H02M1/32",
+        1
+      ],
+      [
+        "H03K17/08",
+        1
+      ],
+      [
+        "H02H5/04",
+        1
+      ],
+      [
+        "H03K17/0812",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        1
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Method for operating a dc-ac converter, control device for a dc-ac converter, and dc-ac converter",
+      "Power driving chip and method thereof"
+    ]
+  },
+  {
+    "cluster_id": 151,
+    "size": 2,
+    "top_assignees": [
+      [
+        "MITSUBISHI HEAVY IND LTD",
+        1
+      ],
+      [
+        "CRRC YONGJI ELECTRIC CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P9/04",
+        1
+      ],
+      [
+        "G05B13/04",
+        1
+      ],
+      [
+        "H02P9/00",
+        1
+      ],
+      [
+        "H02P6/10",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Power generation facility evaluating device, power generation facility evaluating system, power generation facility evaluating method, and computer program product",
+      "Pulse width modulation index evaluation method, apparatus, device and storage medium"
+    ]
+  },
+  {
+    "cluster_id": 107,
+    "size": 2,
+    "top_assignees": [
+      [
+        "FANUC CORP",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G05D16/08",
+        1
+      ],
+      [
+        "H02P7/00",
+        1
+      ],
+      [
+        "G05D13/30",
+        1
+      ],
+      [
+        "G05D13/00",
+        1
+      ],
+      [
+        "H02P29/68",
+        1
+      ],
+      [
+        "B23Q1/38",
+        1
+      ],
+      [
+        "F16C32/06",
+        1
+      ],
+      [
+        "H02P29/00",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Processing machine and pressure adjustment method",
+      "Machine tool and method for controlling machine tool"
+    ]
+  },
+  {
+    "cluster_id": 152,
+    "size": 2,
+    "top_assignees": [
+      [
+        "MURATA MANUFACTURING CO",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H01F41/12",
+        2
+      ],
+      [
+        "H01F41/04",
+        2
+      ],
+      [
+        "H01F27/28",
+        2
+      ],
+      [
+        "H01F41/02",
+        2
+      ],
+      [
+        "H01F27/02",
+        2
+      ],
+      [
+        "H01F27/24",
+        2
+      ],
+      [
+        "H02P27/08",
+        1
+      ],
+      [
+        "H01F41/064",
+        1
+      ],
+      [
+        "H02P27/04",
+        1
+      ],
+      [
+        "H01F27/06",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Surface-mounted magnetic-component module",
+      "Surface-mounted magnetic-component module"
+    ]
+  },
+  {
+    "cluster_id": 154,
+    "size": 2,
+    "top_assignees": [
+      [
+        "SAMSUNG ELECTRONICS CO LTD",
+        1
+      ],
+      [
+        "BOE TECHNOLOGY GROUP CO LTD",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H05K5/02",
+        2
+      ],
+      [
+        "H05K5/00",
+        1
+      ],
+      [
+        "H02P23/18",
+        1
+      ],
+      [
+        "G01P15/18",
+        1
+      ],
+      [
+        "H02P8/34",
+        1
+      ],
+      [
+        "G06F1/16",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Display apparatus and control method thereof",
+      "Display apparatus, display panel movement control method and apparatus, medium, and device"
+    ]
+  },
+  {
+    "cluster_id": 72,
+    "size": 2,
+    "top_assignees": [
+      [
+        "PROXIHEALTHCARE INC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P25/032",
+        2
+      ],
+      [
+        "H02J7/00",
+        2
+      ],
+      [
+        "A46B9/04",
+        2
+      ],
+      [
+        "A46B15/00",
+        2
+      ],
+      [
+        "A61C17/22",
+        1
+      ],
+      [
+        "A61C17/34",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Electric toothbrush",
+      "Electric toothbrush having conductive bristles"
+    ]
+  },
+  {
+    "cluster_id": 109,
+    "size": 2,
+    "top_assignees": [
+      [
+        "APPLE INC",
+        1
+      ],
+      [
+        "SAPUPPO MICHELE S",
+        1
+      ],
+      [
+        "STERANKA PAUL",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G06F3/01",
+        1
+      ],
+      [
+        "H02P5/50",
+        1
+      ],
+      [
+        "G01C19/00",
+        1
+      ],
+      [
+        "F03G3/08",
+        1
+      ],
+      [
+        "G01C19/02",
+        1
+      ],
+      [
+        "H02K7/02",
+        1
+      ],
+      [
+        "H02P25/024",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Gyroscopic precession engine for wearable devices",
+      "Centrifugal gyroscopic devices, and associated systems and methods"
+    ]
+  },
+  {
+    "cluster_id": 108,
+    "size": 2,
+    "top_assignees": [
+      [
+        "UNIV JIANGSU",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P21/14",
+        2
+      ],
+      [
+        "H02P21/05",
+        2
+      ],
+      [
+        "H02P25/22",
+        1
+      ],
+      [
+        "H02P29/028",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        1
+      ],
+      [
+        "WO",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Low-vibration fault-tolerant current algorithm for open-phase faults of six-phase permanent magnet motors",
+      "Low-vibration fault-tolerant current calculation method for open-phase fault of six-phase permanent magnet motor"
+    ]
+  },
+  {
+    "cluster_id": 93,
+    "size": 2,
+    "top_assignees": [
+      [
+        "VIBROSYSTM INC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "G01R31/34",
+        2
+      ],
+      [
+        "G16Y30/00",
+        2
+      ],
+      [
+        "H04L67/025",
+        2
+      ],
+      [
+        "H02P31/00",
+        2
+      ],
+      [
+        "G16Y40/35",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "System and method for managing monitoring equipment of a large electric machine",
+      "System and method for managing monitoring equipment of a large electric machine"
+    ]
+  },
+  {
+    "cluster_id": 94,
+    "size": 2,
+    "top_assignees": [
+      [
+        "ARCHER AVIATION INC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02K5/20",
+        2
+      ],
+      [
+        "F16B2/06",
+        2
+      ],
+      [
+        "H02K5/124",
+        2
+      ],
+      [
+        "H02K1/27",
+        2
+      ],
+      [
+        "H02K9/19",
+        2
+      ],
+      [
+        "H02K7/08",
+        2
+      ],
+      [
+        "H02P21/00",
+        2
+      ],
+      [
+        "H02K15/03",
+        2
+      ],
+      [
+        "H02P27/08",
+        2
+      ],
+      [
+        "H02K7/00",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Systems and methods for improved gearboxes for evtol aircraft",
+      "Systems and methods for oil maintenance in gearboxes for eVTOL aircraft"
+    ]
+  },
+  {
+    "cluster_id": 156,
+    "size": 2,
+    "top_assignees": [
+      [
+        "BORGWARNER US TECH LLC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H01L23/367",
+        2
+      ],
+      [
+        "H02M7/00",
+        2
+      ],
+      [
+        "H01L23/473",
+        2
+      ],
+      [
+        "H02M1/00",
+        2
+      ],
+      [
+        "B60L50/40",
+        2
+      ],
+      [
+        "H02M7/537",
+        2
+      ],
+      [
+        "B60L15/00",
+        2
+      ],
+      [
+        "G06F1/08",
+        2
+      ],
+      [
+        "H01L23/538",
+        2
+      ],
+      [
+        "H01L25/00",
+        2
+      ]
+    ],
+    "country_mix": [
+      [
+        "US",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "Systems and methods for cooling system and power module for inverter for electric vehicle",
+      "Systems and methods for cooling system and power module for inverter for electric vehicle"
+    ]
+  },
+  {
+    "cluster_id": 155,
+    "size": 2,
+    "top_assignees": [
+      [
+        "SHENZHEN ZHUJI POWER TECH CO LTD",
+        1
+      ],
+      [
+        "RN CHIDAKASHI TECH PRIVATE LIMITED",
+        1
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "H02P6/16",
+        1
+      ],
+      [
+        "B25J19/00",
+        1
+      ],
+      [
+        "H02J9/00",
+        1
+      ],
+      [
+        "H02P23/14",
+        1
+      ],
+      [
+        "H02P23/00",
+        1
+      ],
+      [
+        "B60L15/20",
+        1
+      ],
+      [
+        "A63H11/00",
+        1
+      ],
+      [
+        "B60L3/00",
+        1
+      ],
+      [
+        "A63H29/22",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        1
+      ],
+      [
+        "US",
+        1
+      ]
+    ],
+    "sample_titles": [
+      "Device configured with position detection function, robot, and position detection method",
+      "Robot companion device for adjusting motor behaviour across different surfaces and usage patterns of motor"
+    ]
+  },
+  {
+    "cluster_id": 157,
+    "size": 2,
+    "top_assignees": [
+      [
+        "APPLIED MATERIALS INC",
+        2
+      ]
+    ],
+    "top_ipc_groups": [
+      [
+        "B65G49/06",
+        2
+      ],
+      [
+        "H02P25/06",
+        2
+      ],
+      [
+        "H01L21/677",
+        2
+      ],
+      [
+        "B65G54/02",
+        2
+      ],
+      [
+        "H01L21/67",
+        2
+      ],
+      [
+        "H02K41/02",
+        2
+      ],
+      [
+        "G01B7/02",
+        1
+      ],
+      [
+        "G01G23/18",
+        1
+      ]
+    ],
+    "country_mix": [
+      [
+        "WO",
+        2
+      ]
+    ],
+    "sample_titles": [
+      "A magnetic sensor assembly for a substrate process station",
+      "Identifying and weighing carriers in a substrate processing system"
+    ]
+  }
+]

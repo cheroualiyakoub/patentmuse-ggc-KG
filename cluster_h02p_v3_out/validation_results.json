@@ -1,0 +1,79 @@
+{
+  "scope": {
+    "subclass": "H02P",
+    "countries": [
+      "US",
+      "WO"
+    ],
+    "n_reps": 55994
+  },
+  "test_frac": 0.2,
+  "n_test_edges": 26019,
+  "split_seed": 1234,
+  "results": [
+    {
+      "method": "Leiden \u03b3=0.3 (coarse_03)",
+      "k": 1814,
+      "mean_size": 30.9,
+      "containment": 0.8131,
+      "null": 0.345512,
+      "lift": 2.35
+    },
+    {
+      "method": "Leiden \u03b3=0.5 (l1)",
+      "k": 1821,
+      "mean_size": 30.7,
+      "containment": 0.7123,
+      "null": 0.204891,
+      "lift": 3.48
+    },
+    {
+      "method": "Leiden \u03b3=1.0 (l2)",
+      "k": 1830,
+      "mean_size": 30.6,
+      "containment": 0.637,
+      "null": 0.096332,
+      "lift": 6.61
+    },
+    {
+      "method": "Leiden \u03b3=2.0 (l3)",
+      "k": 1838,
+      "mean_size": 30.5,
+      "containment": 0.5061,
+      "null": 0.027356,
+      "lift": 18.5
+    },
+    {
+      "method": "IPC main-group (H02Pxx)",
+      "k": 1545,
+      "mean_size": 36.2,
+      "containment": 0.2556,
+      "null": 0.040479,
+      "lift": 6.31
+    },
+    {
+      "method": "IPC full-group",
+      "k": 4639,
+      "mean_size": 12.1,
+      "containment": 0.0842,
+      "null": 0.00564,
+      "lift": 14.94
+    },
+    {
+      "method": "Random (k\u22481814, matched \u03b3=0.3)",
+      "k": 1814,
+      "mean_size": 30.9,
+      "containment": 0.0005,
+      "null": 0.000551,
+      "lift": 0.98
+    },
+    {
+      "method": "Random (k\u22481830, matched \u03b3=1.0)",
+      "k": 1830,
+      "mean_size": 30.6,
+      "containment": 0.0006,
+      "null": 0.000546,
+      "lift": 1.06
+    }
+  ]
+}
